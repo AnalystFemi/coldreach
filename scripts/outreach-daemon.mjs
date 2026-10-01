@@ -1,12 +1,25 @@
 import fs from 'fs';
 import path from 'path';
-import dotenv from 'dotenv';
 import { dispatchNextEligibleLead } from '../src/lib/scheduler.js';
 
-// Load .env.local
+// Load .env.local if present (zero-dependency parser)
 const envPath = path.join(process.cwd(), '.env.local');
 if (fs.existsSync(envPath)) {
-  dotenv.config({ path: envPath });
+  try {
+    const lines = fs.readFileSync(envPath, 'utf-8').split('\n');
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const idx = trimmed.indexOf('=');
+      if (idx !== -1) {
+        const key = trimmed.slice(0, idx).trim();
+        const val = trimmed.slice(idx + 1).trim().replace(/^["']|["']$/g, '');
+        if (!process.env[key]) {
+          process.env[key] = val;
+        }
+      }
+    }
+  } catch {}
 }
 
 const CAMPAIGN_FILE = path.join(process.cwd(), 'data', 'campaign.json');

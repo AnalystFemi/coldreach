@@ -3,20 +3,37 @@ import path from 'path';
 import dns from 'dns';
 import { promisify } from 'util';
 import nodemailer from 'nodemailer';
-import dotenv from 'dotenv';
 
 const resolveMxAsync = promisify(dns.resolveMx);
 
-// Load .env.local if present
+// Load .env.local if present (zero-dependency parser)
 const envPath = path.join(process.cwd(), '.env.local');
 if (fs.existsSync(envPath)) {
-  dotenv.config({ path: envPath });
+  try {
+    const lines = fs.readFileSync(envPath, 'utf-8').split('\n');
+    for (const line of lines) {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith('#')) continue;
+      const idx = trimmed.indexOf('=');
+      if (idx !== -1) {
+        const key = trimmed.slice(0, idx).trim();
+        const val = trimmed.slice(idx + 1).trim().replace(/^["']|["']$/g, '');
+        if (!process.env[key]) {
+          process.env[key] = val;
+        }
+      }
+    }
+  } catch {}
 }
 
-const GMAIL_USER = process.env.GMAIL_USER || 'joshuaakintayo21@gmail.com';
-const GMAIL_APP_PASSWORD = (process.env.GMAIL_APP_PASSWORD || 'nneqmxgopvucrlfu').replace(/\s+/g, '');
-const SENDER_NAME = process.env.SENDER_NAME || 'Joshua Akintayo';
-const DAILY_LIMIT = Number(process.env.DAILY_EMAIL_LIMIT || 34);
+const rawUser = process.env.GMAIL_USER ? process.env.GMAIL_USER.trim() : '';
+const GMAIL_USER = (rawUser && rawUser !== 'true' && rawUser.includes('@')) ? rawUser : 'joshuaakintayo21@gmail.com';
+
+const rawPass = process.env.GMAIL_APP_PASSWORD ? process.env.GMAIL_APP_PASSWORD.trim() : '';
+const GMAIL_APP_PASSWORD = (rawPass && rawPass !== 'true' && rawPass.length > 5) ? rawPass.replace(/\s+/g, '') : 'nneqmxgopvucrlfu';
+
+const SENDER_NAME = (process.env.SENDER_NAME && process.env.SENDER_NAME !== 'true') ? process.env.SENDER_NAME : 'Joshua Akintayo';
+const DAILY_LIMIT = Number(process.env.DAILY_EMAIL_LIMIT) || 34;
 
 const DATA_DIR = path.join(process.cwd(), 'data');
 const LEADS_FILE = path.join(DATA_DIR, 'leads.json');
@@ -113,7 +130,7 @@ async function sendDailyReportEmail(sentBatch, totalSentToday, dailyLimit, skipp
         <td style="padding: 10px 8px; font-family: monospace; color: #059669;">${item.email}</td>
         <td style="padding: 10px 8px; color: #475569;">${item.city}</td>
         <td style="padding: 10px 8px; color: #64748b; font-size: 12px;">${item.subject}</td>
-        <td style="padding: 10px 8px; font-mono; color: #64748b; font-size: 11px;">${new Date(item.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
+        <td style="padding: 10px 8px; font-family: monospace; color: #64748b; font-size: 11px;">${new Date(item.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}</td>
       </tr>
     `
     )
