@@ -17,6 +17,8 @@ export default function Home() {
   const [isSyncing, setIsSyncing] = useState(false);
   const [isDispatching, setIsDispatching] = useState(false);
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [isAutoPilot, setIsAutoPilot] = useState(true);
+  const [nextAutoCheckCountdown, setNextAutoCheckCountdown] = useState(180);
   const [notification, setNotification] = useState<{
     type: 'success' | 'error' | 'info';
     message: string;
@@ -46,10 +48,28 @@ export default function Home() {
 
   useEffect(() => {
     fetchStatus();
-    // Refresh queue & timezones every 30 seconds
     const interval = setInterval(fetchStatus, 30000);
     return () => clearInterval(interval);
   }, []);
+
+  // Autonomous Auto-Pilot Timer
+  useEffect(() => {
+    if (!isAutoPilot) return;
+
+    const timer = setInterval(() => {
+      setNextAutoCheckCountdown((prev) => {
+        if (prev <= 1) {
+          // Trigger automated dispatch
+          handleDispatchNext();
+          // Reset to random delay between 3 and 6 minutes (180 to 360 seconds)
+          return Math.floor(Math.random() * (360 - 180 + 1)) + 180;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => clearInterval(timer);
+  }, [isAutoPilot, summary]);
 
   // Sync leads from LeadRadar
   const handleSync = async () => {
@@ -170,6 +190,9 @@ export default function Home() {
             summary={summary}
             onDispatchNext={handleDispatchNext}
             isDispatching={isDispatching}
+            isAutoPilot={isAutoPilot}
+            onToggleAutoPilot={() => setIsAutoPilot(!isAutoPilot)}
+            nextAutoCheckCountdown={nextAutoCheckCountdown}
           />
         )}
 
