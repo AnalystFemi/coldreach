@@ -1,0 +1,200 @@
+[
+  {
+    "id": "log_1790856476264",
+    "leadId": "lead_apollo_1790849166014_4",
+    "businessName": "Janis Marquardt (ORDA)",
+    "recipient": "janis.marquardt@orda-app.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T12:07:56.264Z",
+    "subject": "quick question regarding ORDA's operations in Munich",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <71b92d66-dac6-ad53-b8ea-0137698cbc09@gmail.com>)"
+  },
+  {
+    "id": "log_1790856470099",
+    "leadId": "lead_apollo_1790849163920_3",
+    "businessName": "Simon Wimmer (Ivy)",
+    "recipient": "simon.wimmer@getivy.de",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T12:07:50.099Z",
+    "subject": "quick question regarding Ivy's operations in Munich",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <d7420506-2cae-5234-e0a8-69c553a802f9@gmail.com>)"
+  },
+  {
+    "id": "log_1790856462069",
+    "leadId": "lead_apollo_1790849161744_2",
+    "businessName": "Ingo Reinhardt (Buynomics)",
+    "recipient": "ingo.reinhardt@buynomics.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T12:07:42.069Z",
+    "subject": "quick question regarding Buynomics's operations in Cologne",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <057e2851-df6b-60a9-0dec-40b658246419@gmail.com>)"
+  },
+  {
+    "id": "log_1790856277658",
+    "leadId": "lead_apollo_1790849159617_1",
+    "businessName": "Jan-Martin Josten (shyftplan)",
+    "recipient": "jan@shyftplan.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T12:04:37.658Z",
+    "subject": "quick question regarding shyftplan's operations in Berlin",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <b5d8cbe0-624a-39ee-4aa8-d5ba712c8e79@gmail.com>)"
+  },
+  {
+    "id": "log_1790855830492",
+    "leadId": "lead_apollo_1790849161744_2",
+    "businessName": "Ingo Reinhardt (Buynomics)",
+    "recipient": "ingo.reinhardt@buynomics.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:57:10.492Z",
+    "subject": "quick question regarding Buynomics's operations in Cologne",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <3096556b-2453-640c-d914-b1ef5414679b@gmail.com>)"
+  },
+  {
+    "id": "log_1790855803342",
+    "leadId": "lead_apollo_1790849159617_1",
+    "businessName": "Jan-Martin Josten (shyftplan)",
+    "recipient": "jan@shyftplan.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:56:43.342Z",
+    "subject": "quick question regarding shyftplan's operations in Berlin",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <42006557-dce6-91b1-43e7-479d58f565b5@gmail.com>)"
+  },
+  {
+    "id": "log_1790855252782",
+    "leadId": "lead_apollo_1790849184847_8",
+    "businessName": "Patrick Bartler (Peter Park)",
+    "recipient": "p.bartler@peter-park.de",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:47:32.782Z",
+    "subject": "quick question regarding Peter Park's operations in Munich",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <d6bc22f9-4e54-4a5d-2c10-63d8efb86cb2@gmail.com>)"
+  },
+  {
+    "id": "log_1790855231076",
+    "leadId": "lead_apollo_1790849176415_7",
+    "businessName": "Prem Ramchand (Clic-Trade)",
+    "recipient": "prem.ramchand@clictrade.de",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:47:11.076Z",
+    "subject": "quick question regarding Clic-Trade's operations in Bonn",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <75c2b006-ac2f-37ca-a1e3-a6c845169761@gmail.com>)"
+  },
+  {
+    "id": "log_1790855222332",
+    "leadId": "lead_apollo_1790849174303_6",
+    "businessName": "Tim Zheng (Apollo)",
+    "recipient": "tim@apollo.io",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:47:02.332Z",
+    "subject": "quick question regarding Apollo's operations in San Francisco",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <f2ec19b7-5577-75fc-49c3-a86094e46a0d@gmail.com>)"
+  },
+  {
+    "id": "log_1790855212102",
+    "leadId": "lead_apollo_1790849168266_5",
+    "businessName": "Michael Siebers (Holidu)",
+    "recipient": "michael.siebers@holidu.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:46:52.102Z",
+    "subject": "quick question regarding Holidu's operations in Munich",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <ea55bb1f-7ee5-31eb-edeb-b39310a10564@gmail.com>)"
+  },
+  {
+    "id": "log_1790855206351",
+    "leadId": "lead_apollo_1790849166014_4",
+    "businessName": "Janis Marquardt (ORDA)",
+    "recipient": "janis.marquardt@orda-app.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:46:46.351Z",
+    "subject": "quick question regarding ORDA's operations in Munich",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <a19e4dec-bc24-3953-48a3-28ccbefe92a3@gmail.com>)"
+  },
+  {
+    "id": "log_1790855200357",
+    "leadId": "lead_apollo_1790849163920_3",
+    "businessName": "Simon Wimmer (Ivy)",
+    "recipient": "simon.wimmer@getivy.de",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:46:40.357Z",
+    "subject": "quick question regarding Ivy's operations in Munich",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <cda868ca-21f4-eaab-04fd-cecc1fb212d4@gmail.com>)"
+  },
+  {
+    "id": "log_1790855135172",
+    "leadId": "lead_apollo_1790849161744_2",
+    "businessName": "Ingo Reinhardt (Buynomics)",
+    "recipient": "ingo.reinhardt@buynomics.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:45:35.173Z",
+    "subject": "quick question regarding Buynomics's operations in Cologne",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <80c40bde-4bd7-e3a5-ace1-9a1f567533bc@gmail.com>)"
+  },
+  {
+    "id": "log_1790855130227",
+    "leadId": "lead_apollo_1790849157507_0",
+    "businessName": "Samir El-Alami (doctorly)",
+    "recipient": "samir@doctorly.de",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:45:30.227Z",
+    "subject": "quick question regarding doctorly's operations in Berlin",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <72686dc6-f27d-9317-cda6-c9203108ab7b@gmail.com>)"
+  },
+  {
+    "id": "log_1790855121019",
+    "leadId": "lead_apollo_1790849159617_1",
+    "businessName": "Jan-Martin Josten (shyftplan)",
+    "recipient": "jan@shyftplan.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:45:21.019Z",
+    "subject": "quick question regarding shyftplan's operations in Berlin",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <527aaea2-9cce-673d-6c14-afee5573e693@gmail.com>)"
+  },
+  {
+    "id": "log_1790855119936",
+    "leadId": "lead_apollo_1790849157507_0",
+    "businessName": "Samir El-Alami (doctorly)",
+    "recipient": "samir@doctorly.de",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T11:45:19.936Z",
+    "subject": "quick question regarding doctorly's operations in Berlin",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <87b6691a-ddb4-1507-af44-ce4095cb80d7@gmail.com>)"
+  },
+  {
+    "id": "log_1790855087263",
+    "leadId": "lead_1790849080568_0_i8kc",
+    "businessName": "Business",
+    "recipient": "https://www.spardaimmobilien.de/",
+    "channel": "contact_form",
+    "status": "failed",
+    "timestamp": "2026-10-01T11:44:47.263Z",
+    "subject": "quick question regarding Business's operations in Hamburg",
+    "notes": "Could not find or submit an automated contact form on website"
+  },
+  {
+    "id": "log_1790849467437",
+    "leadId": "lead_apollo_1790849324667_38",
+    "businessName": "Johannes Nass (NativeResearch drw)",
+    "recipient": "johannes.nass@native-research.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-01T10:11:07.437Z",
+    "subject": "quick question regarding NativeResearch drw's operations in Hamburg",
+    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <2f04c981-0447-aff9-7998-b9b6fdd08f1c@gmail.com>)"
+  }
+]
