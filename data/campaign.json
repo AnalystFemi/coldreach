@@ -1,5 +1,151 @@
 {
-  "sentToday": 16,
+  "sentToday": 34,
   "lastResetDate": "2026-10-01",
-  "isSendingActive": false
+  "isSendingActive": false,
+  "sentBatch": [
+    {
+      "businessName": "Samir El-Alami (doctorly)",
+      "email": "samir@doctorly.de",
+      "city": "Berlin",
+      "subject": "quick question regarding doctorly's operations in Berlin",
+      "timestamp": "2026-10-01T12:52:49.510Z",
+      "messageId": "<0fced95d-b1e7-930f-5ee5-7a4f06e81670@gmail.com>"
+    },
+    {
+      "businessName": "Jan-Martin Josten (shyftplan)",
+      "email": "jan@shyftplan.com",
+      "city": "Berlin",
+      "subject": "quick question regarding shyftplan's operations in Berlin",
+      "timestamp": "2026-10-01T12:52:54.448Z",
+      "messageId": "<5570694c-75a5-221b-a8d3-7caf63b9a13d@gmail.com>"
+    },
+    {
+      "businessName": "Ingo Reinhardt (Buynomics)",
+      "email": "ingo.reinhardt@buynomics.com",
+      "city": "Cologne",
+      "subject": "quick question regarding Buynomics's operations in Cologne",
+      "timestamp": "2026-10-01T12:52:59.395Z",
+      "messageId": "<877a28f4-e045-7a58-b81a-7d8f233c0b3a@gmail.com>"
+    },
+    {
+      "businessName": "Simon Wimmer (Ivy)",
+      "email": "simon.wimmer@getivy.de",
+      "city": "Munich",
+      "subject": "quick question regarding Ivy's operations in Munich",
+      "timestamp": "2026-10-01T12:53:04.470Z",
+      "messageId": "<d0a81e3e-5189-3c39-aa40-c71fd8d44265@gmail.com>"
+    },
+    {
+      "businessName": "Janis Marquardt (ORDA)",
+      "email": "janis.marquardt@orda-app.com",
+      "city": "Munich",
+      "subject": "quick question regarding ORDA's operations in Munich",
+      "timestamp": "2026-10-01T12:53:10.128Z",
+      "messageId": "<1e8641f3-ea88-3326-0282-13b3437a0eed@gmail.com>"
+    },
+    {
+      "businessName": "Michael Siebers (Holidu)",
+      "email": "michael.siebers@holidu.com",
+      "city": "Munich",
+      "subject": "quick question regarding Holidu's operations in Munich",
+      "timestamp": "2026-10-01T12:53:15.139Z",
+      "messageId": "<3fade0c6-c2d8-d5ea-74e1-e33ba2ba9620@gmail.com>"
+    },
+    {
+      "businessName": "Tim Zheng (Apollo)",
+      "email": "tim@apollo.io",
+      "city": "San Francisco",
+      "subject": "quick question regarding Apollo's operations in San Francisco",
+      "timestamp": "2026-10-01T12:53:20.017Z",
+      "messageId": "<c702d6fd-20cc-00c0-1389-b462e056b2e4@gmail.com>"
+    },
+    {
+      "businessName": "Prem Ramchand (Clic-Trade)",
+      "email": "prem.ramchand@clictrade.de",
+      "city": "Bonn",
+      "subject": "quick question regarding Clic-Trade's operations in Bonn",
+      "timestamp": "2026-10-01T12:53:24.974Z",
+      "messageId": "<f571ce68-29c7-047f-c41c-c6557096481b@gmail.com>"
+    },
+    {
+      "businessName": "Patrick Bartler (Peter Park)",
+      "email": "p.bartler@peter-park.de",
+      "city": "Munich",
+      "subject": "quick question regarding Peter Park's operations in Munich",
+      "timestamp": "2026-10-01T12:53:29.871Z",
+      "messageId": "<0a0fd780-8287-12d9-91e9-aa89d3df932c@gmail.com>"
+    },
+    {
+      "businessName": "Brian O'Connor (rethink)",
+      "email": "brian.oconnor@rethink-everything.net",
+      "city": "Berlin",
+      "subject": "quick question regarding rethink's operations in Berlin",
+      "timestamp": "2026-10-01T12:53:34.783Z",
+      "messageId": "<6e092ecc-af8c-46a4-76a5-3c7953b6f586@gmail.com>"
+    },
+    {
+      "businessName": "Tom Mueller (InsightAI)",
+      "email": "t.mueller@insightai.de",
+      "city": "Detroit",
+      "subject": "quick question regarding InsightAI's operations in Detroit",
+      "timestamp": "2026-10-01T12:53:39.665Z",
+      "messageId": "<e0de1e3a-0381-8d85-28eb-1d1a28b145a0@gmail.com>"
+    },
+    {
+      "businessName": "Wladick Hartmann (Pixel Photonics)",
+      "email": "wladick.hartmann@pixelphotonics.com",
+      "city": "Muenster",
+      "subject": "quick question regarding Pixel Photonics's operations in Muenster",
+      "timestamp": "2026-10-01T12:53:44.569Z",
+      "messageId": "<2cd6b736-ce23-35b5-a244-d6803fe32b4e@gmail.com>"
+    },
+    {
+      "businessName": "Rene Schnellen (Fashion Cloud)",
+      "email": "rene.schnellen@fashion.cloud",
+      "city": "Hamburg",
+      "subject": "quick question regarding Fashion Cloud's operations in Hamburg",
+      "timestamp": "2026-10-01T12:53:49.424Z",
+      "messageId": "<876f7772-f3dc-a848-3244-33d3bf372364@gmail.com>"
+    },
+    {
+      "businessName": "Baiju R. (CANKADO)",
+      "email": "b.rahman@cankado.com",
+      "city": "Cologne",
+      "subject": "quick question regarding CANKADO's operations in Cologne",
+      "timestamp": "2026-10-01T12:53:54.381Z",
+      "messageId": "<249fd9c3-711a-b180-11ec-80280cb315e8@gmail.com>"
+    },
+    {
+      "businessName": "Guillem Sague (CarriedAI)",
+      "email": "guillem.sague@carriedai.com",
+      "city": "Berlin",
+      "subject": "quick question regarding CarriedAI's operations in Berlin",
+      "timestamp": "2026-10-01T12:53:59.246Z",
+      "messageId": "<7ad9f2f3-4d81-30dd-9422-f9ea9b2339a6@gmail.com>"
+    },
+    {
+      "businessName": "Max Jensen (Berlin Cuisine)",
+      "email": "max.jensen@berlin-cuisine.com",
+      "city": "Berlin",
+      "subject": "quick question regarding Berlin Cuisine's operations in Berlin",
+      "timestamp": "2026-10-01T12:54:04.285Z",
+      "messageId": "<210900c5-84d1-fd87-41cc-381497b83218@gmail.com>"
+    },
+    {
+      "businessName": "Hannes Aus (Smartecon OÜ // We are hiring!)",
+      "email": "hannes@smartecon.ee",
+      "city": "",
+      "subject": "quick question regarding Smartecon OÜ // We are hiring!'s operations in Estonia",
+      "timestamp": "2026-10-01T12:54:09.304Z",
+      "messageId": "<3e78b330-1b74-6501-db11-e7146ea7808c@gmail.com>"
+    },
+    {
+      "businessName": "Kai Wawrzinek (Impossible Cloud)",
+      "email": "kwawrzinek@qubit9.com",
+      "city": "Hamburg",
+      "subject": "quick question regarding Impossible Cloud's operations in Hamburg",
+      "timestamp": "2026-10-01T12:54:14.345Z",
+      "messageId": "<dc280fc5-77cd-5de0-5e86-56ea9bfcc21b@gmail.com>"
+    }
+  ]
 }
