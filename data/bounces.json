@@ -1,0 +1,50 @@
+[
+  {
+    "uid": 16115,
+    "from": " <postmaster@dbhconsulting.org>",
+    "subject": "Undeliverable: Remote research data & analytics support for DBH Consulting - Joshua Akintayo",
+    "date": "2026-09-30T14:06:54.000Z",
+    "extractedRecipients": [
+      "postmaster@bn1pr04cu002.outbound.protection.outlook.com",
+      "postmaster@dbhconsulting.org",
+      "d76d9297-a22e-4f6e-9e06-46619807dbcd@sj0pr16mb4032.namprd16.prod.outlook.com",
+      "info@dbh-consulting.com"
+    ]
+  },
+  {
+    "uid": 16136,
+    "from": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+    "subject": "Delivery Status Notification (Failure)",
+    "date": "2026-10-01T11:45:15.000Z",
+    "extractedRecipients": [
+      "samir@doctorly.de"
+    ]
+  },
+  {
+    "uid": 16137,
+    "from": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+    "subject": "Delivery Status Notification (Failure)",
+    "date": "2026-10-01T11:45:25.000Z",
+    "extractedRecipients": [
+      "samir@doctorly.de"
+    ]
+  },
+  {
+    "uid": 16142,
+    "from": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+    "subject": "Delivery Status Notification (Failure)",
+    "date": "2026-10-01T12:52:49.000Z",
+    "extractedRecipients": [
+      "samir@doctorly.de"
+    ]
+  },
+  {
+    "uid": 16143,
+    "from": "Mail Delivery Subsystem <mailer-daemon@googlemail.com>",
+    "subject": "Delivery Status Notification (Failure)",
+    "date": "2026-10-01T12:53:41.000Z",
+    "extractedRecipients": [
+      "t.mueller@insightai.de"
+    ]
+  }
+]

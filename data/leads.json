@@ -57,11 +57,11 @@
     "website": "http://www.doctorly.de",
     "rating": 5,
     "userRatingsTotal": 1,
-    "emailVerified": true,
-    "mxValid": true,
+    "emailVerified": false,
+    "mxValid": false,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "sent",
+    "status": "bounced",
     "pitchSubject": "quick question regarding doctorly's operations in Berlin",
     "pitchBody": "Hi Samir,\n\nAs doctorly grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline doctorly's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
@@ -69,7 +69,8 @@
     "localTime": "Thu 12:10 PM",
     "isInSendWindow": false,
     "sentAt": "2026-10-01T12:52:49.510Z",
-    "error": null
+    "error": "Permanently blacklisted: delivery failed / invalid mailbox",
+    "bounced": true
   },
   {
     "id": "lead_apollo_1790849159617_1",
@@ -317,11 +318,11 @@
     "website": "http://www.insightai.de",
     "rating": 5,
     "userRatingsTotal": 1,
-    "emailVerified": true,
-    "mxValid": true,
+    "emailVerified": false,
+    "mxValid": false,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "sent",
+    "status": "bounced",
     "pitchSubject": "quick question regarding InsightAI's operations in Detroit",
     "pitchBody": "Hi Tom,\n\nAs InsightAI grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline InsightAI's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
@@ -329,7 +330,8 @@
     "localTime": "Thu 6:10 AM",
     "isInSendWindow": false,
     "sentAt": "2026-10-01T12:53:39.665Z",
-    "error": null
+    "error": "Permanently blacklisted: delivery failed / invalid mailbox",
+    "bounced": true
   },
   {
     "id": "lead_apollo_1790849195276_11",

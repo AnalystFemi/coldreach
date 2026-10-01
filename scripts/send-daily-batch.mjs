@@ -96,11 +96,26 @@ function addLog(log) {
 
 const JUNK_DOMAINS = ['example.com', 'domain.com', 'sentry.io', 'wixpress.com', 'cloudflare.com'];
 
+function getBlacklist() {
+  try {
+    const blPath = path.join(DATA_DIR, 'blacklist.json');
+    if (fs.existsSync(blPath)) {
+      return JSON.parse(fs.readFileSync(blPath, 'utf-8'));
+    }
+  } catch {}
+  return [];
+}
+
 async function verifyEmail(email) {
   if (!email || !email.includes('@')) return { valid: false, reason: 'Malformed syntax' };
-  const [, domain] = email.trim().toLowerCase().split('@');
+  const lower = email.trim().toLowerCase();
+  const [, domain] = lower.split('@');
   if (!domain || JUNK_DOMAINS.some(j => domain.includes(j))) {
     return { valid: false, reason: 'Blocked junk domain' };
+  }
+  const blacklist = getBlacklist();
+  if (blacklist.some(b => lower.includes(b.toLowerCase()) || domain.includes(b.toLowerCase()))) {
+    return { valid: false, reason: 'Permanently blacklisted / bounced address' };
   }
   try {
     const mx = await resolveMxAsync(domain);

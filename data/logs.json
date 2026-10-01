@@ -82,10 +82,10 @@
     "businessName": "Tom Mueller (InsightAI)",
     "recipient": "t.mueller@insightai.de",
     "channel": "email",
-    "status": "success",
+    "status": "bounced",
     "timestamp": "2026-10-01T12:53:39.665Z",
     "subject": "quick question regarding InsightAI's operations in Detroit",
-    "notes": "Delivered via Gmail SMTP (MessageId: <e0de1e3a-0381-8d85-28eb-1d1a28b145a0@gmail.com>)"
+    "notes": "Delivery failed / invalid mailbox (caught and removed)"
   },
   {
     "id": "log_1790859214783",
@@ -192,10 +192,10 @@
     "businessName": "Samir El-Alami (doctorly)",
     "recipient": "samir@doctorly.de",
     "channel": "email",
-    "status": "success",
+    "status": "bounced",
     "timestamp": "2026-10-01T12:52:49.510Z",
     "subject": "quick question regarding doctorly's operations in Berlin",
-    "notes": "Delivered via Gmail SMTP (MessageId: <0fced95d-b1e7-930f-5ee5-7a4f06e81670@gmail.com>)"
+    "notes": "Delivery failed / invalid mailbox (caught and removed)"
   },
   {
     "id": "log_1790856476264",
@@ -346,10 +346,10 @@
     "businessName": "Samir El-Alami (doctorly)",
     "recipient": "samir@doctorly.de",
     "channel": "email",
-    "status": "success",
+    "status": "bounced",
     "timestamp": "2026-10-01T11:45:30.227Z",
     "subject": "quick question regarding doctorly's operations in Berlin",
-    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <72686dc6-f27d-9317-cda6-c9203108ab7b@gmail.com>)"
+    "notes": "Delivery failed / invalid mailbox (caught and removed)"
   },
   {
     "id": "log_1790855121019",
@@ -368,10 +368,10 @@
     "businessName": "Samir El-Alami (doctorly)",
     "recipient": "samir@doctorly.de",
     "channel": "email",
-    "status": "success",
+    "status": "bounced",
     "timestamp": "2026-10-01T11:45:19.936Z",
     "subject": "quick question regarding doctorly's operations in Berlin",
-    "notes": "Sent from joshuaakintayo21@gmail.com (MessageId: <87b6691a-ddb4-1507-af44-ce4095cb80d7@gmail.com>)"
+    "notes": "Delivery failed / invalid mailbox (caught and removed)"
   },
   {
     "id": "log_1790855087263",
