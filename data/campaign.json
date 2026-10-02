@@ -1,151 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-01",
+  "lastResetDate": "2026-10-02",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Samir El-Alami (doctorly)",
-      "email": "samir@doctorly.de",
-      "city": "Berlin",
-      "subject": "quick question regarding doctorly's operations in Berlin",
-      "timestamp": "2026-10-01T12:52:49.510Z",
-      "messageId": "<0fced95d-b1e7-930f-5ee5-7a4f06e81670@gmail.com>"
-    },
-    {
-      "businessName": "Jan-Martin Josten (shyftplan)",
-      "email": "jan@shyftplan.com",
-      "city": "Berlin",
-      "subject": "quick question regarding shyftplan's operations in Berlin",
-      "timestamp": "2026-10-01T12:52:54.448Z",
-      "messageId": "<5570694c-75a5-221b-a8d3-7caf63b9a13d@gmail.com>"
-    },
-    {
-      "businessName": "Ingo Reinhardt (Buynomics)",
-      "email": "ingo.reinhardt@buynomics.com",
-      "city": "Cologne",
-      "subject": "quick question regarding Buynomics's operations in Cologne",
-      "timestamp": "2026-10-01T12:52:59.395Z",
-      "messageId": "<877a28f4-e045-7a58-b81a-7d8f233c0b3a@gmail.com>"
-    },
-    {
-      "businessName": "Simon Wimmer (Ivy)",
-      "email": "simon.wimmer@getivy.de",
-      "city": "Munich",
-      "subject": "quick question regarding Ivy's operations in Munich",
-      "timestamp": "2026-10-01T12:53:04.470Z",
-      "messageId": "<d0a81e3e-5189-3c39-aa40-c71fd8d44265@gmail.com>"
-    },
-    {
-      "businessName": "Janis Marquardt (ORDA)",
-      "email": "janis.marquardt@orda-app.com",
-      "city": "Munich",
-      "subject": "quick question regarding ORDA's operations in Munich",
-      "timestamp": "2026-10-01T12:53:10.128Z",
-      "messageId": "<1e8641f3-ea88-3326-0282-13b3437a0eed@gmail.com>"
-    },
-    {
-      "businessName": "Michael Siebers (Holidu)",
-      "email": "michael.siebers@holidu.com",
-      "city": "Munich",
-      "subject": "quick question regarding Holidu's operations in Munich",
-      "timestamp": "2026-10-01T12:53:15.139Z",
-      "messageId": "<3fade0c6-c2d8-d5ea-74e1-e33ba2ba9620@gmail.com>"
-    },
-    {
-      "businessName": "Tim Zheng (Apollo)",
-      "email": "tim@apollo.io",
-      "city": "San Francisco",
-      "subject": "quick question regarding Apollo's operations in San Francisco",
-      "timestamp": "2026-10-01T12:53:20.017Z",
-      "messageId": "<c702d6fd-20cc-00c0-1389-b462e056b2e4@gmail.com>"
-    },
-    {
-      "businessName": "Prem Ramchand (Clic-Trade)",
-      "email": "prem.ramchand@clictrade.de",
-      "city": "Bonn",
-      "subject": "quick question regarding Clic-Trade's operations in Bonn",
-      "timestamp": "2026-10-01T12:53:24.974Z",
-      "messageId": "<f571ce68-29c7-047f-c41c-c6557096481b@gmail.com>"
-    },
-    {
-      "businessName": "Patrick Bartler (Peter Park)",
-      "email": "p.bartler@peter-park.de",
-      "city": "Munich",
-      "subject": "quick question regarding Peter Park's operations in Munich",
-      "timestamp": "2026-10-01T12:53:29.871Z",
-      "messageId": "<0a0fd780-8287-12d9-91e9-aa89d3df932c@gmail.com>"
-    },
-    {
-      "businessName": "Brian O'Connor (rethink)",
-      "email": "brian.oconnor@rethink-everything.net",
-      "city": "Berlin",
-      "subject": "quick question regarding rethink's operations in Berlin",
-      "timestamp": "2026-10-01T12:53:34.783Z",
-      "messageId": "<6e092ecc-af8c-46a4-76a5-3c7953b6f586@gmail.com>"
-    },
-    {
-      "businessName": "Tom Mueller (InsightAI)",
-      "email": "t.mueller@insightai.de",
-      "city": "Detroit",
-      "subject": "quick question regarding InsightAI's operations in Detroit",
-      "timestamp": "2026-10-01T12:53:39.665Z",
-      "messageId": "<e0de1e3a-0381-8d85-28eb-1d1a28b145a0@gmail.com>"
-    },
-    {
-      "businessName": "Wladick Hartmann (Pixel Photonics)",
-      "email": "wladick.hartmann@pixelphotonics.com",
-      "city": "Muenster",
-      "subject": "quick question regarding Pixel Photonics's operations in Muenster",
-      "timestamp": "2026-10-01T12:53:44.569Z",
-      "messageId": "<2cd6b736-ce23-35b5-a244-d6803fe32b4e@gmail.com>"
-    },
-    {
-      "businessName": "Rene Schnellen (Fashion Cloud)",
-      "email": "rene.schnellen@fashion.cloud",
-      "city": "Hamburg",
-      "subject": "quick question regarding Fashion Cloud's operations in Hamburg",
-      "timestamp": "2026-10-01T12:53:49.424Z",
-      "messageId": "<876f7772-f3dc-a848-3244-33d3bf372364@gmail.com>"
-    },
-    {
-      "businessName": "Baiju R. (CANKADO)",
-      "email": "b.rahman@cankado.com",
-      "city": "Cologne",
-      "subject": "quick question regarding CANKADO's operations in Cologne",
-      "timestamp": "2026-10-01T12:53:54.381Z",
-      "messageId": "<249fd9c3-711a-b180-11ec-80280cb315e8@gmail.com>"
-    },
-    {
-      "businessName": "Guillem Sague (CarriedAI)",
-      "email": "guillem.sague@carriedai.com",
-      "city": "Berlin",
-      "subject": "quick question regarding CarriedAI's operations in Berlin",
-      "timestamp": "2026-10-01T12:53:59.246Z",
-      "messageId": "<7ad9f2f3-4d81-30dd-9422-f9ea9b2339a6@gmail.com>"
-    },
-    {
-      "businessName": "Max Jensen (Berlin Cuisine)",
-      "email": "max.jensen@berlin-cuisine.com",
-      "city": "Berlin",
-      "subject": "quick question regarding Berlin Cuisine's operations in Berlin",
-      "timestamp": "2026-10-01T12:54:04.285Z",
-      "messageId": "<210900c5-84d1-fd87-41cc-381497b83218@gmail.com>"
-    },
-    {
-      "businessName": "Hannes Aus (Smartecon OÜ // We are hiring!)",
-      "email": "hannes@smartecon.ee",
+      "businessName": "Alain Aun (Rendin)",
+      "email": "alain@rendin.co",
       "city": "",
-      "subject": "quick question regarding Smartecon OÜ // We are hiring!'s operations in Estonia",
-      "timestamp": "2026-10-01T12:54:09.304Z",
-      "messageId": "<3e78b330-1b74-6501-db11-e7146ea7808c@gmail.com>"
+      "subject": "quick question regarding Rendin's operations in Estonia",
+      "timestamp": "2026-10-02T19:05:55.224Z",
+      "messageId": "<d8c98add-a052-6d43-514d-7775ad2c7a8c@gmail.com>"
     },
     {
-      "businessName": "Kai Wawrzinek (Impossible Cloud)",
-      "email": "kwawrzinek@qubit9.com",
+      "businessName": "Vlad Lata (Avi Medical)",
+      "email": "vlad.lata@avimedical.com",
+      "city": "Munich",
+      "subject": "quick question regarding Avi Medical's operations in Munich",
+      "timestamp": "2026-10-02T19:06:01.006Z",
+      "messageId": "<8a6b5d6b-c2a2-f3b6-848b-ce998a930a2f@gmail.com>"
+    },
+    {
+      "businessName": "Shahrooz Chowdhury (Liven)",
+      "email": "shahrooz@liven.love",
+      "city": "Sydney",
+      "subject": "quick question regarding Liven's operations in Sydney",
+      "timestamp": "2026-10-02T19:06:06.560Z",
+      "messageId": "<77c5b705-adae-4c66-acbf-dfb19ad4cef1@gmail.com>"
+    },
+    {
+      "businessName": "Markus Scheffer (SD ENGINEERING)",
+      "email": "scheffer@sd.engineering",
+      "city": "Bochum",
+      "subject": "quick question regarding SD ENGINEERING's operations in Bochum",
+      "timestamp": "2026-10-02T19:06:12.067Z",
+      "messageId": "<f07afb38-64a0-6b5a-5876-a3ec4404d174@gmail.com>"
+    },
+    {
+      "businessName": "Cynthia Haug (Rex)",
+      "email": "cynthia.haug@rex.app",
+      "city": "",
+      "subject": "quick question regarding Rex's operations in Germany",
+      "timestamp": "2026-10-02T19:06:17.458Z",
+      "messageId": "<f7d99150-faab-5446-aebb-ef9f9e18c67e@gmail.com>"
+    },
+    {
+      "businessName": "Tilmann Volk (SuitePad)",
+      "email": "tilmann.volk@suitepad.de",
+      "city": "Berlin",
+      "subject": "quick question regarding SuitePad's operations in Berlin",
+      "timestamp": "2026-10-02T19:06:22.999Z",
+      "messageId": "<caca30fc-6430-9966-713f-d9d4a8cad0ce@gmail.com>"
+    },
+    {
+      "businessName": "Paul Mayer (deepc)",
+      "email": "paul@deepc.ai",
+      "city": "Munich",
+      "subject": "quick question regarding deepc's operations in Munich",
+      "timestamp": "2026-10-02T19:06:28.628Z",
+      "messageId": "<4bd5f46f-3ab8-2a09-6f63-336bac308bba@gmail.com>"
+    },
+    {
+      "businessName": "Christian Bruderrek (yuri)",
+      "email": "christian.bruderrek@yurigravity.com",
+      "city": "Weingarten",
+      "subject": "quick question regarding yuri's operations in Weingarten",
+      "timestamp": "2026-10-02T19:06:34.243Z",
+      "messageId": "<ad79b9bf-35b0-bc88-4d82-aa4c317852a7@gmail.com>"
+    },
+    {
+      "businessName": "Sarah Fleischer (tozero)",
+      "email": "sarah@tozero.solutions",
+      "city": "Munich",
+      "subject": "quick question regarding tozero's operations in Munich",
+      "timestamp": "2026-10-02T19:06:39.756Z",
+      "messageId": "<7c984d9b-24f5-f860-d5dd-12c3cf886d76@gmail.com>"
+    },
+    {
+      "businessName": "Malte Schafstedde (eagle lsp)",
+      "email": "malte.schafstedde@eagle-lsp.de",
       "city": "Hamburg",
-      "subject": "quick question regarding Impossible Cloud's operations in Hamburg",
-      "timestamp": "2026-10-01T12:54:14.345Z",
-      "messageId": "<dc280fc5-77cd-5de0-5e86-56ea9bfcc21b@gmail.com>"
+      "subject": "quick question regarding eagle lsp's operations in Hamburg",
+      "timestamp": "2026-10-02T19:06:45.213Z",
+      "messageId": "<45c33f24-714a-6529-79f3-98672705a156@gmail.com>"
+    },
+    {
+      "businessName": "Mario Fuerst (Kloster Kitchen)",
+      "email": "mario.fuerst@klosterkitchen.com",
+      "city": "Reichenschwand",
+      "subject": "quick question regarding Kloster Kitchen's operations in Reichenschwand",
+      "timestamp": "2026-10-02T19:06:50.646Z",
+      "messageId": "<ffb97338-c937-91bb-2790-796e2c187946@gmail.com>"
+    },
+    {
+      "businessName": "Thomas Langenberg (stayFritz)",
+      "email": "thomas.langenberg@stayfritz.com",
+      "city": "Schliersee",
+      "subject": "quick question regarding stayFritz's operations in Schliersee",
+      "timestamp": "2026-10-02T19:06:56.141Z",
+      "messageId": "<e42f64f5-7594-cfb8-6b1b-403f016f2d0a@gmail.com>"
+    },
+    {
+      "businessName": "Matthias Meiner (Lilium)",
+      "email": "matthias@lilium.com",
+      "city": "",
+      "subject": "quick question regarding Lilium's operations in Germany",
+      "timestamp": "2026-10-02T19:07:01.468Z",
+      "messageId": "<c049270b-f0ae-fcd0-a3e1-605a9117704d@gmail.com>"
+    },
+    {
+      "businessName": "Raphael Derstappen (Kursinsel)",
+      "email": "raphael@kursinsel.de",
+      "city": "Berlin",
+      "subject": "quick question regarding Kursinsel's operations in Berlin",
+      "timestamp": "2026-10-02T19:07:07.038Z",
+      "messageId": "<bd6e6a08-913f-eabd-b228-7166e4c8687b@gmail.com>"
+    },
+    {
+      "businessName": "Johannes Soerensen (ahead®)",
+      "email": "johannes@ahead-nutrition.com",
+      "city": "Hamburg",
+      "subject": "quick question regarding ahead®'s operations in Hamburg",
+      "timestamp": "2026-10-02T19:07:17.186Z",
+      "messageId": "<55f51cba-bd3c-2305-9e98-533cae651c1b@gmail.com>"
+    },
+    {
+      "businessName": "Manuel Kuder (BAVERTIS)",
+      "email": "manuel.kuder@bavertis.com",
+      "city": "Munich",
+      "subject": "quick question regarding BAVERTIS's operations in Munich",
+      "timestamp": "2026-10-02T19:07:22.743Z",
+      "messageId": "<0c142c91-771c-214d-9433-305ff5658065@gmail.com>"
+    },
+    {
+      "businessName": "Max Soepper (AVILUS || We are hiring!)",
+      "email": "max.soepper@avilus.com",
+      "city": "Munich",
+      "subject": "quick question regarding AVILUS || We are hiring!'s operations in Munich",
+      "timestamp": "2026-10-02T19:07:28.127Z",
+      "messageId": "<14c96d74-7277-289c-9873-11bf4c37230b@gmail.com>"
+    },
+    {
+      "businessName": "Johannes Nass (NativeResearch drw)",
+      "email": "johannes.nass@native-research.com",
+      "city": "Hamburg",
+      "subject": "quick question regarding NativeResearch drw's operations in Hamburg",
+      "timestamp": "2026-10-02T19:07:33.654Z",
+      "messageId": "<e84bddaa-0de1-928a-ed41-19f1ded61626@gmail.com>"
+    },
+    {
+      "businessName": "Airtron Heating & Air Conditioning",
+      "email": "airtrondataprivacy@resservices.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Airtron Heating & Air Conditioning's operations in Dallas",
+      "timestamp": "2026-10-02T19:07:39.098Z",
+      "messageId": "<28457725-4455-587e-3939-98f569b5990a@gmail.com>"
+    },
+    {
+      "businessName": "Harlen Johnson HVAC, Plumbing & Electrical",
+      "email": "sales@hjac.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Harlen Johnson HVAC, Plumbing & Electrical's operations in Dallas",
+      "timestamp": "2026-10-02T19:07:44.499Z",
+      "messageId": "<0cbe93ad-9db7-b87e-9012-190245299964@gmail.com>"
+    },
+    {
+      "businessName": "Moss Heating, Cooling & Plumbing",
+      "email": "jsmith@gmail.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Moss Heating, Cooling & Plumbing's operations in Dallas",
+      "timestamp": "2026-10-02T19:07:49.958Z",
+      "messageId": "<49b464dd-22a0-fa50-554e-52fdaa23d953@gmail.com>"
+    },
+    {
+      "businessName": "Dallas Heating and Air Conditioning",
+      "email": "service@dallasheatingac.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Dallas Heating and Air Conditioning's operations in Dallas",
+      "timestamp": "2026-10-02T19:07:55.394Z",
+      "messageId": "<f2d84683-4d0b-8f13-1f13-94e912e1fc2c@gmail.com>"
+    },
+    {
+      "businessName": "Mondragon Mechanical LLC",
+      "email": "office@mondragonac.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Mondragon Mechanical's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:00.842Z",
+      "messageId": "<6d8b1423-2a7e-1e72-864a-bb9e5d5fa71a@gmail.com>"
+    },
+    {
+      "businessName": "Metro Air Conditioning Heating & Services",
+      "email": "info@metroacs.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Metro Air Conditioning Heating & Services's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:06.380Z",
+      "messageId": "<09e76996-de84-8e7a-c02b-e954e282e8b3@gmail.com>"
+    },
+    {
+      "businessName": "Alpha Heating & Cooling",
+      "email": "team@alphahvac.net",
+      "city": "Dallas",
+      "subject": "quick question regarding Alpha Heating & Cooling's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:11.759Z",
+      "messageId": "<c9aa2968-79f1-cb55-d949-267a761b2d2f@gmail.com>"
+    },
+    {
+      "businessName": "Aire Serv of Dallas",
+      "email": "dallas.tx@aireservdallas.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Aire Serv of Dallas's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:17.168Z",
+      "messageId": "<e195883d-fcd6-d21c-9908-8191ba2f0190@gmail.com>"
+    },
+    {
+      "businessName": "Jade Air, LLC",
+      "email": "gilbert@jadeair.net",
+      "city": "Dallas",
+      "subject": "quick question regarding Jade Air,'s operations in Dallas",
+      "timestamp": "2026-10-02T19:08:22.893Z",
+      "messageId": "<73ba8ba1-6054-34c1-08f1-b3768fe37d84@gmail.com>"
+    },
+    {
+      "businessName": "Cozy - D Heating & A/C LLC",
+      "email": "info@yourcompany.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Cozy - D Heating & A/C's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:28.385Z",
+      "messageId": "<72cf7b73-fc90-57d2-4049-7738b8e6863f@gmail.com>"
+    },
+    {
+      "businessName": "DFW HVAC",
+      "email": "info@dfwhvac.com",
+      "city": "Dallas",
+      "subject": "quick question regarding DFW HVAC's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:33.854Z",
+      "messageId": "<efad8917-e57e-9880-f1cc-ad442ac19422@gmail.com>"
+    },
+    {
+      "businessName": "The Chill Brothers",
+      "email": "hello@thechillbrothers.com",
+      "city": "Dallas",
+      "subject": "quick question regarding The Chill Brothers's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:39.244Z",
+      "messageId": "<9048d9d0-7c62-dee3-f621-18b9d1c50659@gmail.com>"
+    },
+    {
+      "businessName": "Paschal Air, Plumbing & Electric",
+      "email": "info@gopaschal.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Paschal Air, Plumbing & Electric's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:44.561Z",
+      "messageId": "<f5bdafb1-2c49-4486-7f5a-723523c85046@gmail.com>"
+    },
+    {
+      "businessName": "MillionAire Heating, Air, and Plumbing",
+      "email": "contact@plumber.com",
+      "city": "Dallas",
+      "subject": "quick question regarding MillionAire Heating, Air, and Plumbing's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:49.987Z",
+      "messageId": "<c2bb36db-ae47-2ae7-87fb-b36b567c436f@gmail.com>"
+    },
+    {
+      "businessName": "Hooper Plumbing & Air Conditioning Dallas",
+      "email": "tracy@hooperplumbing.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Hooper Plumbing & Air Conditioning Dallas's operations in Dallas",
+      "timestamp": "2026-10-02T19:08:55.443Z",
+      "messageId": "<63b176c2-48a8-d0de-1733-15f023d49f5e@gmail.com>"
+    },
+    {
+      "businessName": "Berry Best Cooling & Heating",
+      "email": "comfort@berrybestservices.com",
+      "city": "Dallas",
+      "subject": "quick question regarding Berry Best Cooling & Heating's operations in Dallas",
+      "timestamp": "2026-10-02T19:09:01.116Z",
+      "messageId": "<72dbc968-c0fe-bc45-a749-1966995f6f0e@gmail.com>"
     }
   ]
 }

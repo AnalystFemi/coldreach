@@ -531,13 +531,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Rendin's operations in Estonia",
     "pitchBody": "Hi Alain,\n\nAs Rendin grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Rendin's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:14.239Z",
     "localTime": "Thu 6:10 AM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:05:55.224Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849238631_21",
@@ -555,13 +557,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Avi Medical's operations in Munich",
     "pitchBody": "Hi Vlad,\n\nAs Avi Medical grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Avi Medical's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:18.631Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:01.006Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849240836_22",
@@ -579,13 +583,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Liven's operations in Sydney",
     "pitchBody": "Hi Shahrooz,\n\nAs Liven grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Liven's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:20.836Z",
     "localTime": "Thu 8:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:06.560Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849259492_23",
@@ -603,13 +609,15 @@
     "mxValid": true,
     "mxHost": "mx01.socotec.de",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding SD ENGINEERING's operations in Bochum",
     "pitchBody": "Hi Markus,\n\nAs SD ENGINEERING grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline SD ENGINEERING's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:39.492Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:12.067Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849261642_25",
@@ -627,13 +635,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Rex's operations in Germany",
     "pitchBody": "Hi Cynthia,\n\nAs Rex grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Rex's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:41.642Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:17.458Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849263823_26",
@@ -651,13 +661,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding SuitePad's operations in Berlin",
     "pitchBody": "Hi Tilmann,\n\nAs SuitePad grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline SuitePad's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:43.823Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:22.999Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849265942_27",
@@ -675,13 +687,15 @@
     "mxValid": true,
     "mxHost": "ASPMX.L.GOOGLE.COM",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding deepc's operations in Munich",
     "pitchBody": "Hi Paul,\n\nAs deepc grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline deepc's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:45.942Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:28.628Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849268119_28",
@@ -699,13 +713,15 @@
     "mxValid": true,
     "mxHost": "yurigravity-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding yuri's operations in Weingarten",
     "pitchBody": "Hi Christian,\n\nAs yuri grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline yuri's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:07:48.119Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:34.243Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849282866_29",
@@ -723,13 +739,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding tozero's operations in Munich",
     "pitchBody": "Hi Sarah,\n\nAs tozero grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline tozero's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:02.866Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:39.756Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849287343_30",
@@ -747,13 +765,15 @@
     "mxValid": true,
     "mxHost": "eaglelsp-de01c.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding eagle lsp's operations in Hamburg",
     "pitchBody": "Hi Malte,\n\nAs eagle lsp grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline eagle lsp's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:07.343Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:45.213Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849289440_31",
@@ -771,13 +791,15 @@
     "mxValid": true,
     "mxHost": "klosterkitchen-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Kloster Kitchen's operations in Reichenschwand",
     "pitchBody": "Hi Mario,\n\nAs Kloster Kitchen grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Kloster Kitchen's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:09.441Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:50.646Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849301905_32",
@@ -795,13 +817,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding stayFritz's operations in Schliersee",
     "pitchBody": "Hi Thomas,\n\nAs stayFritz grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline stayFritz's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:21.905Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:06:56.141Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849314040_33",
@@ -819,13 +843,15 @@
     "mxValid": true,
     "mxHost": "lilium-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Lilium's operations in Germany",
     "pitchBody": "Hi Matthias,\n\nAs Lilium grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Lilium's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:34.040Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:07:01.468Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849316202_34",
@@ -843,13 +869,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Kursinsel's operations in Berlin",
     "pitchBody": "Hi Raphael,\n\nAs Kursinsel grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Kursinsel's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:36.202Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:07:07.038Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849318334_35",
@@ -867,13 +895,15 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding ahead®'s operations in Hamburg",
     "pitchBody": "Hi Johannes,\n\nAs ahead® grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline ahead®'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:38.334Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:07:17.186Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849320462_36",
@@ -891,13 +921,15 @@
     "mxValid": true,
     "mxHost": "bavertis-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding BAVERTIS's operations in Munich",
     "pitchBody": "Hi Manuel,\n\nAs BAVERTIS grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline BAVERTIS's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:40.462Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:07:22.743Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849322562_37",
@@ -915,13 +947,15 @@
     "mxValid": true,
     "mxHost": "avilus-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding AVILUS || We are hiring!'s operations in Munich",
     "pitchBody": "Hi Max,\n\nAs AVILUS || We are hiring! grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline AVILUS || We are hiring!'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:42.562Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:07:28.127Z",
+    "error": null
   },
   {
     "id": "lead_apollo_1790849324667_38",
@@ -939,13 +973,15 @@
     "mxValid": true,
     "mxHost": "nativeresearch-com01e.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding NativeResearch drw's operations in Hamburg",
     "pitchBody": "Hi Johannes,\n\nAs NativeResearch drw grows, operational complexity grows with it. Leaders often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping companies build systems that automate lead management, instant missed-call response, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no opportunity goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline NativeResearch drw's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & CRM Automation",
     "createdAt": "2026-10-01T10:08:44.667Z",
     "localTime": "Thu 12:10 PM",
-    "isInSendWindow": false
+    "isInSendWindow": false,
+    "sentAt": "2026-10-02T19:07:33.654Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849464890_38",
@@ -985,11 +1021,13 @@
     "mxValid": true,
     "mxHost": "resservices-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Airtron Heating & Air Conditioning's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Airtron Heating & Air Conditioning grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Airtron Heating & Air Conditioning's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:11:17.210Z"
+    "createdAt": "2026-10-01T10:11:17.210Z",
+    "sentAt": "2026-10-02T19:07:39.097Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849481236_40",
@@ -1029,11 +1067,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Harlen Johnson HVAC, Plumbing & Electrical's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Harlen Johnson HVAC, Plumbing & Electrical grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Harlen Johnson HVAC, Plumbing & Electrical's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:11:28.482Z"
+    "createdAt": "2026-10-01T10:11:28.482Z",
+    "sentAt": "2026-10-02T19:07:44.499Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849493668_42",
@@ -1073,11 +1113,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Moss Heating, Cooling & Plumbing's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Moss Heating, Cooling & Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Moss Heating, Cooling & Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:11:40.399Z"
+    "createdAt": "2026-10-01T10:11:40.399Z",
+    "sentAt": "2026-10-02T19:07:49.958Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849507075_44",
@@ -1117,11 +1159,13 @@
     "mxValid": true,
     "mxHost": "dallasheatingac-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dallas Heating and Air Conditioning's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Dallas Heating and Air Conditioning grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dallas Heating and Air Conditioning's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:11:51.575Z"
+    "createdAt": "2026-10-01T10:11:51.575Z",
+    "sentAt": "2026-10-02T19:07:55.394Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849514076_46",
@@ -1161,11 +1205,13 @@
     "mxValid": true,
     "mxHost": "SMTP.GOOGLE.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Mondragon Mechanical's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Mondragon Mechanical grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Mondragon Mechanical's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:11:58.229Z"
+    "createdAt": "2026-10-01T10:11:58.229Z",
+    "sentAt": "2026-10-02T19:08:00.842Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849529076_48",
@@ -1205,11 +1251,13 @@
     "mxValid": true,
     "mxHost": "metroacs-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Metro Air Conditioning Heating & Services's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Metro Air Conditioning Heating & Services grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Metro Air Conditioning Heating & Services's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:12:22.522Z"
+    "createdAt": "2026-10-01T10:12:22.522Z",
+    "sentAt": "2026-10-02T19:08:06.380Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849550065_50",
@@ -1271,11 +1319,13 @@
     "mxValid": true,
     "mxHost": "mx1-us1.ppe-hosted.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Alpha Heating & Cooling's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Alpha Heating & Cooling grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Alpha Heating & Cooling's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:12:40.106Z"
+    "createdAt": "2026-10-01T10:12:40.106Z",
+    "sentAt": "2026-10-02T19:08:11.759Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849567801_53",
@@ -1293,11 +1343,13 @@
     "mxValid": true,
     "mxHost": "aireservdallas-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Aire Serv of Dallas's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Aire Serv of Dallas grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Aire Serv of Dallas's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:12:47.802Z"
+    "createdAt": "2026-10-01T10:12:47.802Z",
+    "sentAt": "2026-10-02T19:08:17.168Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849579656_54",
@@ -1425,11 +1477,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Jade Air,'s operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Jade Air, grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Jade Air,'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:13:43.069Z"
+    "createdAt": "2026-10-01T10:13:43.069Z",
+    "sentAt": "2026-10-02T19:08:22.893Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849634436_60",
@@ -1469,11 +1523,13 @@
     "mxValid": true,
     "mxHost": "localhost",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Cozy - D Heating & A/C's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Cozy - D Heating & A/C grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Cozy - D Heating & A/C's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:14:02.194Z"
+    "createdAt": "2026-10-01T10:14:02.194Z",
+    "sentAt": "2026-10-02T19:08:28.385Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849646710_62",
@@ -1623,11 +1679,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding DFW HVAC's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs DFW HVAC grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline DFW HVAC's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:14:49.034Z"
+    "createdAt": "2026-10-01T10:14:49.034Z",
+    "sentAt": "2026-10-02T19:08:33.854Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849689621_69",
@@ -1733,11 +1791,13 @@
     "mxValid": true,
     "mxHost": "thechillbrothers-com.mx1.arsmtp.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Chill Brothers's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs The Chill Brothers grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Chill Brothers's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:15:16.058Z"
+    "createdAt": "2026-10-01T10:15:16.058Z",
+    "sentAt": "2026-10-02T19:08:39.244Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849725705_74",
@@ -1755,11 +1815,13 @@
     "mxValid": true,
     "mxHost": "us-smtp-inbound-1.mimecast.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Paschal Air, Plumbing & Electric's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Paschal Air, Plumbing & Electric grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Paschal Air, Plumbing & Electric's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:15:25.705Z"
+    "createdAt": "2026-10-01T10:15:25.705Z",
+    "sentAt": "2026-10-02T19:08:44.561Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849735126_75",
@@ -1777,11 +1839,13 @@
     "mxValid": true,
     "mxHost": "plumber-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding MillionAire Heating, Air, and Plumbing's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs MillionAire Heating, Air, and Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline MillionAire Heating, Air, and Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:15:35.126Z"
+    "createdAt": "2026-10-01T10:15:35.126Z",
+    "sentAt": "2026-10-02T19:08:49.987Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849749813_76",
@@ -1821,11 +1885,13 @@
     "mxValid": true,
     "mxHost": "hooperplumbing-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Hooper Plumbing & Air Conditioning Dallas's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Hooper Plumbing & Air Conditioning Dallas grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Hooper Plumbing & Air Conditioning Dallas's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:15:56.951Z"
+    "createdAt": "2026-10-01T10:15:56.951Z",
+    "sentAt": "2026-10-02T19:08:55.443Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849763570_78",
@@ -1887,11 +1953,13 @@
     "mxValid": true,
     "mxHost": "mx1.privateemail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Berry Best Cooling & Heating's operations in Dallas",
     "pitchBody": "Hello there,\n\nAs Berry Best Cooling & Heating grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Dallas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Berry Best Cooling & Heating's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:16:11.471Z"
+    "createdAt": "2026-10-01T10:16:11.471Z",
+    "sentAt": "2026-10-02T19:09:01.116Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790849782757_81",
