@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-02",
+  "lastResetDate": "2026-10-05",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Alain Aun (Rendin)",
-      "email": "alain@rendin.co",
-      "city": "",
-      "subject": "quick question regarding Rendin's operations in Estonia",
-      "timestamp": "2026-10-02T19:05:55.224Z",
-      "messageId": "<d8c98add-a052-6d43-514d-7775ad2c7a8c@gmail.com>"
-    },
-    {
-      "businessName": "Vlad Lata (Avi Medical)",
-      "email": "vlad.lata@avimedical.com",
-      "city": "Munich",
-      "subject": "quick question regarding Avi Medical's operations in Munich",
-      "timestamp": "2026-10-02T19:06:01.006Z",
-      "messageId": "<8a6b5d6b-c2a2-f3b6-848b-ce998a930a2f@gmail.com>"
-    },
-    {
-      "businessName": "Shahrooz Chowdhury (Liven)",
-      "email": "shahrooz@liven.love",
-      "city": "Sydney",
-      "subject": "quick question regarding Liven's operations in Sydney",
-      "timestamp": "2026-10-02T19:06:06.560Z",
-      "messageId": "<77c5b705-adae-4c66-acbf-dfb19ad4cef1@gmail.com>"
-    },
-    {
-      "businessName": "Markus Scheffer (SD ENGINEERING)",
-      "email": "scheffer@sd.engineering",
-      "city": "Bochum",
-      "subject": "quick question regarding SD ENGINEERING's operations in Bochum",
-      "timestamp": "2026-10-02T19:06:12.067Z",
-      "messageId": "<f07afb38-64a0-6b5a-5876-a3ec4404d174@gmail.com>"
-    },
-    {
-      "businessName": "Cynthia Haug (Rex)",
-      "email": "cynthia.haug@rex.app",
-      "city": "",
-      "subject": "quick question regarding Rex's operations in Germany",
-      "timestamp": "2026-10-02T19:06:17.458Z",
-      "messageId": "<f7d99150-faab-5446-aebb-ef9f9e18c67e@gmail.com>"
-    },
-    {
-      "businessName": "Tilmann Volk (SuitePad)",
-      "email": "tilmann.volk@suitepad.de",
-      "city": "Berlin",
-      "subject": "quick question regarding SuitePad's operations in Berlin",
-      "timestamp": "2026-10-02T19:06:22.999Z",
-      "messageId": "<caca30fc-6430-9966-713f-d9d4a8cad0ce@gmail.com>"
-    },
-    {
-      "businessName": "Paul Mayer (deepc)",
-      "email": "paul@deepc.ai",
-      "city": "Munich",
-      "subject": "quick question regarding deepc's operations in Munich",
-      "timestamp": "2026-10-02T19:06:28.628Z",
-      "messageId": "<4bd5f46f-3ab8-2a09-6f63-336bac308bba@gmail.com>"
-    },
-    {
-      "businessName": "Christian Bruderrek (yuri)",
-      "email": "christian.bruderrek@yurigravity.com",
-      "city": "Weingarten",
-      "subject": "quick question regarding yuri's operations in Weingarten",
-      "timestamp": "2026-10-02T19:06:34.243Z",
-      "messageId": "<ad79b9bf-35b0-bc88-4d82-aa4c317852a7@gmail.com>"
-    },
-    {
-      "businessName": "Sarah Fleischer (tozero)",
-      "email": "sarah@tozero.solutions",
-      "city": "Munich",
-      "subject": "quick question regarding tozero's operations in Munich",
-      "timestamp": "2026-10-02T19:06:39.756Z",
-      "messageId": "<7c984d9b-24f5-f860-d5dd-12c3cf886d76@gmail.com>"
-    },
-    {
-      "businessName": "Malte Schafstedde (eagle lsp)",
-      "email": "malte.schafstedde@eagle-lsp.de",
-      "city": "Hamburg",
-      "subject": "quick question regarding eagle lsp's operations in Hamburg",
-      "timestamp": "2026-10-02T19:06:45.213Z",
-      "messageId": "<45c33f24-714a-6529-79f3-98672705a156@gmail.com>"
-    },
-    {
-      "businessName": "Mario Fuerst (Kloster Kitchen)",
-      "email": "mario.fuerst@klosterkitchen.com",
-      "city": "Reichenschwand",
-      "subject": "quick question regarding Kloster Kitchen's operations in Reichenschwand",
-      "timestamp": "2026-10-02T19:06:50.646Z",
-      "messageId": "<ffb97338-c937-91bb-2790-796e2c187946@gmail.com>"
-    },
-    {
-      "businessName": "Thomas Langenberg (stayFritz)",
-      "email": "thomas.langenberg@stayfritz.com",
-      "city": "Schliersee",
-      "subject": "quick question regarding stayFritz's operations in Schliersee",
-      "timestamp": "2026-10-02T19:06:56.141Z",
-      "messageId": "<e42f64f5-7594-cfb8-6b1b-403f016f2d0a@gmail.com>"
-    },
-    {
-      "businessName": "Matthias Meiner (Lilium)",
-      "email": "matthias@lilium.com",
-      "city": "",
-      "subject": "quick question regarding Lilium's operations in Germany",
-      "timestamp": "2026-10-02T19:07:01.468Z",
-      "messageId": "<c049270b-f0ae-fcd0-a3e1-605a9117704d@gmail.com>"
-    },
-    {
-      "businessName": "Raphael Derstappen (Kursinsel)",
-      "email": "raphael@kursinsel.de",
-      "city": "Berlin",
-      "subject": "quick question regarding Kursinsel's operations in Berlin",
-      "timestamp": "2026-10-02T19:07:07.038Z",
-      "messageId": "<bd6e6a08-913f-eabd-b228-7166e4c8687b@gmail.com>"
-    },
-    {
-      "businessName": "Johannes Soerensen (ahead®)",
-      "email": "johannes@ahead-nutrition.com",
-      "city": "Hamburg",
-      "subject": "quick question regarding ahead®'s operations in Hamburg",
-      "timestamp": "2026-10-02T19:07:17.186Z",
-      "messageId": "<55f51cba-bd3c-2305-9e98-533cae651c1b@gmail.com>"
-    },
-    {
-      "businessName": "Manuel Kuder (BAVERTIS)",
-      "email": "manuel.kuder@bavertis.com",
-      "city": "Munich",
-      "subject": "quick question regarding BAVERTIS's operations in Munich",
-      "timestamp": "2026-10-02T19:07:22.743Z",
-      "messageId": "<0c142c91-771c-214d-9433-305ff5658065@gmail.com>"
-    },
-    {
-      "businessName": "Max Soepper (AVILUS || We are hiring!)",
-      "email": "max.soepper@avilus.com",
-      "city": "Munich",
-      "subject": "quick question regarding AVILUS || We are hiring!'s operations in Munich",
-      "timestamp": "2026-10-02T19:07:28.127Z",
-      "messageId": "<14c96d74-7277-289c-9873-11bf4c37230b@gmail.com>"
-    },
-    {
-      "businessName": "Johannes Nass (NativeResearch drw)",
-      "email": "johannes.nass@native-research.com",
-      "city": "Hamburg",
-      "subject": "quick question regarding NativeResearch drw's operations in Hamburg",
-      "timestamp": "2026-10-02T19:07:33.654Z",
-      "messageId": "<e84bddaa-0de1-928a-ed41-19f1ded61626@gmail.com>"
-    },
-    {
-      "businessName": "Airtron Heating & Air Conditioning",
-      "email": "airtrondataprivacy@resservices.com",
+      "businessName": "Air 75 - HVAC & Insulation",
+      "email": "info@air75hvac.com",
       "city": "Dallas",
-      "subject": "quick question regarding Airtron Heating & Air Conditioning's operations in Dallas",
-      "timestamp": "2026-10-02T19:07:39.098Z",
-      "messageId": "<28457725-4455-587e-3939-98f569b5990a@gmail.com>"
+      "subject": "quick question regarding Air 75 - HVAC & Insulation's operations in Dallas",
+      "timestamp": "2026-10-05T21:26:10.821Z",
+      "messageId": "<ff836d4c-f02d-6ced-de50-845cabbf6239@gmail.com>"
     },
     {
-      "businessName": "Harlen Johnson HVAC, Plumbing & Electrical",
-      "email": "sales@hjac.com",
+      "businessName": "Proactive Air Conditioning",
+      "email": "info@proactiveairconditioning.com",
       "city": "Dallas",
-      "subject": "quick question regarding Harlen Johnson HVAC, Plumbing & Electrical's operations in Dallas",
-      "timestamp": "2026-10-02T19:07:44.499Z",
-      "messageId": "<0cbe93ad-9db7-b87e-9012-190245299964@gmail.com>"
+      "subject": "quick question regarding Proactive Air Conditioning's operations in Dallas",
+      "timestamp": "2026-10-05T21:26:16.135Z",
+      "messageId": "<ba5bbcf6-aa10-7ef8-03e5-4225dac646a3@gmail.com>"
     },
     {
-      "businessName": "Moss Heating, Cooling & Plumbing",
-      "email": "jsmith@gmail.com",
+      "businessName": "Efficient Home Solutions Heating & Air of Plano",
+      "email": "info@ehshvac.com",
       "city": "Dallas",
-      "subject": "quick question regarding Moss Heating, Cooling & Plumbing's operations in Dallas",
-      "timestamp": "2026-10-02T19:07:49.958Z",
-      "messageId": "<49b464dd-22a0-fa50-554e-52fdaa23d953@gmail.com>"
+      "subject": "quick question regarding Efficient Home Solutions Heating & Air of Plano's operations in Dallas",
+      "timestamp": "2026-10-05T21:26:21.227Z",
+      "messageId": "<4272bbe9-5597-9201-aebb-7b5c5ff57d53@gmail.com>"
     },
     {
-      "businessName": "Dallas Heating and Air Conditioning",
-      "email": "service@dallasheatingac.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Dallas Heating and Air Conditioning's operations in Dallas",
-      "timestamp": "2026-10-02T19:07:55.394Z",
-      "messageId": "<f2d84683-4d0b-8f13-1f13-94e912e1fc2c@gmail.com>"
+      "businessName": "Texas Dental Center",
+      "email": "info@texasdentalcenter.com",
+      "city": "Houston",
+      "subject": "quick question regarding Texas Dental Center's operations in Houston",
+      "timestamp": "2026-10-05T21:26:26.371Z",
+      "messageId": "<989408ea-a670-28d0-4a78-bc8543e957d4@gmail.com>"
     },
     {
-      "businessName": "Mondragon Mechanical LLC",
-      "email": "office@mondragonac.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Mondragon Mechanical's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:00.842Z",
-      "messageId": "<6d8b1423-2a7e-1e72-864a-bb9e5d5fa71a@gmail.com>"
+      "businessName": "EZ Dental Clinic Houston",
+      "email": "ezdentaldds@gmail.com",
+      "city": "Houston",
+      "subject": "quick question regarding EZ Dental Clinic Houston's operations in Houston",
+      "timestamp": "2026-10-05T21:26:31.561Z",
+      "messageId": "<fe0df030-b6d7-0ee5-cba2-5c8ca24f0728@gmail.com>"
     },
     {
-      "businessName": "Metro Air Conditioning Heating & Services",
-      "email": "info@metroacs.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Metro Air Conditioning Heating & Services's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:06.380Z",
-      "messageId": "<09e76996-de84-8e7a-c02b-e954e282e8b3@gmail.com>"
+      "businessName": "houston medical center dental",
+      "email": "tmcdental02@yahoo.com",
+      "city": "Houston",
+      "subject": "quick question regarding houston medical center dental's operations in Houston",
+      "timestamp": "2026-10-05T21:26:36.674Z",
+      "messageId": "<00435781-dd45-94eb-9e80-977c7f6376c2@gmail.com>"
     },
     {
-      "businessName": "Alpha Heating & Cooling",
-      "email": "team@alphahvac.net",
-      "city": "Dallas",
-      "subject": "quick question regarding Alpha Heating & Cooling's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:11.759Z",
-      "messageId": "<c9aa2968-79f1-cb55-d949-267a761b2d2f@gmail.com>"
+      "businessName": "Downtown Houston Dental",
+      "email": "info@downtownhoustondentist.com",
+      "city": "Houston",
+      "subject": "quick question regarding Downtown Houston Dental's operations in Houston",
+      "timestamp": "2026-10-05T21:26:41.816Z",
+      "messageId": "<fbc3f27c-e637-e6bd-0912-9e4ec4149969@gmail.com>"
     },
     {
-      "businessName": "Aire Serv of Dallas",
-      "email": "dallas.tx@aireservdallas.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Aire Serv of Dallas's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:17.168Z",
-      "messageId": "<e195883d-fcd6-d21c-9908-8191ba2f0190@gmail.com>"
+      "businessName": "Omega Dental Specialists",
+      "email": "you@email.com",
+      "city": "Houston",
+      "subject": "quick question regarding Omega Dental Specialists's operations in Houston",
+      "timestamp": "2026-10-05T21:26:46.962Z",
+      "messageId": "<3bdc40c4-b6f4-0e05-fd9d-2bca03c70317@gmail.com>"
     },
     {
-      "businessName": "Jade Air, LLC",
-      "email": "gilbert@jadeair.net",
-      "city": "Dallas",
-      "subject": "quick question regarding Jade Air,'s operations in Dallas",
-      "timestamp": "2026-10-02T19:08:22.893Z",
-      "messageId": "<73ba8ba1-6054-34c1-08f1-b3768fe37d84@gmail.com>"
+      "businessName": "EaDo Family Dental",
+      "email": "office@eadofamilydental.com",
+      "city": "Houston",
+      "subject": "quick question regarding EaDo Family Dental's operations in Houston",
+      "timestamp": "2026-10-05T21:26:52.190Z",
+      "messageId": "<7f7efe19-6200-46f3-bd17-8d0f3f56d235@gmail.com>"
     },
     {
-      "businessName": "Cozy - D Heating & A/C LLC",
-      "email": "info@yourcompany.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Cozy - D Heating & A/C's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:28.385Z",
-      "messageId": "<72cf7b73-fc90-57d2-4049-7738b8e6863f@gmail.com>"
+      "businessName": "URBN Dental Implants & Invisalign | Midtown",
+      "email": "riveroaks@urbndental.com",
+      "city": "Houston",
+      "subject": "quick question regarding URBN Dental Implants & Invisalign | Midtown's operations in Houston",
+      "timestamp": "2026-10-05T21:26:57.360Z",
+      "messageId": "<e976e6ea-680d-2405-bd0f-4a941220a19d@gmail.com>"
     },
     {
-      "businessName": "DFW HVAC",
-      "email": "info@dfwhvac.com",
-      "city": "Dallas",
-      "subject": "quick question regarding DFW HVAC's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:33.854Z",
-      "messageId": "<efad8917-e57e-9880-f1cc-ad442ac19422@gmail.com>"
+      "businessName": "Bayou City Smiles",
+      "email": "yourdentist@bayoucitysmiles.com",
+      "city": "Houston",
+      "subject": "quick question regarding Bayou City Smiles's operations in Houston",
+      "timestamp": "2026-10-05T21:27:02.544Z",
+      "messageId": "<e008cde7-8478-0285-28f8-ec395e186cc1@gmail.com>"
     },
     {
-      "businessName": "The Chill Brothers",
-      "email": "hello@thechillbrothers.com",
-      "city": "Dallas",
-      "subject": "quick question regarding The Chill Brothers's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:39.244Z",
-      "messageId": "<9048d9d0-7c62-dee3-f621-18b9d1c50659@gmail.com>"
+      "businessName": "L's Dental",
+      "email": "homestead@texasdental.group",
+      "city": "Houston",
+      "subject": "quick question regarding L's Dental's operations in Houston",
+      "timestamp": "2026-10-05T21:27:07.778Z",
+      "messageId": "<2da2b017-7060-3aa3-f667-755660dae424@gmail.com>"
     },
     {
-      "businessName": "Paschal Air, Plumbing & Electric",
-      "email": "info@gopaschal.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Paschal Air, Plumbing & Electric's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:44.561Z",
-      "messageId": "<f5bdafb1-2c49-4486-7f5a-723523c85046@gmail.com>"
+      "businessName": "EZ Dental Care",
+      "email": "ezdentaldds@gmail.com",
+      "city": "Houston",
+      "subject": "quick question regarding EZ Dental Care's operations in Houston",
+      "timestamp": "2026-10-05T21:27:12.956Z",
+      "messageId": "<599582df-61b3-9657-0d5f-ca977479c2be@gmail.com>"
     },
     {
-      "businessName": "MillionAire Heating, Air, and Plumbing",
-      "email": "contact@plumber.com",
-      "city": "Dallas",
-      "subject": "quick question regarding MillionAire Heating, Air, and Plumbing's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:49.987Z",
-      "messageId": "<c2bb36db-ae47-2ae7-87fb-b36b567c436f@gmail.com>"
+      "businessName": "FLOSS Dental of Houston Midtown",
+      "email": "infomidtown@flossdental.com",
+      "city": "Houston",
+      "subject": "quick question regarding FLOSS Dental of Houston Midtown's operations in Houston",
+      "timestamp": "2026-10-05T21:27:18.279Z",
+      "messageId": "<2d4ab2ba-08ff-1923-5cb3-780be85634be@gmail.com>"
     },
     {
-      "businessName": "Hooper Plumbing & Air Conditioning Dallas",
-      "email": "tracy@hooperplumbing.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Hooper Plumbing & Air Conditioning Dallas's operations in Dallas",
-      "timestamp": "2026-10-02T19:08:55.443Z",
-      "messageId": "<63b176c2-48a8-d0de-1733-15f023d49f5e@gmail.com>"
+      "businessName": "Smiles of Midtown",
+      "email": "office@smilesofmidtown.com",
+      "city": "Houston",
+      "subject": "quick question regarding Smiles of Midtown's operations in Houston",
+      "timestamp": "2026-10-05T21:27:23.795Z",
+      "messageId": "<3b447ce8-3913-c70f-7ce5-7737494d632a@gmail.com>"
     },
     {
-      "businessName": "Berry Best Cooling & Heating",
-      "email": "comfort@berrybestservices.com",
-      "city": "Dallas",
-      "subject": "quick question regarding Berry Best Cooling & Heating's operations in Dallas",
-      "timestamp": "2026-10-02T19:09:01.116Z",
-      "messageId": "<72dbc968-c0fe-bc45-a749-1966995f6f0e@gmail.com>"
+      "businessName": "Emergency Dental Care USA",
+      "email": "seh@emergencydental.com",
+      "city": "Houston",
+      "subject": "quick question regarding Emergency Dental Care USA's operations in Houston",
+      "timestamp": "2026-10-05T21:27:28.977Z",
+      "messageId": "<986461e8-1c1a-10d0-d79a-a053af9b14f6@gmail.com>"
+    },
+    {
+      "businessName": "FLO dentistry",
+      "email": "smile@flodentistry.com",
+      "city": "Houston",
+      "subject": "quick question regarding FLO dentistry's operations in Houston",
+      "timestamp": "2026-10-05T21:27:34.261Z",
+      "messageId": "<f746199a-ff8b-872b-49ae-9921bb70098b@gmail.com>"
+    },
+    {
+      "businessName": "Houston Skyline Dental",
+      "email": "houstonskylinellc@gmail.com",
+      "city": "Houston",
+      "subject": "quick question regarding Houston Skyline Dental's operations in Houston",
+      "timestamp": "2026-10-05T21:27:39.352Z",
+      "messageId": "<59e4daed-68d7-2946-d214-65f6b7206d5a@gmail.com>"
+    },
+    {
+      "businessName": "Bayou City Smiles",
+      "email": "yourdentist@bayoucitysmiles.com",
+      "city": "Houston",
+      "subject": "quick question regarding Bayou City Smiles's operations in Houston",
+      "timestamp": "2026-10-05T21:27:44.554Z",
+      "messageId": "<5109c16b-a47f-c648-5931-1e163019989c@gmail.com>"
+    },
+    {
+      "businessName": "Lush Dental Heights",
+      "email": "admin@lushdentalheights.com",
+      "city": "Houston",
+      "subject": "quick question regarding Lush Dental Heights's operations in Houston",
+      "timestamp": "2026-10-05T21:27:49.629Z",
+      "messageId": "<2a3b3279-2224-1a3c-0a54-3845f8d944a3@gmail.com>"
+    },
+    {
+      "businessName": "The Dentists at 650 Heights",
+      "email": "specialist@dentistsat650heights.com",
+      "city": "Houston",
+      "subject": "quick question regarding The Dentists at 650 Heights's operations in Houston",
+      "timestamp": "2026-10-05T21:27:54.839Z",
+      "messageId": "<fe42a82e-b319-7e32-6298-f808bd57cbc8@gmail.com>"
+    },
+    {
+      "businessName": "URBN Dental Implants & Invisalign | East River",
+      "email": "riveroaks@urbndental.com",
+      "city": "Houston",
+      "subject": "quick question regarding URBN Dental Implants & Invisalign | East River's operations in Houston",
+      "timestamp": "2026-10-05T21:27:59.925Z",
+      "messageId": "<1098b844-1d8a-8559-7a01-e1c523ca7bb9@gmail.com>"
+    },
+    {
+      "businessName": "URBN Dental Implants & Invisalign | Montrose",
+      "email": "riveroaks@urbndental.com",
+      "city": "Houston",
+      "subject": "quick question regarding URBN Dental Implants & Invisalign | Montrose's operations in Houston",
+      "timestamp": "2026-10-05T21:28:05.005Z",
+      "messageId": "<93fc23cb-5c7c-9f32-96a6-6b4fca1a0568@gmail.com>"
+    },
+    {
+      "businessName": "Dental Illusions",
+      "email": "rochelle@dentalillusions.com",
+      "city": "Houston",
+      "subject": "quick question regarding Dental Illusions's operations in Houston",
+      "timestamp": "2026-10-05T21:28:10.239Z",
+      "messageId": "<3ce9867f-9b09-ff24-798e-6e792d40cce1@gmail.com>"
+    },
+    {
+      "businessName": "Flash Dental",
+      "email": "flash@flashdental.com",
+      "city": "Houston",
+      "subject": "quick question regarding Flash Dental's operations in Houston",
+      "timestamp": "2026-10-05T21:28:15.459Z",
+      "messageId": "<0fcb9216-a04d-c145-f366-6f7ff410b99c@gmail.com>"
+    },
+    {
+      "businessName": "FMS Dental & Orthodontics",
+      "email": "office@fmsdental.org",
+      "city": "Houston",
+      "subject": "quick question regarding FMS Dental & Orthodontics's operations in Houston",
+      "timestamp": "2026-10-05T21:28:20.526Z",
+      "messageId": "<30364427-41f3-e1d5-055a-5f3ba7e77999@gmail.com>"
+    },
+    {
+      "businessName": "Brilliant Dental Care",
+      "email": "info@brilliantdentalcare.com",
+      "city": "Houston",
+      "subject": "quick question regarding Brilliant Dental Care's operations in Houston",
+      "timestamp": "2026-10-05T21:28:25.714Z",
+      "messageId": "<79cfb7c4-24c9-3da6-8185-b3e675459654@gmail.com>"
+    },
+    {
+      "businessName": "Restore Dental At Montrose",
+      "email": "info@restoredentalmontrose.com",
+      "city": "Houston",
+      "subject": "quick question regarding Restore Dental At Montrose's operations in Houston",
+      "timestamp": "2026-10-05T21:28:30.796Z",
+      "messageId": "<2ac5e9c1-c288-3836-1055-5e7ac1e1ba3b@gmail.com>"
+    },
+    {
+      "businessName": "The Village Dentistry",
+      "email": "info@thevillagedentistry.com",
+      "city": "Houston",
+      "subject": "quick question regarding The Village Dentistry's operations in Houston",
+      "timestamp": "2026-10-05T21:28:36.003Z",
+      "messageId": "<f1b393b4-ad35-fea9-7f41-a720f00eb5aa@gmail.com>"
+    },
+    {
+      "businessName": "District Dental",
+      "email": "info@district-dental.com",
+      "city": "Houston",
+      "subject": "quick question regarding District Dental's operations in Houston",
+      "timestamp": "2026-10-05T21:28:41.212Z",
+      "messageId": "<880e6ef4-47d9-b2c6-be0a-4ed51632eeb3@gmail.com>"
+    },
+    {
+      "businessName": "Clio Dental Studio",
+      "email": "info@cliodentalstudio.com",
+      "city": "Houston",
+      "subject": "quick question regarding Clio Dental Studio's operations in Houston",
+      "timestamp": "2026-10-05T21:28:46.308Z",
+      "messageId": "<1f48a9bb-9530-a644-29df-d02e9aa09848@gmail.com>"
+    },
+    {
+      "businessName": "Downtown Dentist",
+      "email": "info@downtowndentist.com",
+      "city": "Houston",
+      "subject": "quick question regarding Downtown Dentist's operations in Houston",
+      "timestamp": "2026-10-05T21:28:51.687Z",
+      "messageId": "<0816e1e0-d764-3cbd-d25f-f018d5d9b7c8@gmail.com>"
+    },
+    {
+      "businessName": "Green Earth Dentistry",
+      "email": "greenearth1202@gmail.com",
+      "city": "Houston",
+      "subject": "quick question regarding Green Earth Dentistry's operations in Houston",
+      "timestamp": "2026-10-05T21:28:56.934Z",
+      "messageId": "<e147a523-b0fc-17f7-4c75-bc803b4c5434@gmail.com>"
+    },
+    {
+      "businessName": "GEI Plumbing Services Houston",
+      "email": "team@geiretail.com",
+      "city": "Houston",
+      "subject": "quick question regarding GEI Plumbing Services Houston's operations in Houston",
+      "timestamp": "2026-10-05T21:29:02.112Z",
+      "messageId": "<04f92234-2cf7-94be-8ac9-7d1f72be4b7e@gmail.com>"
     }
   ]
 }
