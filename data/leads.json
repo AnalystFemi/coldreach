@@ -3739,11 +3739,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Cooper Plumbing | Houston Plumber's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Cooper Plumbing | Houston Plumber grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Cooper Plumbing | Houston Plumber's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:26:16.322Z"
+    "createdAt": "2026-10-01T10:26:16.322Z",
+    "sentAt": "2026-10-06T19:23:14.917Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850380304_159",
@@ -3761,11 +3763,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Affordable Plumbing Services Houston's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Affordable Plumbing Services Houston grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Affordable Plumbing Services Houston's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:26:20.304Z"
+    "createdAt": "2026-10-01T10:26:20.304Z",
+    "sentAt": "2026-10-06T19:23:20.247Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850385430_160",
@@ -3783,11 +3787,13 @@
     "mxValid": true,
     "mxHost": "nicksplumbing-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Nick's Plumbing & Air Conditioning's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Nick's Plumbing & Air Conditioning grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Nick's Plumbing & Air Conditioning's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:26:25.430Z"
+    "createdAt": "2026-10-01T10:26:25.430Z",
+    "sentAt": "2026-10-06T19:23:25.712Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850390684_161",
@@ -3805,11 +3811,13 @@
     "mxValid": true,
     "mxHost": "outlook-com.olc.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Texas Quality Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Texas Quality Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Texas Quality Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:26:30.684Z"
+    "createdAt": "2026-10-01T10:26:30.684Z",
+    "sentAt": "2026-10-06T19:23:30.987Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850399569_162",
@@ -3893,11 +3901,13 @@
     "mxValid": true,
     "mxHost": "mx.allthetimeplumbing.com.cust.b.hostedemail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding All The Time Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs All The Time Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline All The Time Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:01.757Z"
+    "createdAt": "2026-10-01T10:27:01.757Z",
+    "sentAt": "2026-10-06T19:23:36.400Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850427133_166",
@@ -3915,11 +3925,13 @@
     "mxValid": true,
     "mxHost": "villageplumbing-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Village Plumbing, Air & Electric's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Village Plumbing, Air & Electric grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Village Plumbing, Air & Electric's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:07.133Z"
+    "createdAt": "2026-10-01T10:27:07.133Z",
+    "sentAt": "2026-10-06T19:23:47.914Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850431678_167",
@@ -3959,11 +3971,13 @@
     "mxValid": true,
     "mxHost": "abacusplumbing-net.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Abacus Plumbing, Air Conditioning, & Electrical's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Abacus Plumbing, Air Conditioning, & Electrical grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Abacus Plumbing, Air Conditioning, & Electrical's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:17.563Z"
+    "createdAt": "2026-10-01T10:27:17.563Z",
+    "sentAt": "2026-10-06T19:23:53.329Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850443805_169",
@@ -4003,11 +4017,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Luke's Plumbing & Air Conditioning's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Luke's Plumbing & Air Conditioning grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Luke's Plumbing & Air Conditioning's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:28.541Z"
+    "createdAt": "2026-10-01T10:27:28.541Z",
+    "sentAt": "2026-10-06T19:23:58.845Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850453916_171",
@@ -4025,11 +4041,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Halo Plumbing Services's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Halo Plumbing Services grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Halo Plumbing Services's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:33.916Z"
+    "createdAt": "2026-10-01T10:27:33.916Z",
+    "sentAt": "2026-10-06T19:24:04.797Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850454513_172",
@@ -4069,11 +4087,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding After Hours Plumbing Service's operations in Houston",
     "pitchBody": "Hello there,\n\nAs After Hours Plumbing Service grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline After Hours Plumbing Service's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:36.927Z"
+    "createdAt": "2026-10-01T10:27:36.927Z",
+    "sentAt": "2026-10-06T19:24:10.262Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850458648_174",
@@ -4113,11 +4133,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding H-Town Plumbers's operations in Houston",
     "pitchBody": "Hello there,\n\nAs H-Town Plumbers grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline H-Town Plumbers's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:27:43.350Z"
+    "createdAt": "2026-10-01T10:27:43.350Z",
+    "sentAt": "2026-10-06T19:24:15.586Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850470125_176",
@@ -4245,11 +4267,13 @@
     "mxValid": true,
     "mxHost": "mx00.mail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding YB Plumbing & Hydro Jetting Services's operations in Houston",
     "pitchBody": "Hello there,\n\nAs YB Plumbing & Hydro Jetting Services grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline YB Plumbing & Hydro Jetting Services's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:28:54.716Z"
+    "createdAt": "2026-10-01T10:28:54.716Z",
+    "sentAt": "2026-10-06T19:24:20.927Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850548010_182",
@@ -4267,11 +4291,13 @@
     "mxValid": true,
     "mxHost": "citywideservices-net.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Citywide Plumbing Services .'s operations in Houston",
     "pitchBody": "Hello there,\n\nAs Citywide Plumbing Services . grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Citywide Plumbing Services .'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:29:08.010Z"
+    "createdAt": "2026-10-01T10:29:08.010Z",
+    "sentAt": "2026-10-06T19:24:47.430Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850552701_183",
@@ -4289,11 +4315,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Quality Plumber Houston's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Quality Plumber Houston grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Quality Plumber Houston's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:29:12.701Z"
+    "createdAt": "2026-10-01T10:29:12.701Z",
+    "sentAt": "2026-10-06T19:24:52.755Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850555040_184",
@@ -4355,11 +4383,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Sheet Happens Plumbing & Drain's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Sheet Happens Plumbing & Drain grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Sheet Happens Plumbing & Drain's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:29:31.748Z"
+    "createdAt": "2026-10-01T10:29:31.748Z",
+    "sentAt": "2026-10-06T19:24:58.114Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850583679_187",
@@ -4399,11 +4429,13 @@
     "mxValid": true,
     "mxHost": "mx10.antispam.mailspamprotection.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding C&R Plumbing Services, .'s operations in Houston",
     "pitchBody": "Hello there,\n\nAs C&R Plumbing Services, . grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline C&R Plumbing Services, .'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:29:48.081Z"
+    "createdAt": "2026-10-01T10:29:48.081Z",
+    "sentAt": "2026-10-06T19:25:03.453Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850591208_189",
@@ -4421,11 +4453,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Royal Flush Affordable Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Royal Flush Affordable Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Royal Flush Affordable Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:29:51.208Z"
+    "createdAt": "2026-10-01T10:29:51.208Z",
+    "sentAt": "2026-10-06T19:25:08.829Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850596830_190",
@@ -4443,11 +4477,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Texas Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Texas Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Texas Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:29:56.830Z"
+    "createdAt": "2026-10-01T10:29:56.830Z",
+    "sentAt": "2026-10-06T19:25:14.121Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850601867_191",
@@ -4487,11 +4523,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Aaron's Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Aaron's Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Aaron's Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:30:14.629Z"
+    "createdAt": "2026-10-01T10:30:14.629Z",
+    "sentAt": "2026-10-06T19:25:19.508Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850621839_193",
@@ -4531,11 +4569,13 @@
     "mxValid": true,
     "mxHost": "mx1-usg1.ppe-hosted.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding David Hicks Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs David Hicks Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline David Hicks Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:30:32.065Z"
+    "createdAt": "2026-10-01T10:30:32.065Z",
+    "sentAt": "2026-10-06T19:25:24.822Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850645927_195",
@@ -4553,11 +4593,13 @@
     "mxValid": true,
     "mxHost": "allaroundplumbingtx-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding All Around Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs All Around Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline All Around Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:30:45.927Z"
+    "createdAt": "2026-10-01T10:30:45.927Z",
+    "sentAt": "2026-10-06T19:25:30.130Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850652955_196",
@@ -4597,11 +4639,13 @@
     "mxValid": true,
     "mxHost": "mx001.netsol.xion.oxcs.net",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Wedgeworth Plumbing's operations in Houston",
     "pitchBody": "Hello there,\n\nAs Wedgeworth Plumbing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Wedgeworth Plumbing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:30:58.451Z"
+    "createdAt": "2026-10-01T10:30:58.451Z",
+    "sentAt": "2026-10-06T19:25:35.566Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850672586_198",
@@ -4729,11 +4773,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding 5 Star Plumbing Houston's operations in Houston",
     "pitchBody": "Hello there,\n\nAs 5 Star Plumbing Houston grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline 5 Star Plumbing Houston's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:32:16.093Z"
+    "createdAt": "2026-10-01T10:32:16.093Z",
+    "sentAt": "2026-10-06T19:25:40.867Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850738507_204",
@@ -4751,11 +4797,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Shaw Plumbing .'s operations in Houston",
     "pitchBody": "Hello there,\n\nAs Shaw Plumbing . grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Shaw Plumbing .'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:32:18.507Z"
+    "createdAt": "2026-10-01T10:32:18.507Z",
+    "sentAt": "2026-10-06T19:25:47.807Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850740817_205",
@@ -4773,11 +4821,13 @@
     "mxValid": true,
     "mxHost": "mta5.am0.yahoodns.net",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding JB Mechanical Services's operations in Houston",
     "pitchBody": "Hello there,\n\nAs JB Mechanical Services grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Houston businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline JB Mechanical Services's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:32:20.817Z"
+    "createdAt": "2026-10-01T10:32:20.817Z",
+    "sentAt": "2026-10-06T19:25:53.453Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850754257_206",
@@ -4905,11 +4955,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Med Aesthetics Miami's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Med Aesthetics Miami grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Med Aesthetics Miami's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:33:38.596Z"
+    "createdAt": "2026-10-01T10:33:38.596Z",
+    "sentAt": "2026-10-06T19:25:58.891Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850833668_212",
@@ -4927,11 +4979,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Deluxe Med Spa Beauty's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Deluxe Med Spa Beauty grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Deluxe Med Spa Beauty's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:33:53.668Z"
+    "createdAt": "2026-10-01T10:33:53.668Z",
+    "sentAt": "2026-10-06T19:26:04.259Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850839462_213",
@@ -4949,11 +5003,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Arviv Medical Aesthetics Miami's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Arviv Medical Aesthetics Miami grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Arviv Medical Aesthetics Miami's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:33:59.462Z"
+    "createdAt": "2026-10-01T10:33:59.462Z",
+    "sentAt": "2026-10-06T19:26:10.432Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850841278_214",
@@ -4971,11 +5027,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Med Therapy & Spa  Wellness & MedSpa Miami's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Med Therapy & Spa  Wellness & MedSpa Miami grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Med Therapy & Spa  Wellness & MedSpa Miami's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:34:01.278Z"
+    "createdAt": "2026-10-01T10:34:01.278Z",
+    "sentAt": "2026-10-06T19:26:17.402Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850847502_215",
@@ -4993,11 +5051,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Charette Cosmetics Medical Spa - Miami Beach's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Charette Cosmetics Medical Spa - Miami Beach grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Charette Cosmetics Medical Spa - Miami Beach's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:34:07.502Z"
+    "createdAt": "2026-10-01T10:34:07.502Z",
+    "sentAt": "2026-10-06T19:26:22.822Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850856183_216",
@@ -5015,11 +5075,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Monaco MedSpa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Monaco MedSpa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Monaco MedSpa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:34:16.183Z"
+    "createdAt": "2026-10-01T10:34:16.183Z",
+    "sentAt": "2026-10-06T19:26:28.132Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850877267_217",
@@ -5037,11 +5099,13 @@
     "mxValid": true,
     "mxHost": "mx156.hostedmxserver.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding A&E MED SPA's operations in Miami",
     "pitchBody": "Hello there,\n\nAs A&E MED SPA grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline A&E MED SPA's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:34:37.267Z"
+    "createdAt": "2026-10-01T10:34:37.267Z",
+    "sentAt": "2026-10-06T19:26:34.064Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850885257_218",
@@ -5125,11 +5189,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Miami Skin Spa Aesthetics & Wellness's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Miami Skin Spa Aesthetics & Wellness grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Miami Skin Spa Aesthetics & Wellness's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:35:15.435Z"
+    "createdAt": "2026-10-01T10:35:15.435Z",
+    "sentAt": "2026-10-06T19:26:39.386Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850925567_222",
@@ -5147,11 +5213,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding VIIV WELLNESS HAUS's operations in Miami",
     "pitchBody": "Hello there,\n\nAs VIIV WELLNESS HAUS grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline VIIV WELLNESS HAUS's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:35:25.567Z"
+    "createdAt": "2026-10-01T10:35:25.567Z",
+    "sentAt": "2026-10-06T19:26:44.768Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850931802_223",
