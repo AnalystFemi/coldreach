@@ -5259,11 +5259,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding No Filter Medical Spa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs No Filter Medical Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline No Filter Medical Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:35:38.848Z"
+    "createdAt": "2026-10-01T10:35:38.848Z",
+    "sentAt": "2026-10-07T19:50:15.568Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850954182_225",
@@ -5281,11 +5283,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Zeugma MedSpa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Zeugma MedSpa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Zeugma MedSpa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:35:54.182Z"
+    "createdAt": "2026-10-01T10:35:54.182Z",
+    "sentAt": "2026-10-07T19:50:20.515Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850965849_226",
@@ -5325,11 +5329,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding NuYou Medical Aesthetics's operations in Miami",
     "pitchBody": "Hello there,\n\nAs NuYou Medical Aesthetics grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline NuYou Medical Aesthetics's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:36:11.180Z"
+    "createdAt": "2026-10-01T10:36:11.180Z",
+    "sentAt": "2026-10-07T19:50:27.327Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850974377_228",
@@ -5413,11 +5419,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Parlour's operations in Miami",
     "pitchBody": "Hello there,\n\nAs The Parlour grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Parlour's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:36:26.464Z"
+    "createdAt": "2026-10-01T10:36:26.464Z",
+    "sentAt": "2026-10-07T19:50:32.156Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790850997585_232",
@@ -5457,11 +5465,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding MDW Aesthetics Miami's operations in Miami",
     "pitchBody": "Hello there,\n\nAs MDW Aesthetics Miami grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline MDW Aesthetics Miami's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:36:47.718Z"
+    "createdAt": "2026-10-01T10:36:47.718Z",
+    "sentAt": "2026-10-07T19:50:37.054Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851018319_234",
@@ -5479,11 +5489,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Solea Spa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Solea Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Solea Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:36:58.319Z"
+    "createdAt": "2026-10-01T10:36:58.319Z",
+    "sentAt": "2026-10-07T19:50:41.899Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851028516_235",
@@ -5567,11 +5579,13 @@
     "mxValid": true,
     "mxHost": "mx01.mail.icloud.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Aromas Medspa at Kendall's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Aromas Medspa at Kendall grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Aromas Medspa at Kendall's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:37:39.158Z"
+    "createdAt": "2026-10-01T10:37:39.158Z",
+    "sentAt": "2026-10-07T19:50:47.612Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851071382_239",
@@ -5765,11 +5779,13 @@
     "mxValid": true,
     "mxHost": "getrefreshed-life.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Get Refreshed's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Get Refreshed grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Get Refreshed's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:38:31.644Z"
+    "createdAt": "2026-10-01T10:38:31.644Z",
+    "sentAt": "2026-10-07T19:50:52.418Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851116843_248",
@@ -5787,11 +5803,13 @@
     "mxValid": true,
     "mxHost": "privaispas-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Privai Spa + Fitness at Kimpton EPIC Hotel's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Privai Spa + Fitness at Kimpton EPIC Hotel grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Privai Spa + Fitness at Kimpton EPIC Hotel's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:38:36.843Z"
+    "createdAt": "2026-10-01T10:38:36.843Z",
+    "sentAt": "2026-10-07T19:50:57.206Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851128409_249",
@@ -5809,11 +5827,13 @@
     "mxValid": true,
     "mxHost": "vagaro-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Prime Body & Spa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Prime Body & Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Prime Body & Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:38:48.409Z"
+    "createdAt": "2026-10-01T10:38:48.409Z",
+    "sentAt": "2026-10-07T19:51:02.053Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851128964_250",
@@ -5875,11 +5895,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Asha Esthetic & Medspa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Asha Esthetic & Medspa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Asha Esthetic & Medspa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:39:01.119Z"
+    "createdAt": "2026-10-01T10:39:01.119Z",
+    "sentAt": "2026-10-07T19:51:06.923Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851143045_253",
@@ -5963,11 +5985,13 @@
     "mxValid": true,
     "mxHost": "mx2.spacemail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding World of Beauty Miami's operations in Miami",
     "pitchBody": "Hello there,\n\nAs World of Beauty Miami grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline World of Beauty Miami's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:39:30.594Z"
+    "createdAt": "2026-10-01T10:39:30.594Z",
+    "sentAt": "2026-10-07T19:51:11.764Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851179541_257",
@@ -5985,11 +6009,13 @@
     "mxValid": true,
     "mxHost": "dharmamarketing.cloud",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Din Style Med Spa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Din Style Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Din Style Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:39:39.541Z"
+    "createdAt": "2026-10-01T10:39:39.541Z",
+    "sentAt": "2026-10-07T19:51:16.613Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851190871_258",
@@ -6029,11 +6055,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Plump Cosmetics & Injectables's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Plump Cosmetics & Injectables grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Plump Cosmetics & Injectables's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:39:56.052Z"
+    "createdAt": "2026-10-01T10:39:56.052Z",
+    "sentAt": "2026-10-07T19:51:21.443Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851203480_260",
@@ -6073,11 +6101,13 @@
     "mxValid": true,
     "mxHost": "mx02.mail.icloud.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Relax Spa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Relax Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Relax Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:09.283Z"
+    "createdAt": "2026-10-01T10:40:09.283Z",
+    "sentAt": "2026-10-07T19:51:27.267Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851217547_262",
@@ -6139,11 +6169,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Zia Medical Aesthetics's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Zia Medical Aesthetics grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Zia Medical Aesthetics's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:25.167Z"
+    "createdAt": "2026-10-01T10:40:25.167Z",
+    "sentAt": "2026-10-07T19:51:32.085Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851229099_265",
@@ -6161,11 +6193,13 @@
     "mxValid": true,
     "mxHost": "artemismedicalspa-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Artemis Medical Spa's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Artemis Medical Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Artemis Medical Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:29.099Z"
+    "createdAt": "2026-10-01T10:40:29.099Z",
+    "sentAt": "2026-10-07T19:51:36.874Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851234392_266",
@@ -6183,11 +6217,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding T&S Roofing Systems's operations in Miami",
     "pitchBody": "Hello there,\n\nAs T&S Roofing Systems grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline T&S Roofing Systems's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:34.392Z"
+    "createdAt": "2026-10-01T10:40:34.392Z",
+    "sentAt": "2026-10-07T19:51:41.632Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851240768_267",
@@ -6205,11 +6241,13 @@
     "mxValid": true,
     "mxHost": "aebrothersroofcom.mail.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding A&E Brothers Roofing's operations in Miami",
     "pitchBody": "Hello there,\n\nAs A&E Brothers Roofing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline A&E Brothers Roofing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:40.768Z"
+    "createdAt": "2026-10-01T10:40:40.768Z",
+    "sentAt": "2026-10-07T19:51:47.169Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851245574_268",
@@ -6227,11 +6265,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding 4EVER ROOFING's operations in Miami",
     "pitchBody": "Hello there,\n\nAs 4EVER ROOFING grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline 4EVER ROOFING's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:45.574Z"
+    "createdAt": "2026-10-01T10:40:45.574Z",
+    "sentAt": "2026-10-07T19:51:51.985Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851253794_269",
@@ -6249,11 +6289,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Miami Roof-Tech's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Miami Roof-Tech grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Miami Roof-Tech's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:53.794Z"
+    "createdAt": "2026-10-01T10:40:53.794Z",
+    "sentAt": "2026-10-07T19:51:56.885Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851259787_270",
@@ -6271,11 +6313,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Palma Roofing's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Palma Roofing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Palma Roofing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:40:59.787Z"
+    "createdAt": "2026-10-01T10:40:59.787Z",
+    "sentAt": "2026-10-07T19:52:01.718Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851267155_271",
@@ -6293,11 +6337,13 @@
     "mxValid": true,
     "mxHost": "istuetaroofing-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Istueta Roofing's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Istueta Roofing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Istueta Roofing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:41:07.155Z"
+    "createdAt": "2026-10-01T10:41:07.155Z",
+    "sentAt": "2026-10-07T19:52:06.550Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851272486_272",
@@ -6315,11 +6361,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Jireh Roofing Contractor USA,'s operations in Miami",
     "pitchBody": "Hello there,\n\nAs Jireh Roofing Contractor USA, grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Jireh Roofing Contractor USA,'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:41:12.486Z"
+    "createdAt": "2026-10-01T10:41:12.486Z",
+    "sentAt": "2026-10-07T19:52:11.461Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851280378_273",
@@ -6491,11 +6539,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Fix Up Roofing and Construction's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Fix Up Roofing and Construction grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Fix Up Roofing and Construction's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:42:11.003Z"
+    "createdAt": "2026-10-01T10:42:11.003Z",
+    "sentAt": "2026-10-07T19:52:16.225Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851335046_281",
@@ -6513,11 +6563,13 @@
     "mxValid": true,
     "mxHost": "roofingex-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Roofing Experts Services's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Roofing Experts Services grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Roofing Experts Services's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:42:15.046Z"
+    "createdAt": "2026-10-01T10:42:15.046Z",
+    "sentAt": "2026-10-07T19:52:21.145Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851338919_282",
@@ -6557,11 +6609,13 @@
     "mxValid": true,
     "mxHost": "mainlandroofing-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Mainland Roofing Company's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Mainland Roofing Company grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Mainland Roofing Company's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:42:25.038Z"
+    "createdAt": "2026-10-01T10:42:25.038Z",
+    "sentAt": "2026-10-07T19:52:25.968Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851354809_284",
@@ -6579,11 +6633,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Proper Roofing . - Top Rated Roofing, Windows And Remodeling.'s operations in Miami",
     "pitchBody": "Hello there,\n\nAs Proper Roofing . - Top Rated Roofing, Windows And Remodeling. grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Proper Roofing . - Top Rated Roofing, Windows And Remodeling.'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:42:34.809Z"
+    "createdAt": "2026-10-01T10:42:34.809Z",
+    "sentAt": "2026-10-07T19:52:30.795Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851359297_285",
@@ -6601,11 +6657,13 @@
     "mxValid": true,
     "mxHost": "martinezroofingmiami.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Martinez Roofing Miami's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Martinez Roofing Miami grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Martinez Roofing Miami's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:42:39.297Z"
+    "createdAt": "2026-10-01T10:42:39.297Z",
+    "sentAt": "2026-10-07T19:52:35.844Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851370797_286",
@@ -6667,11 +6725,13 @@
     "mxValid": true,
     "mxHost": "mail.isaacdavidroofing.net",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Isaac David Roofing Miami Beach's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Isaac David Roofing Miami Beach grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Isaac David Roofing Miami Beach's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:43:02.764Z"
+    "createdAt": "2026-10-01T10:43:02.764Z",
+    "sentAt": "2026-10-07T19:52:40.777Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851392831_289",
@@ -6733,11 +6793,13 @@
     "mxValid": true,
     "mxHost": "mx10.antispam.mailspamprotection.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Florida Commercial Roofing and Construction's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Florida Commercial Roofing and Construction grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Florida Commercial Roofing and Construction's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:43:31.513Z"
+    "createdAt": "2026-10-01T10:43:31.513Z",
+    "sentAt": "2026-10-07T19:52:45.549Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851415433_292",
@@ -6755,11 +6817,13 @@
     "mxValid": true,
     "mxHost": "artsroofing-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Art's Roofing & Construction's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Art's Roofing & Construction grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Art's Roofing & Construction's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:43:35.433Z"
+    "createdAt": "2026-10-01T10:43:35.433Z",
+    "sentAt": "2026-10-07T19:52:50.428Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851416698_293",
@@ -6777,11 +6841,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Big Al's Roofing's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Big Al's Roofing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Big Al's Roofing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:43:36.698Z"
+    "createdAt": "2026-10-01T10:43:36.698Z",
+    "sentAt": "2026-10-07T19:52:56.060Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851416921_294",
@@ -6821,11 +6887,13 @@
     "mxValid": true,
     "mxHost": "perfectroofingfl-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Perfect Roofing of FL's operations in Miami",
     "pitchBody": "Hello there,\n\nAs Perfect Roofing of FL grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Miami businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Perfect Roofing of FL's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T10:43:42.750Z"
+    "createdAt": "2026-10-01T10:43:42.750Z",
+    "sentAt": "2026-10-07T19:53:00.859Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790851427079_296",

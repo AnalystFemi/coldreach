@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-06",
+  "lastResetDate": "2026-10-07",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Cooper Plumbing | Houston Plumber",
-      "email": "cooperplumbinghouston@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding Cooper Plumbing | Houston Plumber's operations in Houston",
-      "timestamp": "2026-10-06T19:23:14.917Z",
-      "messageId": "<096b9de5-1826-7891-c7f2-b6a8bfb257c6@gmail.com>"
-    },
-    {
-      "businessName": "Affordable Plumbing Services Houston",
-      "email": "office@golevelplus.com",
-      "city": "Houston",
-      "subject": "quick question regarding Affordable Plumbing Services Houston's operations in Houston",
-      "timestamp": "2026-10-06T19:23:20.247Z",
-      "messageId": "<b4799f7e-c6a7-28fc-ff91-d4188c649cfa@gmail.com>"
-    },
-    {
-      "businessName": "Nick's Plumbing & Air Conditioning",
-      "email": "service@nicksplumbing.com",
-      "city": "Houston",
-      "subject": "quick question regarding Nick's Plumbing & Air Conditioning's operations in Houston",
-      "timestamp": "2026-10-06T19:23:25.712Z",
-      "messageId": "<52f85ca9-2fca-9d3f-4b1a-95ac9e4892f2@gmail.com>"
-    },
-    {
-      "businessName": "Texas Quality Plumbing",
-      "email": "texasqualityplumbing2026@outlook.com",
-      "city": "Houston",
-      "subject": "quick question regarding Texas Quality Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:23:30.987Z",
-      "messageId": "<9b6ad3e8-3d15-02f9-cf27-e8f12e8a0ba9@gmail.com>"
-    },
-    {
-      "businessName": "All The Time Plumbing",
-      "email": "tom@allthetimeplumbing.com",
-      "city": "Houston",
-      "subject": "quick question regarding All The Time Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:23:36.400Z",
-      "messageId": "<61c2a130-0ba7-8fdd-fbe6-cd09d09bbc54@gmail.com>"
-    },
-    {
-      "businessName": "Village Plumbing, Air & Electric",
-      "email": "service@villageplumbing.com",
-      "city": "Houston",
-      "subject": "quick question regarding Village Plumbing, Air & Electric's operations in Houston",
-      "timestamp": "2026-10-06T19:23:47.914Z",
-      "messageId": "<be1bc477-1ab8-b642-8098-ba078d2549fb@gmail.com>"
-    },
-    {
-      "businessName": "Abacus Plumbing, Air Conditioning, & Electrical",
-      "email": "customerservice@abacusplumbing.net",
-      "city": "Houston",
-      "subject": "quick question regarding Abacus Plumbing, Air Conditioning, & Electrical's operations in Houston",
-      "timestamp": "2026-10-06T19:23:53.329Z",
-      "messageId": "<570fa10f-6609-6840-8aa4-7e38e5060354@gmail.com>"
-    },
-    {
-      "businessName": "Luke's Plumbing & Air Conditioning",
-      "email": "info@calllukes.com",
-      "city": "Houston",
-      "subject": "quick question regarding Luke's Plumbing & Air Conditioning's operations in Houston",
-      "timestamp": "2026-10-06T19:23:58.845Z",
-      "messageId": "<a83b779e-9399-b945-01dd-ccdb8e5264d6@gmail.com>"
-    },
-    {
-      "businessName": "Halo Plumbing Services",
-      "email": "karen@haloplumbingtx.com",
-      "city": "Houston",
-      "subject": "quick question regarding Halo Plumbing Services's operations in Houston",
-      "timestamp": "2026-10-06T19:24:04.797Z",
-      "messageId": "<adbc83a2-d611-d06c-a93f-f23952a5a09e@gmail.com>"
-    },
-    {
-      "businessName": "After Hours Plumbing Service",
-      "email": "afterhoursplumbingservice@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding After Hours Plumbing Service's operations in Houston",
-      "timestamp": "2026-10-06T19:24:10.262Z",
-      "messageId": "<de4a8ebe-ee6b-6524-3c84-5e8f434eff73@gmail.com>"
-    },
-    {
-      "businessName": "H-Town Plumbers",
-      "email": "office@htownplumbers.com",
-      "city": "Houston",
-      "subject": "quick question regarding H-Town Plumbers's operations in Houston",
-      "timestamp": "2026-10-06T19:24:15.586Z",
-      "messageId": "<512f6994-5656-07e4-7e5b-6815973f3a7f@gmail.com>"
-    },
-    {
-      "businessName": "YB Plumbing & Hydro Jetting Services",
-      "email": "you@email.com",
-      "city": "Houston",
-      "subject": "quick question regarding YB Plumbing & Hydro Jetting Services's operations in Houston",
-      "timestamp": "2026-10-06T19:24:20.927Z",
-      "messageId": "<d2b63df3-4acd-8499-5dc1-2b318b781ee0@gmail.com>"
-    },
-    {
-      "businessName": "Citywide Plumbing Services LLC.",
-      "email": "info@citywideservices.net",
-      "city": "Houston",
-      "subject": "quick question regarding Citywide Plumbing Services .'s operations in Houston",
-      "timestamp": "2026-10-06T19:24:47.430Z",
-      "messageId": "<ef699591-cd16-a71a-b576-61e3f1fa0220@gmail.com>"
-    },
-    {
-      "businessName": "Quality Plumber Houston",
-      "email": "houstonqualityservices@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding Quality Plumber Houston's operations in Houston",
-      "timestamp": "2026-10-06T19:24:52.755Z",
-      "messageId": "<e9afde38-fffe-8109-dfa5-a3b5628ac0bf@gmail.com>"
-    },
-    {
-      "businessName": "Sheet Happens Plumbing & Drain",
-      "email": "info@shplumbingdrain.com",
-      "city": "Houston",
-      "subject": "quick question regarding Sheet Happens Plumbing & Drain's operations in Houston",
-      "timestamp": "2026-10-06T19:24:58.114Z",
-      "messageId": "<d6280633-e837-9e8c-5d1f-f16d77e9c0bd@gmail.com>"
-    },
-    {
-      "businessName": "C&R Plumbing Services, LLC.",
-      "email": "office@cnrplumber.com",
-      "city": "Houston",
-      "subject": "quick question regarding C&R Plumbing Services, .'s operations in Houston",
-      "timestamp": "2026-10-06T19:25:03.453Z",
-      "messageId": "<0cdf2ff9-35b6-cc16-e72b-2e126ae96159@gmail.com>"
-    },
-    {
-      "businessName": "Royal Flush Affordable Plumbing",
-      "email": "royalflushaffordableplumbing@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding Royal Flush Affordable Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:25:08.829Z",
-      "messageId": "<9ee6836f-21a2-8835-d43c-d4b4912eeac8@gmail.com>"
-    },
-    {
-      "businessName": "Texas Plumbing",
-      "email": "info@texasplumbing911.com",
-      "city": "Houston",
-      "subject": "quick question regarding Texas Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:25:14.121Z",
-      "messageId": "<f39f6eb7-b873-4482-cbe9-b174407acd3b@gmail.com>"
-    },
-    {
-      "businessName": "Aaron's Plumbing",
-      "email": "aaronsbilling23@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding Aaron's Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:25:19.508Z",
-      "messageId": "<1220cae1-0c9f-5d92-5dfb-ab7738f1069b@gmail.com>"
-    },
-    {
-      "businessName": "David Hicks Plumbing",
-      "email": "office@davidhicksplumbing.com",
-      "city": "Houston",
-      "subject": "quick question regarding David Hicks Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:25:24.822Z",
-      "messageId": "<45c4df32-25e7-24ef-2a5f-d0a90ee8098e@gmail.com>"
-    },
-    {
-      "businessName": "All Around Plumbing LLC",
-      "email": "info@allaroundplumbingtx.com",
-      "city": "Houston",
-      "subject": "quick question regarding All Around Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:25:30.130Z",
-      "messageId": "<8b496f67-3994-fbf0-1769-748bf6a03f46@gmail.com>"
-    },
-    {
-      "businessName": "Wedgeworth Plumbing",
-      "email": "office@wedgeworthplumbing.com",
-      "city": "Houston",
-      "subject": "quick question regarding Wedgeworth Plumbing's operations in Houston",
-      "timestamp": "2026-10-06T19:25:35.566Z",
-      "messageId": "<0581a230-9afa-3b4a-6d91-662ae85790f4@gmail.com>"
-    },
-    {
-      "businessName": "5 Star Plumbing Houston",
-      "email": "rizwan.comcrush@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding 5 Star Plumbing Houston's operations in Houston",
-      "timestamp": "2026-10-06T19:25:40.867Z",
-      "messageId": "<2c2d49bd-eab3-32f8-8220-05a185e28200@gmail.com>"
-    },
-    {
-      "businessName": "Shaw Plumbing Co. LLC",
-      "email": "wweeiihhuuaanngg@gmail.com",
-      "city": "Houston",
-      "subject": "quick question regarding Shaw Plumbing .'s operations in Houston",
-      "timestamp": "2026-10-06T19:25:47.807Z",
-      "messageId": "<3c40f304-1c35-96f9-f393-484153c6f21f@gmail.com>"
-    },
-    {
-      "businessName": "JB Mechanical Services LLC",
-      "email": "jbmechanicalservices23@yahoo.com",
-      "city": "Houston",
-      "subject": "quick question regarding JB Mechanical Services's operations in Houston",
-      "timestamp": "2026-10-06T19:25:53.453Z",
-      "messageId": "<999b52c6-66b6-30c0-e94c-6820f5fd0eae@gmail.com>"
-    },
-    {
-      "businessName": "Med Aesthetics Miami",
-      "email": "info@medaestheticsmiami.com",
+      "businessName": "No Filter Medical Spa",
+      "email": "info@nofiltermedspa.com",
       "city": "Miami",
-      "subject": "quick question regarding Med Aesthetics Miami's operations in Miami",
-      "timestamp": "2026-10-06T19:25:58.891Z",
-      "messageId": "<9bed5770-e05b-3b6b-1462-534acbcbfde1@gmail.com>"
+      "subject": "quick question regarding No Filter Medical Spa's operations in Miami",
+      "timestamp": "2026-10-07T19:50:15.568Z",
+      "messageId": "<86142225-0e36-d143-20f1-70b0d019e92a@gmail.com>"
     },
     {
-      "businessName": "Deluxe Med Spa Beauty",
-      "email": "info@deluxemedspabeauty.com",
+      "businessName": "Zeugma MedSpa",
+      "email": "info@zeugmaspa.com",
       "city": "Miami",
-      "subject": "quick question regarding Deluxe Med Spa Beauty's operations in Miami",
-      "timestamp": "2026-10-06T19:26:04.259Z",
-      "messageId": "<fc4ccbfb-4a47-7d64-3200-7d59a6da8a71@gmail.com>"
+      "subject": "quick question regarding Zeugma MedSpa's operations in Miami",
+      "timestamp": "2026-10-07T19:50:20.515Z",
+      "messageId": "<30391d67-1e92-d4f5-1e6d-77c09b9a2669@gmail.com>"
     },
     {
-      "businessName": "Arviv Medical Aesthetics Miami",
-      "email": "info@arvivaesthetics.com",
+      "businessName": "NuYou Medical Aesthetics",
+      "email": "inquiries@lovethenuyou.com",
       "city": "Miami",
-      "subject": "quick question regarding Arviv Medical Aesthetics Miami's operations in Miami",
-      "timestamp": "2026-10-06T19:26:10.432Z",
-      "messageId": "<7d70d204-d9a3-2016-34fe-759f690b5526@gmail.com>"
+      "subject": "quick question regarding NuYou Medical Aesthetics's operations in Miami",
+      "timestamp": "2026-10-07T19:50:27.327Z",
+      "messageId": "<8845681c-df90-ed3a-3238-558c519bc059@gmail.com>"
     },
     {
-      "businessName": "Med Therapy & Spa Inc Wellness & MedSpa Miami",
-      "email": "medtherapyspa@gmail.com",
+      "businessName": "The Parlour",
+      "email": "info@theparlourmiami.com",
       "city": "Miami",
-      "subject": "quick question regarding Med Therapy & Spa  Wellness & MedSpa Miami's operations in Miami",
-      "timestamp": "2026-10-06T19:26:17.402Z",
-      "messageId": "<3605d4d1-31c3-1b9c-1b32-6ffecd6458af@gmail.com>"
+      "subject": "quick question regarding The Parlour's operations in Miami",
+      "timestamp": "2026-10-07T19:50:32.156Z",
+      "messageId": "<5fc6fa03-6cb8-2f65-56c9-196c1ef38c99@gmail.com>"
     },
     {
-      "businessName": "Charette Cosmetics Medical Spa - Miami Beach",
-      "email": "customerservice@charettecosmetics.com",
+      "businessName": "MDW Aesthetics Miami",
+      "email": "brickell@mdwaesthetics.com",
       "city": "Miami",
-      "subject": "quick question regarding Charette Cosmetics Medical Spa - Miami Beach's operations in Miami",
-      "timestamp": "2026-10-06T19:26:22.822Z",
-      "messageId": "<c72c29f1-9bd7-618c-cba3-36ecf1d0f633@gmail.com>"
+      "subject": "quick question regarding MDW Aesthetics Miami's operations in Miami",
+      "timestamp": "2026-10-07T19:50:37.054Z",
+      "messageId": "<a0687c7c-484c-0e7c-9cbe-0f4f320e1d2b@gmail.com>"
     },
     {
-      "businessName": "Monaco MedSpa",
-      "email": "officemanager@monacomedspa.com",
+      "businessName": "Solea Spa",
+      "email": "info@soleabrickellspa.com",
       "city": "Miami",
-      "subject": "quick question regarding Monaco MedSpa's operations in Miami",
-      "timestamp": "2026-10-06T19:26:28.132Z",
-      "messageId": "<99977d64-f7f8-a609-b1e7-4d885c1d8028@gmail.com>"
+      "subject": "quick question regarding Solea Spa's operations in Miami",
+      "timestamp": "2026-10-07T19:50:41.899Z",
+      "messageId": "<bb11799b-b55c-f33d-97c4-b5696f07f062@gmail.com>"
     },
     {
-      "businessName": "A&E MED SPA LLC",
-      "email": "info@aeplasticsurgery.com",
+      "businessName": "Aromas Medspa at Kendall",
+      "email": "aromas@me.com",
       "city": "Miami",
-      "subject": "quick question regarding A&E MED SPA's operations in Miami",
-      "timestamp": "2026-10-06T19:26:34.064Z",
-      "messageId": "<a449313c-7dfd-1e06-0fde-d619a643a5c9@gmail.com>"
+      "subject": "quick question regarding Aromas Medspa at Kendall's operations in Miami",
+      "timestamp": "2026-10-07T19:50:47.612Z",
+      "messageId": "<5b604f58-3710-9ebe-1e67-29a59b896531@gmail.com>"
     },
     {
-      "businessName": "Miami Skin Spa Aesthetics & Wellness",
-      "email": "info@miamiskinspa.com",
+      "businessName": "Get Refreshed",
+      "email": "info@getrefreshed.life",
       "city": "Miami",
-      "subject": "quick question regarding Miami Skin Spa Aesthetics & Wellness's operations in Miami",
-      "timestamp": "2026-10-06T19:26:39.386Z",
-      "messageId": "<53e54c18-3a1b-752e-b788-33d5c9a8b138@gmail.com>"
+      "subject": "quick question regarding Get Refreshed's operations in Miami",
+      "timestamp": "2026-10-07T19:50:52.418Z",
+      "messageId": "<051e8fa9-6b53-1182-b5c0-db03da8adb21@gmail.com>"
     },
     {
-      "businessName": "VIIV WELLNESS HAUS",
-      "email": "contact@viivwellnesshaus.com",
+      "businessName": "Privai Spa + Fitness at Kimpton EPIC Hotel",
+      "email": "spaconcierge@privaispas.com",
       "city": "Miami",
-      "subject": "quick question regarding VIIV WELLNESS HAUS's operations in Miami",
-      "timestamp": "2026-10-06T19:26:44.768Z",
-      "messageId": "<9fd0b293-3572-6fc3-e988-ca84bf60469b@gmail.com>"
+      "subject": "quick question regarding Privai Spa + Fitness at Kimpton EPIC Hotel's operations in Miami",
+      "timestamp": "2026-10-07T19:50:57.206Z",
+      "messageId": "<2ea6ddc4-7d26-bfa3-16d6-ab58a73f5980@gmail.com>"
+    },
+    {
+      "businessName": "Prime Body & Spa",
+      "email": "sales@vagaro.com",
+      "city": "Miami",
+      "subject": "quick question regarding Prime Body & Spa's operations in Miami",
+      "timestamp": "2026-10-07T19:51:02.053Z",
+      "messageId": "<26a825ce-b89d-b5fe-9539-6cc7c79e9acb@gmail.com>"
+    },
+    {
+      "businessName": "Asha Esthetic & Medspa",
+      "email": "info@ashaesthetics.com",
+      "city": "Miami",
+      "subject": "quick question regarding Asha Esthetic & Medspa's operations in Miami",
+      "timestamp": "2026-10-07T19:51:06.923Z",
+      "messageId": "<c4fda12e-8673-9b46-a4b2-3c4af8892e7f@gmail.com>"
+    },
+    {
+      "businessName": "World of Beauty Miami",
+      "email": "info@worldofbeauty.miami",
+      "city": "Miami",
+      "subject": "quick question regarding World of Beauty Miami's operations in Miami",
+      "timestamp": "2026-10-07T19:51:11.764Z",
+      "messageId": "<c22814fd-4b5a-cc1e-8ab1-18e20f36e100@gmail.com>"
+    },
+    {
+      "businessName": "Din Style Med Spa",
+      "email": "angel@dharmamarketing.cloud",
+      "city": "Miami",
+      "subject": "quick question regarding Din Style Med Spa's operations in Miami",
+      "timestamp": "2026-10-07T19:51:16.613Z",
+      "messageId": "<f875eaca-a584-fd1b-01b0-f0cb15c84d26@gmail.com>"
+    },
+    {
+      "businessName": "Plump Cosmetics & Injectables",
+      "email": "info@getplump.com",
+      "city": "Miami",
+      "subject": "quick question regarding Plump Cosmetics & Injectables's operations in Miami",
+      "timestamp": "2026-10-07T19:51:21.443Z",
+      "messageId": "<413b4c0a-e885-7473-4a38-72b0a8934350@gmail.com>"
+    },
+    {
+      "businessName": "Relax Spa",
+      "email": "info@relaxspa.us",
+      "city": "Miami",
+      "subject": "quick question regarding Relax Spa's operations in Miami",
+      "timestamp": "2026-10-07T19:51:27.267Z",
+      "messageId": "<c00b9d8d-9500-c00a-fed4-e22e7df42def@gmail.com>"
+    },
+    {
+      "businessName": "Zia Medical Aesthetics",
+      "email": "info@ziamedicalaesthetics.com",
+      "city": "Miami",
+      "subject": "quick question regarding Zia Medical Aesthetics's operations in Miami",
+      "timestamp": "2026-10-07T19:51:32.085Z",
+      "messageId": "<5ce91b10-78f3-57ea-78b9-1ffc91e3a8e9@gmail.com>"
+    },
+    {
+      "businessName": "Artemis Medical Spa",
+      "email": "info@artemismedicalspa.com",
+      "city": "Miami",
+      "subject": "quick question regarding Artemis Medical Spa's operations in Miami",
+      "timestamp": "2026-10-07T19:51:36.874Z",
+      "messageId": "<3cd3c112-b68c-ea30-c1a3-d19ece5e4cd2@gmail.com>"
+    },
+    {
+      "businessName": "T&S Roofing Systems",
+      "email": "info@tsroofingsystems.com",
+      "city": "Miami",
+      "subject": "quick question regarding T&S Roofing Systems's operations in Miami",
+      "timestamp": "2026-10-07T19:51:41.632Z",
+      "messageId": "<0f23fbd8-766a-5a32-b0b9-1b5ce3b57e56@gmail.com>"
+    },
+    {
+      "businessName": "A&E Brothers Roofing",
+      "email": "info@aebrothersroofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding A&E Brothers Roofing's operations in Miami",
+      "timestamp": "2026-10-07T19:51:47.169Z",
+      "messageId": "<f1fc5292-3cf8-185e-9bd6-4ba41e620fea@gmail.com>"
+    },
+    {
+      "businessName": "4EVER ROOFING",
+      "email": "info@4everoofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding 4EVER ROOFING's operations in Miami",
+      "timestamp": "2026-10-07T19:51:51.985Z",
+      "messageId": "<2e070353-fd81-7c3b-cbb5-ce90850b70de@gmail.com>"
+    },
+    {
+      "businessName": "Miami Roof-Tech",
+      "email": "info@miamirooftech.com",
+      "city": "Miami",
+      "subject": "quick question regarding Miami Roof-Tech's operations in Miami",
+      "timestamp": "2026-10-07T19:51:56.885Z",
+      "messageId": "<f74a8519-dfcb-5824-6d5f-0ea317bdaf3f@gmail.com>"
+    },
+    {
+      "businessName": "Palma Roofing",
+      "email": "info@palmaroofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding Palma Roofing's operations in Miami",
+      "timestamp": "2026-10-07T19:52:01.718Z",
+      "messageId": "<70407047-e2bd-c370-2adc-e06ea2380358@gmail.com>"
+    },
+    {
+      "businessName": "Istueta Roofing",
+      "email": "info@istuetaroofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding Istueta Roofing's operations in Miami",
+      "timestamp": "2026-10-07T19:52:06.550Z",
+      "messageId": "<35e37f86-2858-60f4-2a37-2436e024742e@gmail.com>"
+    },
+    {
+      "businessName": "Jireh Roofing Contractor USA, INC",
+      "email": "office@jirehroofingcontractorusainc.com",
+      "city": "Miami",
+      "subject": "quick question regarding Jireh Roofing Contractor USA,'s operations in Miami",
+      "timestamp": "2026-10-07T19:52:11.461Z",
+      "messageId": "<9f130783-23cf-1fb0-9579-badaec161802@gmail.com>"
+    },
+    {
+      "businessName": "Fix Up Roofing and Construction LLC",
+      "email": "cs@fixuproofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding Fix Up Roofing and Construction's operations in Miami",
+      "timestamp": "2026-10-07T19:52:16.225Z",
+      "messageId": "<f4e3b65f-f9d3-1966-95ec-65b60d9b57f6@gmail.com>"
+    },
+    {
+      "businessName": "Roofing Experts Services",
+      "email": "sales@roofingex.com",
+      "city": "Miami",
+      "subject": "quick question regarding Roofing Experts Services's operations in Miami",
+      "timestamp": "2026-10-07T19:52:21.145Z",
+      "messageId": "<ad8640c4-516c-3454-7cb8-7a62e18fa8d8@gmail.com>"
+    },
+    {
+      "businessName": "Mainland Roofing Company",
+      "email": "office@mainlandroofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding Mainland Roofing Company's operations in Miami",
+      "timestamp": "2026-10-07T19:52:25.968Z",
+      "messageId": "<877b2cc3-05ec-05e1-c080-d198639f3a6f@gmail.com>"
+    },
+    {
+      "businessName": "Proper Roofing Inc. - Top Rated Roofing, Windows And Remodeling.",
+      "email": "appointment@properoofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding Proper Roofing . - Top Rated Roofing, Windows And Remodeling.'s operations in Miami",
+      "timestamp": "2026-10-07T19:52:30.795Z",
+      "messageId": "<e224bede-dab6-75f1-87be-6765f09efb58@gmail.com>"
+    },
+    {
+      "businessName": "Martinez Roofing Miami",
+      "email": "info@martinezroofingmiami.com",
+      "city": "Miami",
+      "subject": "quick question regarding Martinez Roofing Miami's operations in Miami",
+      "timestamp": "2026-10-07T19:52:35.844Z",
+      "messageId": "<9bea601d-ae33-29b0-b05d-26293b7f9e13@gmail.com>"
+    },
+    {
+      "businessName": "Isaac David Roofing Miami Beach",
+      "email": "info@isaacdavidroofing.net",
+      "city": "Miami",
+      "subject": "quick question regarding Isaac David Roofing Miami Beach's operations in Miami",
+      "timestamp": "2026-10-07T19:52:40.777Z",
+      "messageId": "<8e010a0b-e975-4989-8f04-1263fe52904a@gmail.com>"
+    },
+    {
+      "businessName": "Florida Commercial Roofing and Construction",
+      "email": "info@floridacommercialroofing.net",
+      "city": "Miami",
+      "subject": "quick question regarding Florida Commercial Roofing and Construction's operations in Miami",
+      "timestamp": "2026-10-07T19:52:45.549Z",
+      "messageId": "<422774df-c38e-762b-67ae-ab6c8280490a@gmail.com>"
+    },
+    {
+      "businessName": "Art's Roofing & Construction",
+      "email": "info@artsroofing.com",
+      "city": "Miami",
+      "subject": "quick question regarding Art's Roofing & Construction's operations in Miami",
+      "timestamp": "2026-10-07T19:52:50.428Z",
+      "messageId": "<b50f5e7c-e6cb-195d-5764-093298744d56@gmail.com>"
+    },
+    {
+      "businessName": "Big Al's Roofing",
+      "email": "bigalmiami@gmail.com",
+      "city": "Miami",
+      "subject": "quick question regarding Big Al's Roofing's operations in Miami",
+      "timestamp": "2026-10-07T19:52:56.060Z",
+      "messageId": "<073e341e-b2a7-3602-dd6e-1f0209d4845a@gmail.com>"
+    },
+    {
+      "businessName": "Perfect Roofing of FL",
+      "email": "info@perfectroofingfl.com",
+      "city": "Miami",
+      "subject": "quick question regarding Perfect Roofing of FL's operations in Miami",
+      "timestamp": "2026-10-07T19:53:00.859Z",
+      "messageId": "<daa04618-2b2c-15fc-3bc3-1a9cf272cc43@gmail.com>"
     }
   ]
 }
