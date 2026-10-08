@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-07",
+  "lastResetDate": "2026-10-08",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "No Filter Medical Spa",
-      "email": "info@nofiltermedspa.com",
+      "businessName": "Earl W. Johnston Roofing",
+      "email": "info@johnstonroofing.com",
       "city": "Miami",
-      "subject": "quick question regarding No Filter Medical Spa's operations in Miami",
-      "timestamp": "2026-10-07T19:50:15.568Z",
-      "messageId": "<86142225-0e36-d143-20f1-70b0d019e92a@gmail.com>"
+      "subject": "quick question regarding Earl W. Johnston Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:45:41.052Z",
+      "messageId": "<d0dbc505-1321-16ce-95f1-1ddf8651df4a@gmail.com>"
     },
     {
-      "businessName": "Zeugma MedSpa",
-      "email": "info@zeugmaspa.com",
+      "businessName": "MRT Construction",
+      "email": "admin@mrtconstruction.com",
       "city": "Miami",
-      "subject": "quick question regarding Zeugma MedSpa's operations in Miami",
-      "timestamp": "2026-10-07T19:50:20.515Z",
-      "messageId": "<30391d67-1e92-d4f5-1e6d-77c09b9a2669@gmail.com>"
+      "subject": "quick question regarding MRT Construction's operations in Miami",
+      "timestamp": "2026-10-08T19:45:46.325Z",
+      "messageId": "<4cc7d964-3bbc-3425-880c-bbbe1edd91bb@gmail.com>"
     },
     {
-      "businessName": "NuYou Medical Aesthetics",
-      "email": "inquiries@lovethenuyou.com",
+      "businessName": "Affordable Contractors, Inc.",
+      "email": "info@affordableroofingcontractors.com",
       "city": "Miami",
-      "subject": "quick question regarding NuYou Medical Aesthetics's operations in Miami",
-      "timestamp": "2026-10-07T19:50:27.327Z",
-      "messageId": "<8845681c-df90-ed3a-3238-558c519bc059@gmail.com>"
+      "subject": "quick question regarding Affordable Contractors, .'s operations in Miami",
+      "timestamp": "2026-10-08T19:45:51.447Z",
+      "messageId": "<45f0fdab-9768-423f-c0c1-7d6ca75e4615@gmail.com>"
     },
     {
-      "businessName": "The Parlour",
-      "email": "info@theparlourmiami.com",
+      "businessName": "M3 Roofing",
+      "email": "info@m3roofmiami.com",
       "city": "Miami",
-      "subject": "quick question regarding The Parlour's operations in Miami",
-      "timestamp": "2026-10-07T19:50:32.156Z",
-      "messageId": "<5fc6fa03-6cb8-2f65-56c9-196c1ef38c99@gmail.com>"
+      "subject": "quick question regarding M3 Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:45:59.813Z",
+      "messageId": "<4ca880f2-60e8-bda8-318c-b241acdeb224@gmail.com>"
     },
     {
-      "businessName": "MDW Aesthetics Miami",
-      "email": "brickell@mdwaesthetics.com",
+      "businessName": "MIBE GROUP INC",
+      "email": "info@miamibestroofing.com",
       "city": "Miami",
-      "subject": "quick question regarding MDW Aesthetics Miami's operations in Miami",
-      "timestamp": "2026-10-07T19:50:37.054Z",
-      "messageId": "<a0687c7c-484c-0e7c-9cbe-0f4f320e1d2b@gmail.com>"
+      "subject": "quick question regarding MIBE's operations in Miami",
+      "timestamp": "2026-10-08T19:46:05.017Z",
+      "messageId": "<3e0a6514-d43e-4fda-4d52-31b02b2571b2@gmail.com>"
     },
     {
-      "businessName": "Solea Spa",
-      "email": "info@soleabrickellspa.com",
+      "businessName": "A-1 Commercial Roofing Contractor",
+      "email": "info@a1roofingcontractors.com",
       "city": "Miami",
-      "subject": "quick question regarding Solea Spa's operations in Miami",
-      "timestamp": "2026-10-07T19:50:41.899Z",
-      "messageId": "<bb11799b-b55c-f33d-97c4-b5696f07f062@gmail.com>"
+      "subject": "quick question regarding A-1 Commercial Roofing Contractor's operations in Miami",
+      "timestamp": "2026-10-08T19:46:10.270Z",
+      "messageId": "<484889cf-bae8-8ab3-4b3b-313ad0972157@gmail.com>"
     },
     {
-      "businessName": "Aromas Medspa at Kendall",
-      "email": "aromas@me.com",
+      "businessName": "CAD Roof Solutions",
+      "email": "info@cadroofsolutionsinc.com",
       "city": "Miami",
-      "subject": "quick question regarding Aromas Medspa at Kendall's operations in Miami",
-      "timestamp": "2026-10-07T19:50:47.612Z",
-      "messageId": "<5b604f58-3710-9ebe-1e67-29a59b896531@gmail.com>"
+      "subject": "quick question regarding CAD Roof Solutions's operations in Miami",
+      "timestamp": "2026-10-08T19:46:15.509Z",
+      "messageId": "<c426cbc1-f9bd-39c1-8d3a-bcc2fb08f74d@gmail.com>"
     },
     {
-      "businessName": "Get Refreshed",
-      "email": "info@getrefreshed.life",
+      "businessName": "AJF Roofing",
+      "email": "info@ajfroofingfl.com",
       "city": "Miami",
-      "subject": "quick question regarding Get Refreshed's operations in Miami",
-      "timestamp": "2026-10-07T19:50:52.418Z",
-      "messageId": "<051e8fa9-6b53-1182-b5c0-db03da8adb21@gmail.com>"
+      "subject": "quick question regarding AJF Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:46:20.713Z",
+      "messageId": "<fe61db1d-9662-8bc8-52b0-e37ffb33b9a3@gmail.com>"
     },
     {
-      "businessName": "Privai Spa + Fitness at Kimpton EPIC Hotel",
-      "email": "spaconcierge@privaispas.com",
+      "businessName": "Green Home Roofing, Inc",
+      "email": "office@greenhomeroofinginc.com",
       "city": "Miami",
-      "subject": "quick question regarding Privai Spa + Fitness at Kimpton EPIC Hotel's operations in Miami",
-      "timestamp": "2026-10-07T19:50:57.206Z",
-      "messageId": "<2ea6ddc4-7d26-bfa3-16d6-ab58a73f5980@gmail.com>"
+      "subject": "quick question regarding Green Home Roofing,'s operations in Miami",
+      "timestamp": "2026-10-08T19:46:25.859Z",
+      "messageId": "<a9937bbd-1720-a435-341d-f512e43c7a3b@gmail.com>"
     },
     {
-      "businessName": "Prime Body & Spa",
-      "email": "sales@vagaro.com",
+      "businessName": "High Point Roofing Corp",
+      "email": "highpointroofingcorp@yahoo.com",
       "city": "Miami",
-      "subject": "quick question regarding Prime Body & Spa's operations in Miami",
-      "timestamp": "2026-10-07T19:51:02.053Z",
-      "messageId": "<26a825ce-b89d-b5fe-9539-6cc7c79e9acb@gmail.com>"
+      "subject": "quick question regarding High Point Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:46:31.070Z",
+      "messageId": "<989dcab1-409c-bdcc-c66d-0f044364347e@gmail.com>"
     },
     {
-      "businessName": "Asha Esthetic & Medspa",
-      "email": "info@ashaesthetics.com",
+      "businessName": "Gerico Construction Windows & Roofing",
+      "email": "info@gericoconstructionfl.com",
       "city": "Miami",
-      "subject": "quick question regarding Asha Esthetic & Medspa's operations in Miami",
-      "timestamp": "2026-10-07T19:51:06.923Z",
-      "messageId": "<c4fda12e-8673-9b46-a4b2-3c4af8892e7f@gmail.com>"
+      "subject": "quick question regarding Gerico Construction Windows & Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:46:37.141Z",
+      "messageId": "<fc4d83f1-192a-5ad7-4d22-cc9b1802c3a2@gmail.com>"
     },
     {
-      "businessName": "World of Beauty Miami",
-      "email": "info@worldofbeauty.miami",
+      "businessName": "Del Sol Roofing",
+      "email": "dsr@delsolroofing.com",
       "city": "Miami",
-      "subject": "quick question regarding World of Beauty Miami's operations in Miami",
-      "timestamp": "2026-10-07T19:51:11.764Z",
-      "messageId": "<c22814fd-4b5a-cc1e-8ab1-18e20f36e100@gmail.com>"
+      "subject": "quick question regarding Del Sol Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:46:42.406Z",
+      "messageId": "<4e62750c-53c7-121e-889b-695d6d376351@gmail.com>"
     },
     {
-      "businessName": "Din Style Med Spa",
-      "email": "angel@dharmamarketing.cloud",
+      "businessName": "Extreme Roofing Inc",
+      "email": "info@extremeroofingmiami.com",
       "city": "Miami",
-      "subject": "quick question regarding Din Style Med Spa's operations in Miami",
-      "timestamp": "2026-10-07T19:51:16.613Z",
-      "messageId": "<f875eaca-a584-fd1b-01b0-f0cb15c84d26@gmail.com>"
+      "subject": "quick question regarding Extreme Roofing's operations in Miami",
+      "timestamp": "2026-10-08T19:46:47.753Z",
+      "messageId": "<f5891e5b-1294-68f1-fb06-cf52ba5edd69@gmail.com>"
     },
     {
-      "businessName": "Plump Cosmetics & Injectables",
-      "email": "info@getplump.com",
-      "city": "Miami",
-      "subject": "quick question regarding Plump Cosmetics & Injectables's operations in Miami",
-      "timestamp": "2026-10-07T19:51:21.443Z",
-      "messageId": "<413b4c0a-e885-7473-4a38-72b0a8934350@gmail.com>"
+      "businessName": "Montlick Injury Attorneys",
+      "email": "email@montlick.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Montlick Injury Attorneys's operations in Atlanta",
+      "timestamp": "2026-10-08T19:46:53.052Z",
+      "messageId": "<11a06b71-8242-fe76-7762-82ef9b43a309@gmail.com>"
     },
     {
-      "businessName": "Relax Spa",
-      "email": "info@relaxspa.us",
-      "city": "Miami",
-      "subject": "quick question regarding Relax Spa's operations in Miami",
-      "timestamp": "2026-10-07T19:51:27.267Z",
-      "messageId": "<c00b9d8d-9500-c00a-fed4-e22e7df42def@gmail.com>"
+      "businessName": "The Wilson PC",
+      "email": "info@thewilsonpc.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding The Wilson PC's operations in Atlanta",
+      "timestamp": "2026-10-08T19:46:58.255Z",
+      "messageId": "<b717eb0c-7135-b485-d57d-ea72755c155f@gmail.com>"
     },
     {
-      "businessName": "Zia Medical Aesthetics",
-      "email": "info@ziamedicalaesthetics.com",
-      "city": "Miami",
-      "subject": "quick question regarding Zia Medical Aesthetics's operations in Miami",
-      "timestamp": "2026-10-07T19:51:32.085Z",
-      "messageId": "<5ce91b10-78f3-57ea-78b9-1ffc91e3a8e9@gmail.com>"
+      "businessName": "Tobin Injury Law - Personal Injury Lawyer Atlanta",
+      "email": "darren@tobininjurylaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Tobin Injury Law - Personal Injury Lawyer Atlanta's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:03.533Z",
+      "messageId": "<7025ce89-9009-bc80-c707-60faa00b80a9@gmail.com>"
     },
     {
-      "businessName": "Artemis Medical Spa",
-      "email": "info@artemismedicalspa.com",
-      "city": "Miami",
-      "subject": "quick question regarding Artemis Medical Spa's operations in Miami",
-      "timestamp": "2026-10-07T19:51:36.874Z",
-      "messageId": "<3cd3c112-b68c-ea30-c1a3-d19ece5e4cd2@gmail.com>"
+      "businessName": "Witherite Law Group",
+      "email": "mediainquiries@prexperts.net",
+      "city": "Atlanta",
+      "subject": "quick question regarding Witherite Law's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:08.874Z",
+      "messageId": "<419d4954-ea19-29d2-97c9-da68d88844c9@gmail.com>"
     },
     {
-      "businessName": "T&S Roofing Systems",
-      "email": "info@tsroofingsystems.com",
-      "city": "Miami",
-      "subject": "quick question regarding T&S Roofing Systems's operations in Miami",
-      "timestamp": "2026-10-07T19:51:41.632Z",
-      "messageId": "<0f23fbd8-766a-5a32-b0b9-1b5ce3b57e56@gmail.com>"
+      "businessName": "Spaulding Injury Law: Personal Injury & Car Accident Lawyer",
+      "email": "contact@spauldinginjurylaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Spaulding Injury Law: Personal Injury & Car Accident Lawyer's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:14.116Z",
+      "messageId": "<704e33c9-d7f7-879d-bf01-b96959baea2b@gmail.com>"
     },
     {
-      "businessName": "A&E Brothers Roofing",
-      "email": "info@aebrothersroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding A&E Brothers Roofing's operations in Miami",
-      "timestamp": "2026-10-07T19:51:47.169Z",
-      "messageId": "<f1fc5292-3cf8-185e-9bd6-4ba41e620fea@gmail.com>"
+      "businessName": "The Mabra Law Firm",
+      "email": "wecare@mabralaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding The Mabra Law Firm's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:19.327Z",
+      "messageId": "<16fd81f1-57f9-a6ee-afcf-7d181cccbcf5@gmail.com>"
     },
     {
-      "businessName": "4EVER ROOFING",
-      "email": "info@4everoofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding 4EVER ROOFING's operations in Miami",
-      "timestamp": "2026-10-07T19:51:51.985Z",
-      "messageId": "<2e070353-fd81-7c3b-cbb5-ce90850b70de@gmail.com>"
+      "businessName": "The Law Offices of Julian Lewis Sanders & Associates",
+      "email": "intake@juliansanderslaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding The Law Offices of Julian Lewis Sanders & Associates's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:24.520Z",
+      "messageId": "<0e3e46b7-c5bc-4f35-1884-9d6470827c27@gmail.com>"
     },
     {
-      "businessName": "Miami Roof-Tech",
-      "email": "info@miamirooftech.com",
-      "city": "Miami",
-      "subject": "quick question regarding Miami Roof-Tech's operations in Miami",
-      "timestamp": "2026-10-07T19:51:56.885Z",
-      "messageId": "<f74a8519-dfcb-5824-6d5f-0ea317bdaf3f@gmail.com>"
+      "businessName": "The Dressie Law Firm, LLC",
+      "email": "info@dressielaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding The Dressie Law Firm,'s operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:29.685Z",
+      "messageId": "<d038d33d-86ac-7fba-329f-e12d9dc7dbf4@gmail.com>"
     },
     {
-      "businessName": "Palma Roofing",
-      "email": "info@palmaroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Palma Roofing's operations in Miami",
-      "timestamp": "2026-10-07T19:52:01.718Z",
-      "messageId": "<70407047-e2bd-c370-2adc-e06ea2380358@gmail.com>"
+      "businessName": "Monge & Associates Injury and Accident Attorneys - Atlanta",
+      "email": "your-email@email.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Monge & Associates Injury and Accident Attorneys - Atlanta's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:35.041Z",
+      "messageId": "<0587e8b8-0b06-fe55-8760-2adb9d43995c@gmail.com>"
     },
     {
-      "businessName": "Istueta Roofing",
-      "email": "info@istuetaroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Istueta Roofing's operations in Miami",
-      "timestamp": "2026-10-07T19:52:06.550Z",
-      "messageId": "<35e37f86-2858-60f4-2a37-2436e024742e@gmail.com>"
+      "businessName": "Georgia Auto Law: Auto Accident Attorneys",
+      "email": "info@georgiaautolaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Georgia Auto Law: Auto Accident Attorneys's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:40.428Z",
+      "messageId": "<b06dfae6-24c5-bb42-3339-3a7a97861d0d@gmail.com>"
     },
     {
-      "businessName": "Jireh Roofing Contractor USA, INC",
-      "email": "office@jirehroofingcontractorusainc.com",
-      "city": "Miami",
-      "subject": "quick question regarding Jireh Roofing Contractor USA,'s operations in Miami",
-      "timestamp": "2026-10-07T19:52:11.461Z",
-      "messageId": "<9f130783-23cf-1fb0-9579-badaec161802@gmail.com>"
+      "businessName": "Monge & Associates Injury and Accident Attorneys",
+      "email": "your-email@email.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Monge & Associates Injury and Accident Attorneys's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:45.613Z",
+      "messageId": "<d4ca0c70-c921-080e-142e-7394c3ffa632@gmail.com>"
     },
     {
-      "businessName": "Fix Up Roofing and Construction LLC",
-      "email": "cs@fixuproofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Fix Up Roofing and Construction's operations in Miami",
-      "timestamp": "2026-10-07T19:52:16.225Z",
-      "messageId": "<f4e3b65f-f9d3-1966-95ec-65b60d9b57f6@gmail.com>"
+      "businessName": "Hasner Law: Atlanta Injury & Workers' Compensation Attorneys",
+      "email": "contact@hasnerlaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Hasner Law: Atlanta Injury & Workers' Compensation Attorneys's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:50.799Z",
+      "messageId": "<70f51f29-e421-be85-6bab-7549cadd3ff4@gmail.com>"
     },
     {
-      "businessName": "Roofing Experts Services",
-      "email": "sales@roofingex.com",
-      "city": "Miami",
-      "subject": "quick question regarding Roofing Experts Services's operations in Miami",
-      "timestamp": "2026-10-07T19:52:21.145Z",
-      "messageId": "<ad8640c4-516c-3454-7cb8-7a62e18fa8d8@gmail.com>"
+      "businessName": "Atlanta Injury Attorneys",
+      "email": "support@thisisarray.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Atlanta Injury Attorneys's operations in Atlanta",
+      "timestamp": "2026-10-08T19:47:56.253Z",
+      "messageId": "<941deae6-4deb-ace7-a15c-d4177c77d28d@gmail.com>"
     },
     {
-      "businessName": "Mainland Roofing Company",
-      "email": "office@mainlandroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Mainland Roofing Company's operations in Miami",
-      "timestamp": "2026-10-07T19:52:25.968Z",
-      "messageId": "<877b2cc3-05ec-05e1-c080-d198639f3a6f@gmail.com>"
+      "businessName": "Atlanta Personal Injury Law Firm — First Class",
+      "email": "info@atlpersonalinjurylawfirm.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Atlanta Personal Injury Law Firm — First Class's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:01.554Z",
+      "messageId": "<fb7ed5fe-e3b5-e937-be4a-7fdf9133994d@gmail.com>"
     },
     {
-      "businessName": "Proper Roofing Inc. - Top Rated Roofing, Windows And Remodeling.",
-      "email": "appointment@properoofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Proper Roofing . - Top Rated Roofing, Windows And Remodeling.'s operations in Miami",
-      "timestamp": "2026-10-07T19:52:30.795Z",
-      "messageId": "<e224bede-dab6-75f1-87be-6765f09efb58@gmail.com>"
+      "businessName": "Rafi Law Firm",
+      "email": "john.doe@email.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Rafi Law Firm's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:06.804Z",
+      "messageId": "<30eed7d8-43e8-f259-987c-9f7466b2b1a7@gmail.com>"
     },
     {
-      "businessName": "Martinez Roofing Miami",
-      "email": "info@martinezroofingmiami.com",
-      "city": "Miami",
-      "subject": "quick question regarding Martinez Roofing Miami's operations in Miami",
-      "timestamp": "2026-10-07T19:52:35.844Z",
-      "messageId": "<9bea601d-ae33-29b0-b05d-26293b7f9e13@gmail.com>"
+      "businessName": "Graham Scofield Injury Lawyers",
+      "email": "advice@atlinjurylawyers.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Graham Scofield Injury Lawyers's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:12.141Z",
+      "messageId": "<75c1d5e3-ae58-3f08-7c46-e7f61589a487@gmail.com>"
     },
     {
-      "businessName": "Isaac David Roofing Miami Beach",
-      "email": "info@isaacdavidroofing.net",
-      "city": "Miami",
-      "subject": "quick question regarding Isaac David Roofing Miami Beach's operations in Miami",
-      "timestamp": "2026-10-07T19:52:40.777Z",
-      "messageId": "<8e010a0b-e975-4989-8f04-1263fe52904a@gmail.com>"
+      "businessName": "My 25% Lawyer",
+      "email": "help@my25lawyer.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding My 25% Lawyer's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:17.434Z",
+      "messageId": "<026f5fee-0010-175e-f6e8-8cf4e1c743d5@gmail.com>"
     },
     {
-      "businessName": "Florida Commercial Roofing and Construction",
-      "email": "info@floridacommercialroofing.net",
-      "city": "Miami",
-      "subject": "quick question regarding Florida Commercial Roofing and Construction's operations in Miami",
-      "timestamp": "2026-10-07T19:52:45.549Z",
-      "messageId": "<422774df-c38e-762b-67ae-ab6c8280490a@gmail.com>"
+      "businessName": "Robert Leanza Williams Jr. Attorney at Law",
+      "email": "intakes@bigtimelaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Robert Leanza Williams Jr. Attorney at Law's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:22.752Z",
+      "messageId": "<3b2aa4b2-d439-4a13-5817-06200fea96f9@gmail.com>"
     },
     {
-      "businessName": "Art's Roofing & Construction",
-      "email": "info@artsroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Art's Roofing & Construction's operations in Miami",
-      "timestamp": "2026-10-07T19:52:50.428Z",
-      "messageId": "<b50f5e7c-e6cb-195d-5764-093298744d56@gmail.com>"
+      "businessName": "Humphrey & Ballard Law",
+      "email": "david@humphreyballardlaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Humphrey & Ballard Law's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:27.925Z",
+      "messageId": "<0f67740e-f75b-93e7-e872-55fe7f6d8677@gmail.com>"
     },
     {
-      "businessName": "Big Al's Roofing",
-      "email": "bigalmiami@gmail.com",
-      "city": "Miami",
-      "subject": "quick question regarding Big Al's Roofing's operations in Miami",
-      "timestamp": "2026-10-07T19:52:56.060Z",
-      "messageId": "<073e341e-b2a7-3602-dd6e-1f0209d4845a@gmail.com>"
+      "businessName": "BOB Law Firm",
+      "email": "info@boblawfirm.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding BOB Law Firm's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:33.077Z",
+      "messageId": "<d98c1eea-09e6-3a6c-fb19-e506a7094483@gmail.com>"
     },
     {
-      "businessName": "Perfect Roofing of FL",
-      "email": "info@perfectroofingfl.com",
-      "city": "Miami",
-      "subject": "quick question regarding Perfect Roofing of FL's operations in Miami",
-      "timestamp": "2026-10-07T19:53:00.859Z",
-      "messageId": "<daa04618-2b2c-15fc-3bc3-1a9cf272cc43@gmail.com>"
+      "businessName": "Kevin Patrick Law",
+      "email": "kevin@patricktriallaw.com",
+      "city": "Atlanta",
+      "subject": "quick question regarding Kevin Patrick Law's operations in Atlanta",
+      "timestamp": "2026-10-08T19:48:38.375Z",
+      "messageId": "<fbfe94d9-611c-dfcb-fc3c-97cbb598a0db@gmail.com>"
     }
   ]
 }
