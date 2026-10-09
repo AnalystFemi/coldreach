@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-08",
+  "lastResetDate": "2026-10-09",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Earl W. Johnston Roofing",
-      "email": "info@johnstonroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Earl W. Johnston Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:45:41.052Z",
-      "messageId": "<d0dbc505-1321-16ce-95f1-1ddf8651df4a@gmail.com>"
-    },
-    {
-      "businessName": "MRT Construction",
-      "email": "admin@mrtconstruction.com",
-      "city": "Miami",
-      "subject": "quick question regarding MRT Construction's operations in Miami",
-      "timestamp": "2026-10-08T19:45:46.325Z",
-      "messageId": "<4cc7d964-3bbc-3425-880c-bbbe1edd91bb@gmail.com>"
-    },
-    {
-      "businessName": "Affordable Contractors, Inc.",
-      "email": "info@affordableroofingcontractors.com",
-      "city": "Miami",
-      "subject": "quick question regarding Affordable Contractors, .'s operations in Miami",
-      "timestamp": "2026-10-08T19:45:51.447Z",
-      "messageId": "<45f0fdab-9768-423f-c0c1-7d6ca75e4615@gmail.com>"
-    },
-    {
-      "businessName": "M3 Roofing",
-      "email": "info@m3roofmiami.com",
-      "city": "Miami",
-      "subject": "quick question regarding M3 Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:45:59.813Z",
-      "messageId": "<4ca880f2-60e8-bda8-318c-b241acdeb224@gmail.com>"
-    },
-    {
-      "businessName": "MIBE GROUP INC",
-      "email": "info@miamibestroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding MIBE's operations in Miami",
-      "timestamp": "2026-10-08T19:46:05.017Z",
-      "messageId": "<3e0a6514-d43e-4fda-4d52-31b02b2571b2@gmail.com>"
-    },
-    {
-      "businessName": "A-1 Commercial Roofing Contractor",
-      "email": "info@a1roofingcontractors.com",
-      "city": "Miami",
-      "subject": "quick question regarding A-1 Commercial Roofing Contractor's operations in Miami",
-      "timestamp": "2026-10-08T19:46:10.270Z",
-      "messageId": "<484889cf-bae8-8ab3-4b3b-313ad0972157@gmail.com>"
-    },
-    {
-      "businessName": "CAD Roof Solutions",
-      "email": "info@cadroofsolutionsinc.com",
-      "city": "Miami",
-      "subject": "quick question regarding CAD Roof Solutions's operations in Miami",
-      "timestamp": "2026-10-08T19:46:15.509Z",
-      "messageId": "<c426cbc1-f9bd-39c1-8d3a-bcc2fb08f74d@gmail.com>"
-    },
-    {
-      "businessName": "AJF Roofing",
-      "email": "info@ajfroofingfl.com",
-      "city": "Miami",
-      "subject": "quick question regarding AJF Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:46:20.713Z",
-      "messageId": "<fe61db1d-9662-8bc8-52b0-e37ffb33b9a3@gmail.com>"
-    },
-    {
-      "businessName": "Green Home Roofing, Inc",
-      "email": "office@greenhomeroofinginc.com",
-      "city": "Miami",
-      "subject": "quick question regarding Green Home Roofing,'s operations in Miami",
-      "timestamp": "2026-10-08T19:46:25.859Z",
-      "messageId": "<a9937bbd-1720-a435-341d-f512e43c7a3b@gmail.com>"
-    },
-    {
-      "businessName": "High Point Roofing Corp",
-      "email": "highpointroofingcorp@yahoo.com",
-      "city": "Miami",
-      "subject": "quick question regarding High Point Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:46:31.070Z",
-      "messageId": "<989dcab1-409c-bdcc-c66d-0f044364347e@gmail.com>"
-    },
-    {
-      "businessName": "Gerico Construction Windows & Roofing",
-      "email": "info@gericoconstructionfl.com",
-      "city": "Miami",
-      "subject": "quick question regarding Gerico Construction Windows & Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:46:37.141Z",
-      "messageId": "<fc4d83f1-192a-5ad7-4d22-cc9b1802c3a2@gmail.com>"
-    },
-    {
-      "businessName": "Del Sol Roofing",
-      "email": "dsr@delsolroofing.com",
-      "city": "Miami",
-      "subject": "quick question regarding Del Sol Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:46:42.406Z",
-      "messageId": "<4e62750c-53c7-121e-889b-695d6d376351@gmail.com>"
-    },
-    {
-      "businessName": "Extreme Roofing Inc",
-      "email": "info@extremeroofingmiami.com",
-      "city": "Miami",
-      "subject": "quick question regarding Extreme Roofing's operations in Miami",
-      "timestamp": "2026-10-08T19:46:47.753Z",
-      "messageId": "<f5891e5b-1294-68f1-fb06-cf52ba5edd69@gmail.com>"
-    },
-    {
-      "businessName": "Montlick Injury Attorneys",
-      "email": "email@montlick.com",
+      "businessName": "The Gumprecht Law Firm",
+      "email": "office@galawfirm.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Montlick Injury Attorneys's operations in Atlanta",
-      "timestamp": "2026-10-08T19:46:53.052Z",
-      "messageId": "<11a06b71-8242-fe76-7762-82ef9b43a309@gmail.com>"
+      "subject": "quick question regarding The Gumprecht Law Firm's operations in Atlanta",
+      "timestamp": "2026-10-09T19:22:44.076Z",
+      "messageId": "<d8a0eb5a-f9a7-ff16-cd89-6da6f074a0f2@gmail.com>"
     },
     {
-      "businessName": "The Wilson PC",
-      "email": "info@thewilsonpc.com",
+      "businessName": "H Groves Law, LLC",
+      "email": "info@hgroveslaw.com",
       "city": "Atlanta",
-      "subject": "quick question regarding The Wilson PC's operations in Atlanta",
-      "timestamp": "2026-10-08T19:46:58.255Z",
-      "messageId": "<b717eb0c-7135-b485-d57d-ea72755c155f@gmail.com>"
+      "subject": "quick question regarding H Groves Law,'s operations in Atlanta",
+      "timestamp": "2026-10-09T19:22:49.051Z",
+      "messageId": "<96a79609-bf47-d030-f50b-b071a3ea786a@gmail.com>"
     },
     {
-      "businessName": "Tobin Injury Law - Personal Injury Lawyer Atlanta",
-      "email": "darren@tobininjurylaw.com",
+      "businessName": "TopDog Law Personal Injury Lawyers",
+      "email": "reception@topdoglaw.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Tobin Injury Law - Personal Injury Lawyer Atlanta's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:03.533Z",
-      "messageId": "<7025ce89-9009-bc80-c707-60faa00b80a9@gmail.com>"
+      "subject": "quick question regarding TopDog Law Personal Injury Lawyers's operations in Atlanta",
+      "timestamp": "2026-10-09T19:22:54.099Z",
+      "messageId": "<1249dee7-9d7a-c084-8551-c55b2162151c@gmail.com>"
     },
     {
-      "businessName": "Witherite Law Group",
-      "email": "mediainquiries@prexperts.net",
+      "businessName": "Flanagan Law, P.C.",
+      "email": "info@bflanlaw.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Witherite Law's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:08.874Z",
-      "messageId": "<419d4954-ea19-29d2-97c9-da68d88844c9@gmail.com>"
+      "subject": "quick question regarding Flanagan Law, P.C.'s operations in Atlanta",
+      "timestamp": "2026-10-09T19:22:59.383Z",
+      "messageId": "<d481047f-4e4a-4832-0742-af1a5ec4e4a6@gmail.com>"
     },
     {
-      "businessName": "Spaulding Injury Law: Personal Injury & Car Accident Lawyer",
-      "email": "contact@spauldinginjurylaw.com",
+      "businessName": "HVAC Guyz & Plumbing Inc",
+      "email": "service@hvacguyzatl.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Spaulding Injury Law: Personal Injury & Car Accident Lawyer's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:14.116Z",
-      "messageId": "<704e33c9-d7f7-879d-bf01-b96959baea2b@gmail.com>"
+      "subject": "quick question regarding HVAC Guyz & Plumbing's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:04.439Z",
+      "messageId": "<e46405f3-7140-0413-e5e7-887b924009c2@gmail.com>"
     },
     {
-      "businessName": "The Mabra Law Firm",
-      "email": "wecare@mabralaw.com",
+      "businessName": "INDOOR EXPERTS HEATING & AIR CONDITIONING",
+      "email": "service@indoorexperts.com",
       "city": "Atlanta",
-      "subject": "quick question regarding The Mabra Law Firm's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:19.327Z",
-      "messageId": "<16fd81f1-57f9-a6ee-afcf-7d181cccbcf5@gmail.com>"
+      "subject": "quick question regarding INDOOR EXPERTS HEATING & AIR CONDITIONING's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:09.414Z",
+      "messageId": "<c93a3684-8e57-bc05-679f-c0d052ccf5db@gmail.com>"
     },
     {
-      "businessName": "The Law Offices of Julian Lewis Sanders & Associates",
-      "email": "intake@juliansanderslaw.com",
+      "businessName": "Atlanta Air Pro",
+      "email": "atlantaairpro@gmail.com",
       "city": "Atlanta",
-      "subject": "quick question regarding The Law Offices of Julian Lewis Sanders & Associates's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:24.520Z",
-      "messageId": "<0e3e46b7-c5bc-4f35-1884-9d6470827c27@gmail.com>"
+      "subject": "quick question regarding Atlanta Air Pro's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:14.513Z",
+      "messageId": "<0f8fda06-1bde-c4e4-9abd-4df7ea96307d@gmail.com>"
     },
     {
-      "businessName": "The Dressie Law Firm, LLC",
-      "email": "info@dressielaw.com",
+      "businessName": "Breezy V’s LLC",
+      "email": "contact@coolair.com",
       "city": "Atlanta",
-      "subject": "quick question regarding The Dressie Law Firm,'s operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:29.685Z",
-      "messageId": "<d038d33d-86ac-7fba-329f-e12d9dc7dbf4@gmail.com>"
+      "subject": "quick question regarding Breezy V’s's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:20.292Z",
+      "messageId": "<b3668eb7-beb2-0770-6c04-572e93cc0651@gmail.com>"
     },
     {
-      "businessName": "Monge & Associates Injury and Accident Attorneys - Atlanta",
-      "email": "your-email@email.com",
+      "businessName": "Mr. Superior Maintenance",
+      "email": "services@mrsuperiormaintenance.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Monge & Associates Injury and Accident Attorneys - Atlanta's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:35.041Z",
-      "messageId": "<0587e8b8-0b06-fe55-8760-2adb9d43995c@gmail.com>"
+      "subject": "quick question regarding Mr. Superior Maintenance's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:26.086Z",
+      "messageId": "<de02bdef-935b-30e5-5372-1cc89eaeb6ab@gmail.com>"
     },
     {
-      "businessName": "Georgia Auto Law: Auto Accident Attorneys",
-      "email": "info@georgiaautolaw.com",
+      "businessName": "Central Heating & Air Conditioning",
+      "email": "info@centralheat.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Georgia Auto Law: Auto Accident Attorneys's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:40.428Z",
-      "messageId": "<b06dfae6-24c5-bb42-3339-3a7a97861d0d@gmail.com>"
+      "subject": "quick question regarding Central Heating & Air Conditioning's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:31.390Z",
+      "messageId": "<5fcb3804-faa4-7529-88c9-6fa47fb08edb@gmail.com>"
     },
     {
-      "businessName": "Monge & Associates Injury and Accident Attorneys",
-      "email": "your-email@email.com",
+      "businessName": "Pioneer HVAC Pros",
+      "email": "matthew@pioneerhvacpros.site",
       "city": "Atlanta",
-      "subject": "quick question regarding Monge & Associates Injury and Accident Attorneys's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:45.613Z",
-      "messageId": "<d4ca0c70-c921-080e-142e-7394c3ffa632@gmail.com>"
+      "subject": "quick question regarding Pioneer HVAC Pros's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:36.386Z",
+      "messageId": "<b770b914-9864-b666-e19a-852a29e7beb7@gmail.com>"
     },
     {
-      "businessName": "Hasner Law: Atlanta Injury & Workers' Compensation Attorneys",
-      "email": "contact@hasnerlaw.com",
+      "businessName": "Walk on Air",
+      "email": "support@walkonairhvac.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Hasner Law: Atlanta Injury & Workers' Compensation Attorneys's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:50.799Z",
-      "messageId": "<70f51f29-e421-be85-6bab-7549cadd3ff4@gmail.com>"
+      "subject": "quick question regarding Walk on Air's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:41.300Z",
+      "messageId": "<598f99a5-86c6-660c-2801-ba59883bf80b@gmail.com>"
     },
     {
-      "businessName": "Atlanta Injury Attorneys",
-      "email": "support@thisisarray.com",
+      "businessName": "My Aire Heating and Cooling",
+      "email": "info@myaire.com",
       "city": "Atlanta",
-      "subject": "quick question regarding Atlanta Injury Attorneys's operations in Atlanta",
-      "timestamp": "2026-10-08T19:47:56.253Z",
-      "messageId": "<941deae6-4deb-ace7-a15c-d4177c77d28d@gmail.com>"
+      "subject": "quick question regarding My Aire Heating and Cooling's operations in Atlanta",
+      "timestamp": "2026-10-09T19:23:46.321Z",
+      "messageId": "<e12b2cf8-5c37-1643-4a17-d463245685ff@gmail.com>"
     },
     {
-      "businessName": "Atlanta Personal Injury Law Firm — First Class",
-      "email": "info@atlpersonalinjurylawfirm.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Atlanta Personal Injury Law Firm — First Class's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:01.554Z",
-      "messageId": "<fb7ed5fe-e3b5-e937-be4a-7fdf9133994d@gmail.com>"
+      "businessName": "Austin Cosmetic Dentistry by Tejas Patel, DDS",
+      "email": "downtown@austincosmetic.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Cosmetic Dentistry by Tejas Patel, DDS's operations in Austin",
+      "timestamp": "2026-10-09T19:23:52.353Z",
+      "messageId": "<55e26541-ce5b-87c8-980d-011c2014c927@gmail.com>"
     },
     {
-      "businessName": "Rafi Law Firm",
-      "email": "john.doe@email.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Rafi Law Firm's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:06.804Z",
-      "messageId": "<30eed7d8-43e8-f259-987c-9f7466b2b1a7@gmail.com>"
+      "businessName": "Austin Artistic Dental",
+      "email": "austinartisticdental@gmail.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Artistic Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:23:58.526Z",
+      "messageId": "<f7481513-a81b-5ca6-5f3b-2ea8a7154890@gmail.com>"
     },
     {
-      "businessName": "Graham Scofield Injury Lawyers",
-      "email": "advice@atlinjurylawyers.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Graham Scofield Injury Lawyers's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:12.141Z",
-      "messageId": "<75c1d5e3-ae58-3f08-7c46-e7f61589a487@gmail.com>"
+      "businessName": "Dr. John Schmid, D.D.S. LVIF",
+      "email": "contact@drjss.com",
+      "city": "Austin",
+      "subject": "quick question regarding Dr. John Schmid, D.D.S. LVIF's operations in Austin",
+      "timestamp": "2026-10-09T19:24:03.526Z",
+      "messageId": "<eda049bb-3498-a976-5fc9-e585e2977268@gmail.com>"
     },
     {
-      "businessName": "My 25% Lawyer",
-      "email": "help@my25lawyer.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding My 25% Lawyer's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:17.434Z",
-      "messageId": "<026f5fee-0010-175e-f6e8-8cf4e1c743d5@gmail.com>"
+      "businessName": "Austin Cosmetic and Implant Dentistry",
+      "email": "info@austintopdentist.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Cosmetic and Implant Dentistry's operations in Austin",
+      "timestamp": "2026-10-09T19:24:09.354Z",
+      "messageId": "<a005ac2f-3270-d8a7-b176-c90b3d24942d@gmail.com>"
     },
     {
-      "businessName": "Robert Leanza Williams Jr. Attorney at Law",
-      "email": "intakes@bigtimelaw.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Robert Leanza Williams Jr. Attorney at Law's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:22.752Z",
-      "messageId": "<3b2aa4b2-d439-4a13-5817-06200fea96f9@gmail.com>"
+      "businessName": "Moossy General & Cosmetic Dentistry",
+      "email": "office@drmoossy.com",
+      "city": "Austin",
+      "subject": "quick question regarding Moossy General & Cosmetic Dentistry's operations in Austin",
+      "timestamp": "2026-10-09T19:24:14.323Z",
+      "messageId": "<0c0be1af-46f0-4005-8f9c-fb8f098eb847@gmail.com>"
     },
     {
-      "businessName": "Humphrey & Ballard Law",
-      "email": "david@humphreyballardlaw.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Humphrey & Ballard Law's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:27.925Z",
-      "messageId": "<0f67740e-f75b-93e7-e872-55fe7f6d8677@gmail.com>"
+      "businessName": "Austin Dental Company",
+      "email": "info@austindentalco.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Dental Company's operations in Austin",
+      "timestamp": "2026-10-09T19:24:19.824Z",
+      "messageId": "<ffa1dfaf-c421-14fd-d37a-a6c8784933e5@gmail.com>"
     },
     {
-      "businessName": "BOB Law Firm",
-      "email": "info@boblawfirm.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding BOB Law Firm's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:33.077Z",
-      "messageId": "<d98c1eea-09e6-3a6c-fb19-e506a7094483@gmail.com>"
+      "businessName": "Austin Elite Smiles | Cosmetic & General Dentistry",
+      "email": "office@austinelitesmiles.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Elite Smiles | Cosmetic & General Dentistry's operations in Austin",
+      "timestamp": "2026-10-09T19:24:24.934Z",
+      "messageId": "<aa472f16-3874-57da-079a-f6aeae11860e@gmail.com>"
     },
     {
-      "businessName": "Kevin Patrick Law",
-      "email": "kevin@patricktriallaw.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Kevin Patrick Law's operations in Atlanta",
-      "timestamp": "2026-10-08T19:48:38.375Z",
-      "messageId": "<fbfe94d9-611c-dfcb-fc3c-97cbb598a0db@gmail.com>"
+      "businessName": "Elite Dentistry Cosmetic & Implant Center of ATX",
+      "email": "admin@elite-dentistry.net",
+      "city": "Austin",
+      "subject": "quick question regarding Elite Dentistry Cosmetic & Implant Center of ATX's operations in Austin",
+      "timestamp": "2026-10-09T19:24:29.993Z",
+      "messageId": "<9c50cbf0-786f-7917-a786-5587d23f2a6e@gmail.com>"
+    },
+    {
+      "businessName": "Enamel Dentistry At The Grove",
+      "email": "hello@enameldentistry.com",
+      "city": "Austin",
+      "subject": "quick question regarding Enamel Dentistry At The Grove's operations in Austin",
+      "timestamp": "2026-10-09T19:24:35.719Z",
+      "messageId": "<b5d482fb-f6ce-94af-a086-0d8358aa5634@gmail.com>"
+    },
+    {
+      "businessName": "Barton Oaks Dental Group",
+      "email": "info@bartonoaksdentalgroup.com",
+      "city": "Austin",
+      "subject": "quick question regarding Barton Oaks Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:24:40.739Z",
+      "messageId": "<4d0e8ded-9787-317b-7188-b5344fe0e7fb@gmail.com>"
+    },
+    {
+      "businessName": "Enamel Dentistry South Lamar",
+      "email": "hello@enameldentistry.com",
+      "city": "Austin",
+      "subject": "quick question regarding Enamel Dentistry South Lamar's operations in Austin",
+      "timestamp": "2026-10-09T19:24:45.797Z",
+      "messageId": "<902a10b3-3518-8147-c274-c35b05233771@gmail.com>"
+    },
+    {
+      "businessName": "Austin City Dental",
+      "email": "info@austincitydental.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin City Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:24:50.761Z",
+      "messageId": "<144430ec-8927-04f9-1c04-d691af70fe46@gmail.com>"
+    },
+    {
+      "businessName": "Smile Haus Austin",
+      "email": "info@smilehausaustin.com",
+      "city": "Austin",
+      "subject": "quick question regarding Smile Haus Austin's operations in Austin",
+      "timestamp": "2026-10-09T19:24:55.717Z",
+      "messageId": "<31216e26-d113-2809-e9ee-a7f3b63ec70a@gmail.com>"
+    },
+    {
+      "businessName": "Hedgecock Dental",
+      "email": "info@hedgecockdental.com",
+      "city": "Austin",
+      "subject": "quick question regarding Hedgecock Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:25:02.078Z",
+      "messageId": "<ae7ccda6-78d9-a8bc-5cb4-4db39f4b2796@gmail.com>"
+    },
+    {
+      "businessName": "Neal R Shah, DDS - Austin Dental Arts",
+      "email": "admin@nealshahdds.com",
+      "city": "Austin",
+      "subject": "quick question regarding Neal R Shah, DDS - Austin Dental Arts's operations in Austin",
+      "timestamp": "2026-10-09T19:25:07.900Z",
+      "messageId": "<acf32801-782c-1fa4-47ae-ab60aa4a04d6@gmail.com>"
+    },
+    {
+      "businessName": "KoLa Family & Cosmetic Dentistry",
+      "email": "info@koladentistry.com",
+      "city": "Austin",
+      "subject": "quick question regarding KoLa Family & Cosmetic Dentistry's operations in Austin",
+      "timestamp": "2026-10-09T19:25:13.050Z",
+      "messageId": "<8958f3cb-4560-c2bd-4401-5e2cd9c9f54f@gmail.com>"
+    },
+    {
+      "businessName": "Austin Advanced Dentistry",
+      "email": "manager@austinadvanceddentistry.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Advanced Dentistry's operations in Austin",
+      "timestamp": "2026-10-09T19:25:18.144Z",
+      "messageId": "<d081d169-8370-fe83-2c89-cecea4d46159@gmail.com>"
+    },
+    {
+      "businessName": "Walden Dental",
+      "email": "youremail@gmail.com",
+      "city": "Austin",
+      "subject": "quick question regarding Walden Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:25:23.114Z",
+      "messageId": "<397bae2a-f5dc-d482-dbf3-47fd56c8a7e8@gmail.com>"
+    },
+    {
+      "businessName": "Clover Smile Studio",
+      "email": "cloversmileatx@gmail.com",
+      "city": "Austin",
+      "subject": "quick question regarding Clover Smile Studio's operations in Austin",
+      "timestamp": "2026-10-09T19:25:28.610Z",
+      "messageId": "<25ccc033-46ce-0674-4d45-f06956424617@gmail.com>"
+    },
+    {
+      "businessName": "Austin Hills Dental",
+      "email": "office@austinhillsdental.com",
+      "city": "Austin",
+      "subject": "quick question regarding Austin Hills Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:25:33.744Z",
+      "messageId": "<ba4e7079-812c-76c8-16c7-36c9ae5ab323@gmail.com>"
+    },
+    {
+      "businessName": "Lady Bird Dental",
+      "email": "info@ladybirddental.com",
+      "city": "Austin",
+      "subject": "quick question regarding Lady Bird Dental's operations in Austin",
+      "timestamp": "2026-10-09T19:25:38.718Z",
+      "messageId": "<5aca4995-c813-1c07-0050-fa91838603f5@gmail.com>"
     }
   ]
 }
