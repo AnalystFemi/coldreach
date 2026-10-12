@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-09",
+  "lastResetDate": "2026-10-12",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "The Gumprecht Law Firm",
-      "email": "office@galawfirm.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding The Gumprecht Law Firm's operations in Atlanta",
-      "timestamp": "2026-10-09T19:22:44.076Z",
-      "messageId": "<d8a0eb5a-f9a7-ff16-cd89-6da6f074a0f2@gmail.com>"
-    },
-    {
-      "businessName": "H Groves Law, LLC",
-      "email": "info@hgroveslaw.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding H Groves Law,'s operations in Atlanta",
-      "timestamp": "2026-10-09T19:22:49.051Z",
-      "messageId": "<96a79609-bf47-d030-f50b-b071a3ea786a@gmail.com>"
-    },
-    {
-      "businessName": "TopDog Law Personal Injury Lawyers",
-      "email": "reception@topdoglaw.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding TopDog Law Personal Injury Lawyers's operations in Atlanta",
-      "timestamp": "2026-10-09T19:22:54.099Z",
-      "messageId": "<1249dee7-9d7a-c084-8551-c55b2162151c@gmail.com>"
-    },
-    {
-      "businessName": "Flanagan Law, P.C.",
-      "email": "info@bflanlaw.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Flanagan Law, P.C.'s operations in Atlanta",
-      "timestamp": "2026-10-09T19:22:59.383Z",
-      "messageId": "<d481047f-4e4a-4832-0742-af1a5ec4e4a6@gmail.com>"
-    },
-    {
-      "businessName": "HVAC Guyz & Plumbing Inc",
-      "email": "service@hvacguyzatl.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding HVAC Guyz & Plumbing's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:04.439Z",
-      "messageId": "<e46405f3-7140-0413-e5e7-887b924009c2@gmail.com>"
-    },
-    {
-      "businessName": "INDOOR EXPERTS HEATING & AIR CONDITIONING",
-      "email": "service@indoorexperts.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding INDOOR EXPERTS HEATING & AIR CONDITIONING's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:09.414Z",
-      "messageId": "<c93a3684-8e57-bc05-679f-c0d052ccf5db@gmail.com>"
-    },
-    {
-      "businessName": "Atlanta Air Pro",
-      "email": "atlantaairpro@gmail.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Atlanta Air Pro's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:14.513Z",
-      "messageId": "<0f8fda06-1bde-c4e4-9abd-4df7ea96307d@gmail.com>"
-    },
-    {
-      "businessName": "Breezy V’s LLC",
-      "email": "contact@coolair.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Breezy V’s's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:20.292Z",
-      "messageId": "<b3668eb7-beb2-0770-6c04-572e93cc0651@gmail.com>"
-    },
-    {
-      "businessName": "Mr. Superior Maintenance",
-      "email": "services@mrsuperiormaintenance.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Mr. Superior Maintenance's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:26.086Z",
-      "messageId": "<de02bdef-935b-30e5-5372-1cc89eaeb6ab@gmail.com>"
-    },
-    {
-      "businessName": "Central Heating & Air Conditioning",
-      "email": "info@centralheat.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Central Heating & Air Conditioning's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:31.390Z",
-      "messageId": "<5fcb3804-faa4-7529-88c9-6fa47fb08edb@gmail.com>"
-    },
-    {
-      "businessName": "Pioneer HVAC Pros",
-      "email": "matthew@pioneerhvacpros.site",
-      "city": "Atlanta",
-      "subject": "quick question regarding Pioneer HVAC Pros's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:36.386Z",
-      "messageId": "<b770b914-9864-b666-e19a-852a29e7beb7@gmail.com>"
-    },
-    {
-      "businessName": "Walk on Air",
-      "email": "support@walkonairhvac.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding Walk on Air's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:41.300Z",
-      "messageId": "<598f99a5-86c6-660c-2801-ba59883bf80b@gmail.com>"
-    },
-    {
-      "businessName": "My Aire Heating and Cooling",
-      "email": "info@myaire.com",
-      "city": "Atlanta",
-      "subject": "quick question regarding My Aire Heating and Cooling's operations in Atlanta",
-      "timestamp": "2026-10-09T19:23:46.321Z",
-      "messageId": "<e12b2cf8-5c37-1643-4a17-d463245685ff@gmail.com>"
-    },
-    {
-      "businessName": "Austin Cosmetic Dentistry by Tejas Patel, DDS",
-      "email": "downtown@austincosmetic.com",
+      "businessName": "Sunset Hills Dentistry",
+      "email": "hello@sunsethillsdentist.com",
       "city": "Austin",
-      "subject": "quick question regarding Austin Cosmetic Dentistry by Tejas Patel, DDS's operations in Austin",
-      "timestamp": "2026-10-09T19:23:52.353Z",
-      "messageId": "<55e26541-ce5b-87c8-980d-011c2014c927@gmail.com>"
+      "subject": "quick question regarding Sunset Hills Dentistry's operations in Austin",
+      "timestamp": "2026-10-12T22:01:50.059Z",
+      "messageId": "<dc6fddcc-83c9-403a-7a39-5e7fd3044909@gmail.com>"
     },
     {
-      "businessName": "Austin Artistic Dental",
-      "email": "austinartisticdental@gmail.com",
+      "businessName": "Smile Haus Medical Parkway",
+      "email": "info@smilehausmedicalpkwy.com",
       "city": "Austin",
-      "subject": "quick question regarding Austin Artistic Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:23:58.526Z",
-      "messageId": "<f7481513-a81b-5ca6-5f3b-2ea8a7154890@gmail.com>"
+      "subject": "quick question regarding Smile Haus Medical Parkway's operations in Austin",
+      "timestamp": "2026-10-12T22:01:55.419Z",
+      "messageId": "<91a5e4e1-a880-7c19-73bb-996198156e90@gmail.com>"
     },
     {
-      "businessName": "Dr. John Schmid, D.D.S. LVIF",
-      "email": "contact@drjss.com",
+      "businessName": "Cynthia L Graves DDS - Dentist Austin TX | Dentures Austin TX",
+      "email": "info@cynthiagravesdds.com",
       "city": "Austin",
-      "subject": "quick question regarding Dr. John Schmid, D.D.S. LVIF's operations in Austin",
-      "timestamp": "2026-10-09T19:24:03.526Z",
-      "messageId": "<eda049bb-3498-a976-5fc9-e585e2977268@gmail.com>"
+      "subject": "quick question regarding Cynthia L Graves DDS - Dentist Austin TX | Dentures Austin TX's operations in Austin",
+      "timestamp": "2026-10-12T22:02:00.629Z",
+      "messageId": "<40a7d805-1c49-d128-41d2-d66e344b2983@gmail.com>"
     },
     {
-      "businessName": "Austin Cosmetic and Implant Dentistry",
-      "email": "info@austintopdentist.com",
+      "businessName": "Sweta Tailor DDS PLLC",
+      "email": "drtailor@drtailor.com",
       "city": "Austin",
-      "subject": "quick question regarding Austin Cosmetic and Implant Dentistry's operations in Austin",
-      "timestamp": "2026-10-09T19:24:09.354Z",
-      "messageId": "<a005ac2f-3270-d8a7-b176-c90b3d24942d@gmail.com>"
+      "subject": "quick question regarding Sweta Tailor DDS PLLC's operations in Austin",
+      "timestamp": "2026-10-12T22:02:08.004Z",
+      "messageId": "<a2d09f0f-b448-6c57-23c2-e8adb54560f0@gmail.com>"
     },
     {
-      "businessName": "Moossy General & Cosmetic Dentistry",
-      "email": "office@drmoossy.com",
+      "businessName": "Smile Creations",
+      "email": "info@smilecreationsatx.com",
       "city": "Austin",
-      "subject": "quick question regarding Moossy General & Cosmetic Dentistry's operations in Austin",
-      "timestamp": "2026-10-09T19:24:14.323Z",
-      "messageId": "<0c0be1af-46f0-4005-8f9c-fb8f098eb847@gmail.com>"
+      "subject": "quick question regarding Smile Creations's operations in Austin",
+      "timestamp": "2026-10-12T22:02:13.504Z",
+      "messageId": "<39a3e918-38e9-832b-3af6-2aebbf30f398@gmail.com>"
     },
     {
-      "businessName": "Austin Dental Company",
-      "email": "info@austindentalco.com",
+      "businessName": "Austin Dental Works",
+      "email": "info@austindentalworks.com",
       "city": "Austin",
-      "subject": "quick question regarding Austin Dental Company's operations in Austin",
-      "timestamp": "2026-10-09T19:24:19.824Z",
-      "messageId": "<ffa1dfaf-c421-14fd-d37a-a6c8784933e5@gmail.com>"
+      "subject": "quick question regarding Austin Dental Works's operations in Austin",
+      "timestamp": "2026-10-12T22:02:18.814Z",
+      "messageId": "<8eee2e1e-12dc-0e5c-7862-b522615a5bda@gmail.com>"
     },
     {
-      "businessName": "Austin Elite Smiles | Cosmetic & General Dentistry",
-      "email": "office@austinelitesmiles.com",
+      "businessName": "Perspective Dental: Ashley Smitherman, DDS",
+      "email": "info@perspectivedentalatx.com",
       "city": "Austin",
-      "subject": "quick question regarding Austin Elite Smiles | Cosmetic & General Dentistry's operations in Austin",
-      "timestamp": "2026-10-09T19:24:24.934Z",
-      "messageId": "<aa472f16-3874-57da-079a-f6aeae11860e@gmail.com>"
+      "subject": "quick question regarding Perspective Dental: Ashley Smitherman, DDS's operations in Austin",
+      "timestamp": "2026-10-12T22:02:24.162Z",
+      "messageId": "<f5f7f79a-ecfe-7764-a9b1-b0fb59de3809@gmail.com>"
     },
     {
-      "businessName": "Elite Dentistry Cosmetic & Implant Center of ATX",
-      "email": "admin@elite-dentistry.net",
-      "city": "Austin",
-      "subject": "quick question regarding Elite Dentistry Cosmetic & Implant Center of ATX's operations in Austin",
-      "timestamp": "2026-10-09T19:24:29.993Z",
-      "messageId": "<9c50cbf0-786f-7917-a786-5587d23f2a6e@gmail.com>"
-    },
-    {
-      "businessName": "Enamel Dentistry At The Grove",
+      "businessName": "Enamel Dentistry Lantana",
       "email": "hello@enameldentistry.com",
       "city": "Austin",
-      "subject": "quick question regarding Enamel Dentistry At The Grove's operations in Austin",
-      "timestamp": "2026-10-09T19:24:35.719Z",
-      "messageId": "<b5d482fb-f6ce-94af-a086-0d8358aa5634@gmail.com>"
+      "subject": "quick question regarding Enamel Dentistry Lantana's operations in Austin",
+      "timestamp": "2026-10-12T22:02:29.477Z",
+      "messageId": "<e237d21d-4219-ef8f-9a43-d19f4bbe82a1@gmail.com>"
     },
     {
-      "businessName": "Barton Oaks Dental Group",
-      "email": "info@bartonoaksdentalgroup.com",
-      "city": "Austin",
-      "subject": "quick question regarding Barton Oaks Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:24:40.739Z",
-      "messageId": "<4d0e8ded-9787-317b-7188-b5344fe0e7fb@gmail.com>"
-    },
-    {
-      "businessName": "Enamel Dentistry South Lamar",
+      "businessName": "Enamel Dentistry Parmer Park",
       "email": "hello@enameldentistry.com",
       "city": "Austin",
-      "subject": "quick question regarding Enamel Dentistry South Lamar's operations in Austin",
-      "timestamp": "2026-10-09T19:24:45.797Z",
-      "messageId": "<902a10b3-3518-8147-c274-c35b05233771@gmail.com>"
+      "subject": "quick question regarding Enamel Dentistry Parmer Park's operations in Austin",
+      "timestamp": "2026-10-12T22:02:34.724Z",
+      "messageId": "<0bb19ae1-2988-e6c4-47a6-752f48a6e510@gmail.com>"
     },
     {
-      "businessName": "Austin City Dental",
-      "email": "info@austincitydental.com",
+      "businessName": "TRU Dentistry Austin",
+      "email": "info@trudentistryaustin.com",
       "city": "Austin",
-      "subject": "quick question regarding Austin City Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:24:50.761Z",
-      "messageId": "<144430ec-8927-04f9-1c04-d691af70fe46@gmail.com>"
+      "subject": "quick question regarding TRU Dentistry Austin's operations in Austin",
+      "timestamp": "2026-10-12T22:02:39.945Z",
+      "messageId": "<bace5973-804e-29d9-8dbc-8298d89e7d04@gmail.com>"
     },
     {
-      "businessName": "Smile Haus Austin",
-      "email": "info@smilehausaustin.com",
+      "businessName": "Enamel Dentistry The Domain",
+      "email": "hello@enameldentistry.com",
       "city": "Austin",
-      "subject": "quick question regarding Smile Haus Austin's operations in Austin",
-      "timestamp": "2026-10-09T19:24:55.717Z",
-      "messageId": "<31216e26-d113-2809-e9ee-a7f3b63ec70a@gmail.com>"
+      "subject": "quick question regarding Enamel Dentistry The Domain's operations in Austin",
+      "timestamp": "2026-10-12T22:02:45.139Z",
+      "messageId": "<84a966ff-9811-db03-32e9-c78aa5af08cb@gmail.com>"
     },
     {
-      "businessName": "Hedgecock Dental",
-      "email": "info@hedgecockdental.com",
+      "businessName": "Lifetime Smiles Cosmetic Dentistry - South Austin",
+      "email": "info@atxdentistry.com",
       "city": "Austin",
-      "subject": "quick question regarding Hedgecock Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:25:02.078Z",
-      "messageId": "<ae7ccda6-78d9-a8bc-5cb4-4db39f4b2796@gmail.com>"
+      "subject": "quick question regarding Lifetime Smiles Cosmetic Dentistry - South Austin's operations in Austin",
+      "timestamp": "2026-10-12T22:02:50.372Z",
+      "messageId": "<806542db-0fee-6f27-c8fa-470be6d4a73a@gmail.com>"
     },
     {
-      "businessName": "Neal R Shah, DDS - Austin Dental Arts",
-      "email": "admin@nealshahdds.com",
+      "businessName": "Advanced Dental Care of Austin",
+      "email": "hhatfield@adcatx.com",
       "city": "Austin",
-      "subject": "quick question regarding Neal R Shah, DDS - Austin Dental Arts's operations in Austin",
-      "timestamp": "2026-10-09T19:25:07.900Z",
-      "messageId": "<acf32801-782c-1fa4-47ae-ab60aa4a04d6@gmail.com>"
+      "subject": "quick question regarding Advanced Dental Care of Austin's operations in Austin",
+      "timestamp": "2026-10-12T22:02:56.839Z",
+      "messageId": "<abedb9d6-54f5-730e-3c5c-604b0a9840ee@gmail.com>"
     },
     {
-      "businessName": "KoLa Family & Cosmetic Dentistry",
-      "email": "info@koladentistry.com",
+      "businessName": "512 Smiles Dental",
+      "email": "office@512smiles.com",
       "city": "Austin",
-      "subject": "quick question regarding KoLa Family & Cosmetic Dentistry's operations in Austin",
-      "timestamp": "2026-10-09T19:25:13.050Z",
-      "messageId": "<8958f3cb-4560-c2bd-4401-5e2cd9c9f54f@gmail.com>"
+      "subject": "quick question regarding 512 Smiles Dental's operations in Austin",
+      "timestamp": "2026-10-12T22:03:02.040Z",
+      "messageId": "<afdce59e-8be0-aaa0-aea2-255227de2a61@gmail.com>"
     },
     {
-      "businessName": "Austin Advanced Dentistry",
-      "email": "manager@austinadvanceddentistry.com",
-      "city": "Austin",
-      "subject": "quick question regarding Austin Advanced Dentistry's operations in Austin",
-      "timestamp": "2026-10-09T19:25:18.144Z",
-      "messageId": "<d081d169-8370-fe83-2c89-cecea4d46159@gmail.com>"
+      "businessName": "AZ Solar Removal & Reinstall - Solar Panel Repair, Installation & Maintenance",
+      "email": "help@azsolarremovalreinstall.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding AZ Solar Removal & Reinstall - Solar Panel Repair, Installation & Maintenance's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:07.392Z",
+      "messageId": "<fa6a0db2-cc1a-b917-1b6f-4cc050843040@gmail.com>"
     },
     {
-      "businessName": "Walden Dental",
-      "email": "youremail@gmail.com",
-      "city": "Austin",
-      "subject": "quick question regarding Walden Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:25:23.114Z",
-      "messageId": "<397bae2a-f5dc-d482-dbf3-47fd56c8a7e8@gmail.com>"
+      "businessName": "Phoenix Valley Solar",
+      "email": "hello@phxvs.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Phoenix Valley Solar's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:12.733Z",
+      "messageId": "<44613b12-23c9-320d-8873-f3e31d81ee26@gmail.com>"
     },
     {
-      "businessName": "Clover Smile Studio",
-      "email": "cloversmileatx@gmail.com",
-      "city": "Austin",
-      "subject": "quick question regarding Clover Smile Studio's operations in Austin",
-      "timestamp": "2026-10-09T19:25:28.610Z",
-      "messageId": "<25ccc033-46ce-0674-4d45-f06956424617@gmail.com>"
+      "businessName": "Watt Masters",
+      "email": "office@wattmasters.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Watt Masters's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:19.031Z",
+      "messageId": "<400ea007-7e0c-9286-6fda-95f73464c29f@gmail.com>"
     },
     {
-      "businessName": "Austin Hills Dental",
-      "email": "office@austinhillsdental.com",
-      "city": "Austin",
-      "subject": "quick question regarding Austin Hills Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:25:33.744Z",
-      "messageId": "<ba4e7079-812c-76c8-16c7-36c9ae5ab323@gmail.com>"
+      "businessName": "Solar Detach & Reset",
+      "email": "service@solardetachpro.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Solar Detach & Reset's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:24.390Z",
+      "messageId": "<d9a98782-7ed4-af2d-cf46-6e5be79e3289@gmail.com>"
     },
     {
-      "businessName": "Lady Bird Dental",
-      "email": "info@ladybirddental.com",
-      "city": "Austin",
-      "subject": "quick question regarding Lady Bird Dental's operations in Austin",
-      "timestamp": "2026-10-09T19:25:38.718Z",
-      "messageId": "<5aca4995-c813-1c07-0050-fa91838603f5@gmail.com>"
+      "businessName": "American Solar & Roofing",
+      "email": "info@americansolarandroofing.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding American Solar & Roofing's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:29.591Z",
+      "messageId": "<b768b8a7-017c-c6be-7ae5-8a9827bdb94f@gmail.com>"
+    },
+    {
+      "businessName": "Bright Home Energy",
+      "email": "info@brighthomeenergy.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Bright Home Energy's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:34.932Z",
+      "messageId": "<b140cf7b-5b5d-f7be-7d38-d460dff216b4@gmail.com>"
+    },
+    {
+      "businessName": "Rooftop Solar",
+      "email": "info@rooftopsolar.us",
+      "city": "Phoenix",
+      "subject": "quick question regarding Rooftop Solar's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:40.212Z",
+      "messageId": "<e534d617-2657-74fe-09a4-b31f42c24de5@gmail.com>"
+    },
+    {
+      "businessName": "Solarships Installation Services",
+      "email": "info@solarshipsusa.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Solarships Installation Services's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:45.592Z",
+      "messageId": "<ffcca0bc-32a3-2ec1-b417-3ec294c92397@gmail.com>"
+    },
+    {
+      "businessName": "PGT Energy Solutions",
+      "email": "info@pgtenergysolutions.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding PGT Energy Solutions's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:50.867Z",
+      "messageId": "<6fc24988-3c1a-659b-3373-1833912e16d6@gmail.com>"
+    },
+    {
+      "businessName": "Arizona Custom Solar",
+      "email": "support@arizonacustomsolar.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Arizona Custom Solar's operations in Phoenix",
+      "timestamp": "2026-10-12T22:03:57.019Z",
+      "messageId": "<eb1e8a88-734c-8460-7b04-d5a8bb082d8b@gmail.com>"
+    },
+    {
+      "businessName": "Redline Electric & Solar",
+      "email": "team@iamredline.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Redline Electric & Solar's operations in Phoenix",
+      "timestamp": "2026-10-12T22:04:02.413Z",
+      "messageId": "<97788839-bc05-66eb-70b5-32dab3ea5dd1@gmail.com>"
+    },
+    {
+      "businessName": "Universal Solar Direct of Arizona",
+      "email": "info@universalsolardirect.com",
+      "city": "Phoenix",
+      "subject": "quick question regarding Universal Solar Direct of Arizona's operations in Phoenix",
+      "timestamp": "2026-10-12T22:04:07.766Z",
+      "messageId": "<6bb6c349-ed0f-cade-5857-9ad3fc17fd31@gmail.com>"
+    },
+    {
+      "businessName": "Rescue Plumbing",
+      "email": "office@myrescueplumbing.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Rescue Plumbing's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:13.426Z",
+      "messageId": "<94a5ed63-f994-7bdd-eed2-2689541e0fca@gmail.com>"
+    },
+    {
+      "businessName": "Goode Plumbing",
+      "email": "info@goodeplumbing.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Goode Plumbing's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:18.559Z",
+      "messageId": "<36b7bc76-16c6-e9e3-d343-6a0a755dbd3e@gmail.com>"
+    },
+    {
+      "businessName": "Mikes Plumbing Chicago : 24 Hour Plumber Chicago, Emergency Plumbers In Glenview, Evanston, Glencoe, Niles & Skokie",
+      "email": "mikesplumbing1975@gmail.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Mikes Plumbing Chicago : 24 Hour Plumber Chicago, Emergency Plumbers In Glenview, Evanston, Glencoe, Niles & Skokie's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:23.858Z",
+      "messageId": "<cd4ff731-5f4e-f6b8-9ee1-f05b31c3ee73@gmail.com>"
+    },
+    {
+      "businessName": "Rescue Plumbing",
+      "email": "office@myrescueplumbing.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Rescue Plumbing's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:29.029Z",
+      "messageId": "<577da388-1943-ba8f-801b-ab9ecd34eb8f@gmail.com>"
+    },
+    {
+      "businessName": "Lopez Plumbing Systems, Inc.",
+      "email": "info@lopezplumbingsystems.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Lopez Plumbing Systems, .'s operations in Chicago",
+      "timestamp": "2026-10-12T22:04:35.538Z",
+      "messageId": "<3791c435-0e38-7339-672b-adc95921682d@gmail.com>"
+    },
+    {
+      "businessName": "Baethke Plumbing",
+      "email": "devnerd1@gmail.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Baethke Plumbing's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:41.439Z",
+      "messageId": "<7cd355c5-18b9-7fe3-ac67-1d1ca607f9f8@gmail.com>"
+    },
+    {
+      "businessName": "Rescue Plumbing",
+      "email": "office@myrescueplumbing.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Rescue Plumbing's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:46.660Z",
+      "messageId": "<28d63169-fc64-6c24-3867-0ca6b4fb782a@gmail.com>"
+    },
+    {
+      "businessName": "Rescue Plumbing",
+      "email": "office@myrescueplumbing.com",
+      "city": "Chicago",
+      "subject": "quick question regarding Rescue Plumbing's operations in Chicago",
+      "timestamp": "2026-10-12T22:04:51.750Z",
+      "messageId": "<39f3bd7b-c45c-237e-11bd-633692b4fb77@gmail.com>"
     }
   ]
 }
