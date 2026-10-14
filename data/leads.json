@@ -14421,11 +14421,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Agents of LA's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs Agents of LA grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Agents of LA's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:23:56.520Z"
+    "createdAt": "2026-10-01T11:23:56.520Z",
+    "sentAt": "2026-10-14T18:26:06.374Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790853841407_626",
@@ -14443,11 +14445,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Three Lions Realty's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs Three Lions Realty grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Three Lions Realty's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:24:01.407Z"
+    "createdAt": "2026-10-01T11:24:01.407Z",
+    "sentAt": "2026-10-14T18:26:11.973Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854099567_627",
@@ -14465,11 +14469,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Brad Korb Real Estate's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs The Brad Korb Real Estate grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Brad Korb Real Estate's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:28:19.567Z"
+    "createdAt": "2026-10-01T11:28:19.567Z",
+    "sentAt": "2026-10-14T18:26:17.455Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854104512_628",
@@ -14487,11 +14493,13 @@
     "mxValid": true,
     "mxHost": "mx.vgs.untd.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding West LA Real Estate's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs West LA Real Estate grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline West LA Real Estate's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:28:24.512Z"
+    "createdAt": "2026-10-01T11:28:24.512Z",
+    "sentAt": "2026-10-14T18:26:24.292Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854118614_629",
@@ -14553,11 +14561,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Heather Presha's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs Heather Presha grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Heather Presha's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:29:09.782Z"
+    "createdAt": "2026-10-01T11:29:09.782Z",
+    "sentAt": "2026-10-14T18:26:31.681Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854151187_632",
@@ -14597,11 +14607,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Protect The Estate LA's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs Protect The Estate LA grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Protect The Estate LA's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:29:13.260Z"
+    "createdAt": "2026-10-01T11:29:13.260Z",
+    "sentAt": "2026-10-14T18:26:37.149Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854168719_634",
@@ -14619,11 +14631,13 @@
     "mxValid": true,
     "mxHost": "mx-att.mail.am0.yahoodns.net",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Broker & Realtor Top Real Estate Agents In Los Angeles,Ca | Sandy Flores's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs Broker & Realtor Top Real Estate Agents In Los Angeles,Ca | Sandy Flores grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Broker & Realtor Top Real Estate Agents In Los Angeles,Ca | Sandy Flores's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:29:28.719Z"
+    "createdAt": "2026-10-01T11:29:28.719Z",
+    "sentAt": "2026-10-14T18:26:42.539Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854171115_635",
@@ -14641,11 +14655,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding AGENTinLA's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs AGENTinLA grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline AGENTinLA's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:29:31.115Z"
+    "createdAt": "2026-10-01T11:29:31.115Z",
+    "sentAt": "2026-10-14T18:26:47.996Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854176192_636",
@@ -14751,11 +14767,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dream Realty's operations in Los Angeles",
     "pitchBody": "Hello there,\n\nAs Dream Realty grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Los Angeles businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dream Realty's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:29:57.980Z"
+    "createdAt": "2026-10-01T11:29:57.980Z",
+    "sentAt": "2026-10-14T18:26:53.650Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854208321_641",
@@ -14795,11 +14813,13 @@
     "mxValid": true,
     "mxHost": "itstheperfectsecret-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Perfect Secret Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs The Perfect Secret Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Perfect Secret Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:30:13.884Z"
+    "createdAt": "2026-10-01T11:30:13.884Z",
+    "sentAt": "2026-10-14T18:26:59.189Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854220904_643",
@@ -14861,11 +14881,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Moderne Medical Aesthetics's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Moderne Medical Aesthetics grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Moderne Medical Aesthetics's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:30:31.363Z"
+    "createdAt": "2026-10-01T11:30:31.363Z",
+    "sentAt": "2026-10-14T18:27:04.911Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854240142_646",
@@ -14883,11 +14905,13 @@
     "mxValid": true,
     "mxHost": "abc-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Scottsdale Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Scottsdale Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Scottsdale Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:30:40.142Z"
+    "createdAt": "2026-10-01T11:30:40.142Z",
+    "sentAt": "2026-10-14T18:27:10.489Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854244217_647",
@@ -14993,11 +15017,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Alani Skin MD's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Alani Skin MD grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Alani Skin MD's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:31:08.897Z"
+    "createdAt": "2026-10-01T11:31:08.897Z",
+    "sentAt": "2026-10-14T18:27:16.035Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854276253_652",
@@ -15015,11 +15041,13 @@
     "mxValid": true,
     "mxHost": "skinsavvyscottsdale-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Skin Savvy Aesthetics Scottsdale Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Skin Savvy Aesthetics Scottsdale Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Skin Savvy Aesthetics Scottsdale Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:31:16.253Z"
+    "createdAt": "2026-10-01T11:31:16.253Z",
+    "sentAt": "2026-10-14T18:27:21.455Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854289713_653",
@@ -15059,11 +15087,13 @@
     "mxValid": true,
     "mxHost": "mx1.privateemail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Zahav Medspa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Zahav Medspa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Zahav Medspa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:31:40.313Z"
+    "createdAt": "2026-10-01T11:31:40.313Z",
+    "sentAt": "2026-10-14T18:27:26.974Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854306400_655",
@@ -15081,11 +15111,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Well Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs The Well Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Well Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:31:46.401Z"
+    "createdAt": "2026-10-01T11:31:46.401Z",
+    "sentAt": "2026-10-14T18:27:32.556Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854311590_656",
@@ -15103,11 +15135,13 @@
     "mxValid": true,
     "mxHost": "13.smtp.tagonline.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dolce Medical Spa - Old Town's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Dolce Medical Spa - Old Town grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dolce Medical Spa - Old Town's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:31:51.590Z"
+    "createdAt": "2026-10-01T11:31:51.590Z",
+    "sentAt": "2026-10-14T18:27:38.197Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854316857_657",
@@ -15169,11 +15203,13 @@
     "mxValid": true,
     "mxHost": "francowa-com01e.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Franco Wellness & Aesthetics - Scottsdale AZ's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Franco Wellness & Aesthetics - Scottsdale AZ grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Franco Wellness & Aesthetics - Scottsdale AZ's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:32:13.961Z"
+    "createdAt": "2026-10-01T11:32:13.961Z",
+    "sentAt": "2026-10-14T18:27:44.506Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854338415_660",
@@ -15191,11 +15227,13 @@
     "mxValid": true,
     "mxHost": "13.smtp.tagonline.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dolce Medical Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Dolce Medical Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dolce Medical Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:32:18.415Z"
+    "createdAt": "2026-10-01T11:32:18.415Z",
+    "sentAt": "2026-10-14T18:27:50.121Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854350536_661",
@@ -15235,11 +15273,13 @@
     "mxValid": true,
     "mxHost": "park-mx.above.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding DHH Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs DHH Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline DHH Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:32:38.231Z"
+    "createdAt": "2026-10-01T11:32:38.231Z",
+    "sentAt": "2026-10-14T18:27:55.926Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854363553_663",
@@ -15257,11 +15297,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Skindale Medspa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Skindale Medspa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Skindale Medspa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:32:43.553Z"
+    "createdAt": "2026-10-01T11:32:43.553Z",
+    "sentAt": "2026-10-14T18:28:01.501Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854371925_664",
@@ -15279,11 +15321,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Glo Medspa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Glo Medspa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Glo Medspa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:32:51.925Z"
+    "createdAt": "2026-10-01T11:32:51.925Z",
+    "sentAt": "2026-10-14T18:28:07.203Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854389307_665",
@@ -15301,11 +15345,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Natural Radiance Aesthetics and Wellness's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Natural Radiance Aesthetics and Wellness grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Natural Radiance Aesthetics and Wellness's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:33:09.307Z"
+    "createdAt": "2026-10-01T11:33:09.307Z",
+    "sentAt": "2026-10-14T18:28:12.825Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854392737_666",
@@ -15411,11 +15457,13 @@
     "mxValid": true,
     "mxHost": "mx10.mailspamprotection.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Skin Shop Medspa Scottsdale's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs The Skin Shop Medspa Scottsdale grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Skin Shop Medspa Scottsdale's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:33:31.599Z"
+    "createdAt": "2026-10-01T11:33:31.599Z",
+    "sentAt": "2026-10-14T18:28:18.399Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854417495_671",
@@ -15433,11 +15481,13 @@
     "mxValid": true,
     "mxHost": "lovebeautify.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Beautify Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Beautify Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Beautify Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:33:37.495Z"
+    "createdAt": "2026-10-01T11:33:37.495Z",
+    "sentAt": "2026-10-14T18:28:24.091Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854427828_672",
@@ -15455,11 +15505,13 @@
     "mxValid": true,
     "mxHost": "mdskinlounge-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding MDSkin Lounge's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs MDSkin Lounge grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline MDSkin Lounge's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:33:47.828Z"
+    "createdAt": "2026-10-01T11:33:47.828Z",
+    "sentAt": "2026-10-14T18:28:29.504Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854431959_673",
@@ -15477,11 +15529,13 @@
     "mxValid": true,
     "mxHost": "curatedmed-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Curated Medical's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Curated Medical grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Curated Medical's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:33:51.959Z"
+    "createdAt": "2026-10-01T11:33:51.959Z",
+    "sentAt": "2026-10-14T18:28:35.224Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854437189_674",
@@ -15499,11 +15553,13 @@
     "mxValid": true,
     "mxHost": "mx10.antispam.mailspamprotection.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Inspire Day Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Inspire Day Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Inspire Day Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:33:57.189Z"
+    "createdAt": "2026-10-01T11:33:57.189Z",
+    "sentAt": "2026-10-14T18:28:40.748Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854444758_675",
@@ -15521,11 +15577,13 @@
     "mxValid": true,
     "mxHost": "mx00.mail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding True Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs True Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline True Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:34:04.758Z"
+    "createdAt": "2026-10-01T11:34:04.758Z",
+    "sentAt": "2026-10-14T18:28:46.249Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854455878_676",
@@ -15565,11 +15623,13 @@
     "mxValid": true,
     "mxHost": "skinbeautifulaz-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Skin Beautiful's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Skin Beautiful grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Skin Beautiful's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:34:20.973Z"
+    "createdAt": "2026-10-01T11:34:20.973Z",
+    "sentAt": "2026-10-14T18:28:51.947Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854465746_678",
@@ -15587,11 +15647,13 @@
     "mxValid": true,
     "mxHost": "mx1.emailsrvr.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding DS Skin & Lips Medical Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs DS Skin & Lips Medical Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline DS Skin & Lips Medical Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:34:25.746Z"
+    "createdAt": "2026-10-01T11:34:25.746Z",
+    "sentAt": "2026-10-14T18:28:57.594Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854473891_679",
@@ -15609,11 +15671,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding The Lift Collective Med Spa,'s operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs The Lift Collective Med Spa, grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline The Lift Collective Med Spa,'s daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:34:33.891Z"
+    "createdAt": "2026-10-01T11:34:33.891Z",
+    "sentAt": "2026-10-14T18:29:03.344Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854481750_680",
@@ -15675,11 +15739,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Scottsdale Sculpt's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs Scottsdale Sculpt grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Scottsdale Sculpt's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:34:53.946Z"
+    "createdAt": "2026-10-01T11:34:53.946Z",
+    "sentAt": "2026-10-14T18:29:08.887Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854499120_683",
@@ -15697,11 +15763,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding BabyFace Scottsdale Med Spa's operations in Scottsdale",
     "pitchBody": "Hello there,\n\nAs BabyFace Scottsdale Med Spa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Scottsdale businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline BabyFace Scottsdale Med Spa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:34:59.120Z"
+    "createdAt": "2026-10-01T11:34:59.120Z",
+    "sentAt": "2026-10-14T18:29:14.507Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790854511310_684",
