@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-14",
+  "lastResetDate": "2026-10-15",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Agents of LA",
-      "email": "info@agentsofla.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding Agents of LA's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:06.374Z",
-      "messageId": "<1bbda8d8-1396-2727-9795-05475614d88f@gmail.com>"
+      "businessName": "SkinSpirit Scottsdale",
+      "email": "scottsdale@skinspirit.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding SkinSpirit Scottsdale's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:08:49.684Z",
+      "messageId": "<fa50c4f0-b966-3b75-c87e-2047fa8bf97e@gmail.com>"
     },
     {
-      "businessName": "Three Lions Realty",
-      "email": "jamie@threelionsrealty.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding Three Lions Realty's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:11.973Z",
-      "messageId": "<63f0ae20-15a9-269b-b4dd-5d0e072e0580@gmail.com>"
+      "businessName": "The Glam Nurse",
+      "email": "info@theglamnurse.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding The Glam Nurse's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:08:56.878Z",
+      "messageId": "<4ade1ce7-250b-fcfd-3fd4-d2061f04bc70@gmail.com>"
     },
     {
-      "businessName": "The Brad Korb Real Estate Group",
-      "email": "brad@bradkorb.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding The Brad Korb Real Estate's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:17.455Z",
-      "messageId": "<d48e331c-8fae-2b2a-300e-412eaaa91890@gmail.com>"
+      "businessName": "Arizona MedLaser",
+      "email": "info@arizonamedlaser.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding Arizona MedLaser's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:09:04.565Z",
+      "messageId": "<efd17def-d903-6f94-3011-711932ab9842@gmail.com>"
     },
     {
-      "businessName": "West LA Real Estate Group",
+      "businessName": "Joliet Aesthetics Med Spa Scottsdale",
+      "email": "info@jolietaesthetics.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding Joliet Aesthetics Med Spa Scottsdale's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:09:13.873Z",
+      "messageId": "<5560410b-4049-acb5-f210-99812da554a2@gmail.com>"
+    },
+    {
+      "businessName": "lavan med spa",
+      "email": "info@lavanmedspa.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding lavan med spa's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:09:18.977Z",
+      "messageId": "<42ca2f45-f4e9-bb22-9828-e85254243f7e@gmail.com>"
+    },
+    {
+      "businessName": "Renew Wellness Medspa A Touch Of Thailand",
+      "email": "info@mysite.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding Renew Wellness Medspa A Touch Of Thailand's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:09:24.525Z",
+      "messageId": "<dc0eb1d4-ec7e-3f02-90af-614a33cdbb66@gmail.com>"
+    },
+    {
+      "businessName": "Desert Bloom Skincare",
+      "email": "info@desertbloomskincare.com",
+      "city": "Scottsdale",
+      "subject": "quick question regarding Desert Bloom Skincare's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:09:31.356Z",
+      "messageId": "<effe2f85-c76d-5d25-8a9e-50ad94dfbac2@gmail.com>"
+    },
+    {
+      "businessName": "Lumier Medical Spa",
       "email": "example@mysite.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding West LA Real Estate's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:24.292Z",
-      "messageId": "<7586f0df-2dc3-a1bc-d3ca-033efab31536@gmail.com>"
-    },
-    {
-      "businessName": "Heather Presha",
-      "email": "heather@preshaproperties.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding Heather Presha's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:31.681Z",
-      "messageId": "<cff3f5bc-13f7-1c2f-a5da-b1b87f79cbcd@gmail.com>"
-    },
-    {
-      "businessName": "Protect The Estate LA",
-      "email": "erikfkaiser@gmail.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding Protect The Estate LA's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:37.149Z",
-      "messageId": "<1743f82a-fc00-7e9a-39d6-27a0606f8107@gmail.com>"
-    },
-    {
-      "businessName": "Broker & Realtor Top Real Estate Agents In Los Angeles,Ca | Sandy Flores",
-      "email": "sandyflores@att.net",
-      "city": "Los Angeles",
-      "subject": "quick question regarding Broker & Realtor Top Real Estate Agents In Los Angeles,Ca | Sandy Flores's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:42.539Z",
-      "messageId": "<218087fd-b1c4-5c7c-6ab6-e35270a5ac64@gmail.com>"
-    },
-    {
-      "businessName": "AGENTinLA",
-      "email": "jeremiaheden@gmail.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding AGENTinLA's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:47.996Z",
-      "messageId": "<5b1089c3-e07c-42d0-1b1e-88dbd11522f7@gmail.com>"
-    },
-    {
-      "businessName": "Dream Realty",
-      "email": "info.dreamrealty@gmail.com",
-      "city": "Los Angeles",
-      "subject": "quick question regarding Dream Realty's operations in Los Angeles",
-      "timestamp": "2026-10-14T18:26:53.650Z",
-      "messageId": "<d6bb099e-6fbd-611a-af08-0f9917dc559b@gmail.com>"
-    },
-    {
-      "businessName": "The Perfect Secret Med Spa",
-      "email": "admin@itstheperfectsecret.com",
       "city": "Scottsdale",
-      "subject": "quick question regarding The Perfect Secret Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:26:59.189Z",
-      "messageId": "<7023fc27-d824-3941-dd56-8a414361085f@gmail.com>"
+      "subject": "quick question regarding Lumier Medical Spa's operations in Scottsdale",
+      "timestamp": "2026-10-15T18:09:38.540Z",
+      "messageId": "<ea6c1486-4ad8-536d-dcb7-9d0d7afb8673@gmail.com>"
     },
     {
-      "businessName": "Moderne Medical Aesthetics",
-      "email": "support@modernemedical.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Moderne Medical Aesthetics's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:04.911Z",
-      "messageId": "<f1ebbbdc-e3d7-69b7-304b-c57c30dce603@gmail.com>"
+      "businessName": "Golden West Plumbing, Heating, Air Conditioning, and Electrical",
+      "email": "scheduling@goldenwestph.com",
+      "city": "Denver",
+      "subject": "quick question regarding Golden West Plumbing, Heating, Air Conditioning, and Electrical's operations in Denver",
+      "timestamp": "2026-10-15T18:09:45.606Z",
+      "messageId": "<f993907e-876b-be9e-709e-da6716f8aa25@gmail.com>"
     },
     {
-      "businessName": "Scottsdale Med Spa",
-      "email": "youremail@abc.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Scottsdale Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:10.489Z",
-      "messageId": "<6e8706bb-96af-c806-fcc1-2d24c41a61f3@gmail.com>"
+      "businessName": "Right Away Heating",
+      "email": "jose@rightawayheating.com",
+      "city": "Denver",
+      "subject": "quick question regarding Right Away Heating's operations in Denver",
+      "timestamp": "2026-10-15T18:09:50.659Z",
+      "messageId": "<c9a5702c-0e11-caf3-5577-70521611e5f7@gmail.com>"
     },
     {
-      "businessName": "Alani Skin MD",
-      "email": "scottsdale@alaniskinmd.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Alani Skin MD's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:16.035Z",
-      "messageId": "<8c1f41f8-13ac-cc60-f572-8607e35be3b7@gmail.com>"
+      "businessName": "Roots Heating & Air",
+      "email": "admin@rootshvac.com",
+      "city": "Denver",
+      "subject": "quick question regarding Roots Heating & Air's operations in Denver",
+      "timestamp": "2026-10-15T18:09:56.990Z",
+      "messageId": "<5bce6413-5a4a-1370-dde8-0f870432c497@gmail.com>"
     },
     {
-      "businessName": "Skin Savvy Aesthetics Scottsdale Med Spa",
-      "email": "info@skinsavvyscottsdale.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Skin Savvy Aesthetics Scottsdale Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:21.455Z",
-      "messageId": "<a0941284-27f8-617d-fd35-edde5c7ad0d9@gmail.com>"
+      "businessName": "Absolute Plumbing, Electrical, Heating & Air",
+      "email": "booking@absolutefix.com",
+      "city": "Denver",
+      "subject": "quick question regarding Absolute Plumbing, Electrical, Heating & Air's operations in Denver",
+      "timestamp": "2026-10-15T18:10:02.115Z",
+      "messageId": "<2dd69847-ff6d-4d1e-c5cb-558c0d3fdd0f@gmail.com>"
     },
     {
-      "businessName": "Zahav Medspa",
-      "email": "scottsdale@zahavmedspa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Zahav Medspa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:26.974Z",
-      "messageId": "<1b90c514-f71e-f329-319f-67ea03884dce@gmail.com>"
+      "businessName": "Steel T | Denver HVAC",
+      "email": "info@steelt.com",
+      "city": "Denver",
+      "subject": "quick question regarding Steel T | Denver HVAC's operations in Denver",
+      "timestamp": "2026-10-15T18:10:07.422Z",
+      "messageId": "<a720f996-649e-8a16-c400-a42da6a34176@gmail.com>"
     },
     {
-      "businessName": "The Well Med Spa",
-      "email": "info@thewellmedspa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding The Well Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:32.556Z",
-      "messageId": "<73d79d35-df88-bf49-bd11-5fc29c0fb8ad@gmail.com>"
+      "businessName": "Mountain Breeze Heating & Air, Inc.",
+      "email": "admin@mountainbreezeheatingandair.com",
+      "city": "Denver",
+      "subject": "quick question regarding Mountain Breeze Heating & Air, .'s operations in Denver",
+      "timestamp": "2026-10-15T18:10:12.283Z",
+      "messageId": "<6bd124f6-f73d-82c9-0603-c14f725dcaab@gmail.com>"
     },
     {
-      "businessName": "Dolce Medical Spa - Old Town",
-      "email": "eben@eyebytes.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Dolce Medical Spa - Old Town's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:38.197Z",
-      "messageId": "<d6eac8d5-1529-4538-5990-7b7009cea1a8@gmail.com>"
+      "businessName": "Lou’s Heating & Cooling",
+      "email": "admin@loushvac.com",
+      "city": "Denver",
+      "subject": "quick question regarding Lou’s Heating & Cooling's operations in Denver",
+      "timestamp": "2026-10-15T18:10:17.403Z",
+      "messageId": "<a0f33387-1c57-6ef3-5b52-83507e3843bb@gmail.com>"
     },
     {
-      "businessName": "Franco Wellness & Aesthetics - Scottsdale AZ",
-      "email": "info@franco-wa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Franco Wellness & Aesthetics - Scottsdale AZ's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:44.506Z",
-      "messageId": "<3f085b79-c73b-1135-de57-e9a05bcc8325@gmail.com>"
+      "businessName": "Squeaks Services Plumbing Heating & Air - Denver",
+      "email": "workorder@squeaksservices.com",
+      "city": "Denver",
+      "subject": "quick question regarding Squeaks Services Plumbing Heating & Air - Denver's operations in Denver",
+      "timestamp": "2026-10-15T18:10:22.406Z",
+      "messageId": "<e6a12f50-c443-bed0-f208-e98bd5d7fb09@gmail.com>"
     },
     {
-      "businessName": "Dolce Medical Spa",
-      "email": "eben@eyebytes.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Dolce Medical Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:50.121Z",
-      "messageId": "<92adcca2-b708-1ba8-9076-0d13486b7886@gmail.com>"
+      "businessName": "Apex Clean Air AC & Heating Repair",
+      "email": "info@apexcleanair.com",
+      "city": "Denver",
+      "subject": "quick question regarding Apex Clean Air AC & Heating Repair's operations in Denver",
+      "timestamp": "2026-10-15T18:10:28.241Z",
+      "messageId": "<e06e9de7-f87a-0cfb-4c39-d5454bd75b7f@gmail.com>"
     },
     {
-      "businessName": "DHH Med Spa",
-      "email": "john@doe.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding DHH Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:27:55.926Z",
-      "messageId": "<b322df6f-ba6b-a7c5-2f4f-3cc89ca111b2@gmail.com>"
+      "businessName": "Denver's Best Heating & AC Repair",
+      "email": "info@denversbestheatingandacrepair.com",
+      "city": "Denver",
+      "subject": "quick question regarding Denver's Best Heating & AC Repair's operations in Denver",
+      "timestamp": "2026-10-15T18:10:33.131Z",
+      "messageId": "<598c0f26-2c14-4576-cf31-57f3bc4eab46@gmail.com>"
     },
     {
-      "businessName": "Skindale Medspa",
-      "email": "seo.loginuser@growth99.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Skindale Medspa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:01.501Z",
-      "messageId": "<cba40f5d-905f-b5c1-cb19-1619501bec3c@gmail.com>"
+      "businessName": "Absolute Plumbing, Electrical, Heating & Air",
+      "email": "booking@absolutefix.com",
+      "city": "Denver",
+      "subject": "quick question regarding Absolute Plumbing, Electrical, Heating & Air's operations in Denver",
+      "timestamp": "2026-10-15T18:10:39.297Z",
+      "messageId": "<2782fdf5-847e-1307-17cf-115c76437508@gmail.com>"
     },
     {
-      "businessName": "Glo Medspa",
-      "email": "glomedspa1@gmail.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Glo Medspa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:07.203Z",
-      "messageId": "<900dd8cd-7513-e6db-a02d-305f37981939@gmail.com>"
+      "businessName": "UniColorado Heating & Cooling",
+      "email": "office@unicolorado.com",
+      "city": "Denver",
+      "subject": "quick question regarding UniColorado Heating & Cooling's operations in Denver",
+      "timestamp": "2026-10-15T18:10:44.733Z",
+      "messageId": "<32e0dd5c-1ae3-fa7d-4651-b58bb91e29eb@gmail.com>"
     },
     {
-      "businessName": "Natural Radiance Aesthetics and Wellness",
-      "email": "info@naturalradiancemedspa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Natural Radiance Aesthetics and Wellness's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:12.825Z",
-      "messageId": "<2b31df2f-561d-cf25-7e7c-88335472eeec@gmail.com>"
+      "businessName": "Black Rock HVAC & Plumbing",
+      "email": "example@mysite.com",
+      "city": "Denver",
+      "subject": "quick question regarding Black Rock HVAC & Plumbing's operations in Denver",
+      "timestamp": "2026-10-15T18:10:49.707Z",
+      "messageId": "<75713505-92da-92f0-9a9f-3237abd25345@gmail.com>"
     },
     {
-      "businessName": "The Skin Shop Medspa Scottsdale",
-      "email": "contact@theskinshopmedspascottsdale.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding The Skin Shop Medspa Scottsdale's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:18.399Z",
-      "messageId": "<2b648cd5-a5bc-a7c9-beb7-4ed490af38d0@gmail.com>"
+      "businessName": "All Weather HVAC Denver",
+      "email": "wweeiihhuuaanngg@gmail.com",
+      "city": "Denver",
+      "subject": "quick question regarding All Weather HVAC Denver's operations in Denver",
+      "timestamp": "2026-10-15T18:10:55.047Z",
+      "messageId": "<3545a0a5-063e-2fdd-e494-701ce07d718c@gmail.com>"
     },
     {
-      "businessName": "Beautify Spa",
-      "email": "support@lovebeautify.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Beautify Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:24.091Z",
-      "messageId": "<7bb145b6-7813-57a3-eb77-a08f98569fd6@gmail.com>"
+      "businessName": "MileHi HVAC Contractor Denver CO",
+      "email": "geno@milehihvac.com",
+      "city": "Denver",
+      "subject": "quick question regarding MileHi HVAC Contractor Denver's operations in Denver",
+      "timestamp": "2026-10-15T18:11:00.041Z",
+      "messageId": "<4831824f-d36c-397a-1f9d-e56543acb9a8@gmail.com>"
     },
     {
-      "businessName": "MDSkin Lounge",
-      "email": "info@mdskinlounge.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding MDSkin Lounge's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:29.504Z",
-      "messageId": "<3de74168-061f-26e9-4bea-f3833661b396@gmail.com>"
+      "businessName": "All In One Home Services, LLC",
+      "email": "contact@allinonehomeservices.com",
+      "city": "Denver",
+      "subject": "quick question regarding All In One Home Services,'s operations in Denver",
+      "timestamp": "2026-10-15T18:11:05.450Z",
+      "messageId": "<b4964b83-fb53-4022-9997-dc7d0f61267f@gmail.com>"
     },
     {
-      "businessName": "Curated Medical",
-      "email": "hello@curatedmed.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Curated Medical's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:35.224Z",
-      "messageId": "<0ebbaa67-ab15-ed2e-d1c7-9a667f0e867d@gmail.com>"
+      "businessName": "Summit Heating A/C Plumbing & Electric",
+      "email": "inquiries@summitheatingco.com",
+      "city": "Denver",
+      "subject": "quick question regarding Summit Heating A/C Plumbing & Electric's operations in Denver",
+      "timestamp": "2026-10-15T18:11:10.893Z",
+      "messageId": "<379eca78-f6f5-8a7b-23a5-fee025cb1b60@gmail.com>"
     },
     {
-      "businessName": "Inspire Day Spa",
-      "email": "info@inspiredayspa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Inspire Day Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:40.748Z",
-      "messageId": "<08745ae7-8d08-88e8-b836-e3ad15957a87@gmail.com>"
+      "businessName": "HighPoint HVAC",
+      "email": "owen@highpoint-hvac.com",
+      "city": "Denver",
+      "subject": "quick question regarding HighPoint HVAC's operations in Denver",
+      "timestamp": "2026-10-15T18:11:16.054Z",
+      "messageId": "<ddda9fd2-17ee-da10-3662-8fa50417c34e@gmail.com>"
     },
     {
-      "businessName": "True Med Spa",
-      "email": "name@email.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding True Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:46.249Z",
-      "messageId": "<3e5edc1d-3fc9-7d31-6b7c-b5a6b936b751@gmail.com>"
+      "businessName": "DALCO Heating & Air Conditioning",
+      "email": "info@dalcohvac.com",
+      "city": "Denver",
+      "subject": "quick question regarding DALCO Heating & Air Conditioning's operations in Denver",
+      "timestamp": "2026-10-15T18:11:24.217Z",
+      "messageId": "<6ae2b6ca-e7c5-792d-8ae7-f8bf802f1951@gmail.com>"
     },
     {
-      "businessName": "Skin Beautiful",
-      "email": "info@skinbeautifulaz.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Skin Beautiful's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:51.947Z",
-      "messageId": "<61cf7cd1-7391-8186-8152-fe334881d855@gmail.com>"
+      "businessName": "Charlotte Roofing Specialists",
+      "email": "info@charlotteroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Charlotte Roofing Specialists's operations in Charlotte",
+      "timestamp": "2026-10-15T18:11:31.507Z",
+      "messageId": "<4fcc818a-9d7a-6f5d-de31-3b61e082de63@gmail.com>"
     },
     {
-      "businessName": "DS Skin & Lips Medical Spa",
-      "email": "info@dsskinandlips.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding DS Skin & Lips Medical Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:28:57.594Z",
-      "messageId": "<d860fb94-2207-b0b3-d4f6-543717105155@gmail.com>"
+      "businessName": "Horizon Roofing - Charlotte",
+      "email": "info@horizonrr.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Horizon Roofing - Charlotte's operations in Charlotte",
+      "timestamp": "2026-10-15T18:11:39.437Z",
+      "messageId": "<27374ae7-25aa-c5d9-fb5f-b31db81e3c06@gmail.com>"
     },
     {
-      "businessName": "The Lift Collective Med Spa, LLC",
-      "email": "admin@theliftcollectivemedspa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding The Lift Collective Med Spa,'s operations in Scottsdale",
-      "timestamp": "2026-10-14T18:29:03.344Z",
-      "messageId": "<1bc41494-5703-48d4-d905-ecf1a3e7ad95@gmail.com>"
+      "businessName": "Roof Medic",
+      "email": "contact@roofmedic.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Roof Medic's operations in Charlotte",
+      "timestamp": "2026-10-15T18:11:46.475Z",
+      "messageId": "<e42b16d1-cf87-ca39-c232-13ed2b7a5d99@gmail.com>"
     },
     {
-      "businessName": "Scottsdale Sculpt",
-      "email": "anapbm@gmail.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Scottsdale Sculpt's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:29:08.887Z",
-      "messageId": "<44a11f17-c262-6666-200d-bfce8f754f4c@gmail.com>"
+      "businessName": "Roof Repair Specialists",
+      "email": "info@roofrepairspecialists.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Roof Repair Specialists's operations in Charlotte",
+      "timestamp": "2026-10-15T18:11:51.505Z",
+      "messageId": "<f335a100-1e7f-93ed-8649-2b028c53847b@gmail.com>"
     },
     {
-      "businessName": "BabyFace Scottsdale Med Spa",
-      "email": "hello@babyfacellc.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding BabyFace Scottsdale Med Spa's operations in Scottsdale",
-      "timestamp": "2026-10-14T18:29:14.507Z",
-      "messageId": "<91b818cf-5560-80f4-9315-468d1baa4b90@gmail.com>"
+      "businessName": "Masters Roofing",
+      "email": "jeff@mastersroofinginc.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Masters Roofing's operations in Charlotte",
+      "timestamp": "2026-10-15T18:11:56.566Z",
+      "messageId": "<72dd573d-a375-2baa-7a65-aabfacf34973@gmail.com>"
+    },
+    {
+      "businessName": "Gaston Roofing LLC- Charlotte",
+      "email": "office@gastonroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Gaston Roofing - Charlotte's operations in Charlotte",
+      "timestamp": "2026-10-15T18:12:01.717Z",
+      "messageId": "<827f97a9-8947-813a-83f6-bfef531546fe@gmail.com>"
+    },
+    {
+      "businessName": "Charlotte Pro Roofing",
+      "email": "charlotteproroofing@gmail.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Charlotte Pro Roofing's operations in Charlotte",
+      "timestamp": "2026-10-15T18:12:08.033Z",
+      "messageId": "<911ec31a-ac76-24c1-b20e-118b0d2b972f@gmail.com>"
     }
   ]
 }
