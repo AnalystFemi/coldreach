@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-15",
+  "lastResetDate": "2026-10-16",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "SkinSpirit Scottsdale",
-      "email": "scottsdale@skinspirit.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding SkinSpirit Scottsdale's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:08:49.684Z",
-      "messageId": "<fa50c4f0-b966-3b75-c87e-2047fa8bf97e@gmail.com>"
-    },
-    {
-      "businessName": "The Glam Nurse",
-      "email": "info@theglamnurse.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding The Glam Nurse's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:08:56.878Z",
-      "messageId": "<4ade1ce7-250b-fcfd-3fd4-d2061f04bc70@gmail.com>"
-    },
-    {
-      "businessName": "Arizona MedLaser",
-      "email": "info@arizonamedlaser.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Arizona MedLaser's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:09:04.565Z",
-      "messageId": "<efd17def-d903-6f94-3011-711932ab9842@gmail.com>"
-    },
-    {
-      "businessName": "Joliet Aesthetics Med Spa Scottsdale",
-      "email": "info@jolietaesthetics.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Joliet Aesthetics Med Spa Scottsdale's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:09:13.873Z",
-      "messageId": "<5560410b-4049-acb5-f210-99812da554a2@gmail.com>"
-    },
-    {
-      "businessName": "lavan med spa",
-      "email": "info@lavanmedspa.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding lavan med spa's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:09:18.977Z",
-      "messageId": "<42ca2f45-f4e9-bb22-9828-e85254243f7e@gmail.com>"
-    },
-    {
-      "businessName": "Renew Wellness Medspa A Touch Of Thailand",
-      "email": "info@mysite.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Renew Wellness Medspa A Touch Of Thailand's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:09:24.525Z",
-      "messageId": "<dc0eb1d4-ec7e-3f02-90af-614a33cdbb66@gmail.com>"
-    },
-    {
-      "businessName": "Desert Bloom Skincare",
-      "email": "info@desertbloomskincare.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Desert Bloom Skincare's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:09:31.356Z",
-      "messageId": "<effe2f85-c76d-5d25-8a9e-50ad94dfbac2@gmail.com>"
-    },
-    {
-      "businessName": "Lumier Medical Spa",
-      "email": "example@mysite.com",
-      "city": "Scottsdale",
-      "subject": "quick question regarding Lumier Medical Spa's operations in Scottsdale",
-      "timestamp": "2026-10-15T18:09:38.540Z",
-      "messageId": "<ea6c1486-4ad8-536d-dcb7-9d0d7afb8673@gmail.com>"
-    },
-    {
-      "businessName": "Golden West Plumbing, Heating, Air Conditioning, and Electrical",
-      "email": "scheduling@goldenwestph.com",
-      "city": "Denver",
-      "subject": "quick question regarding Golden West Plumbing, Heating, Air Conditioning, and Electrical's operations in Denver",
-      "timestamp": "2026-10-15T18:09:45.606Z",
-      "messageId": "<f993907e-876b-be9e-709e-da6716f8aa25@gmail.com>"
-    },
-    {
-      "businessName": "Right Away Heating",
-      "email": "jose@rightawayheating.com",
-      "city": "Denver",
-      "subject": "quick question regarding Right Away Heating's operations in Denver",
-      "timestamp": "2026-10-15T18:09:50.659Z",
-      "messageId": "<c9a5702c-0e11-caf3-5577-70521611e5f7@gmail.com>"
-    },
-    {
-      "businessName": "Roots Heating & Air",
-      "email": "admin@rootshvac.com",
-      "city": "Denver",
-      "subject": "quick question regarding Roots Heating & Air's operations in Denver",
-      "timestamp": "2026-10-15T18:09:56.990Z",
-      "messageId": "<5bce6413-5a4a-1370-dde8-0f870432c497@gmail.com>"
-    },
-    {
-      "businessName": "Absolute Plumbing, Electrical, Heating & Air",
-      "email": "booking@absolutefix.com",
-      "city": "Denver",
-      "subject": "quick question regarding Absolute Plumbing, Electrical, Heating & Air's operations in Denver",
-      "timestamp": "2026-10-15T18:10:02.115Z",
-      "messageId": "<2dd69847-ff6d-4d1e-c5cb-558c0d3fdd0f@gmail.com>"
-    },
-    {
-      "businessName": "Steel T | Denver HVAC",
-      "email": "info@steelt.com",
-      "city": "Denver",
-      "subject": "quick question regarding Steel T | Denver HVAC's operations in Denver",
-      "timestamp": "2026-10-15T18:10:07.422Z",
-      "messageId": "<a720f996-649e-8a16-c400-a42da6a34176@gmail.com>"
-    },
-    {
-      "businessName": "Mountain Breeze Heating & Air, Inc.",
-      "email": "admin@mountainbreezeheatingandair.com",
-      "city": "Denver",
-      "subject": "quick question regarding Mountain Breeze Heating & Air, .'s operations in Denver",
-      "timestamp": "2026-10-15T18:10:12.283Z",
-      "messageId": "<6bd124f6-f73d-82c9-0603-c14f725dcaab@gmail.com>"
-    },
-    {
-      "businessName": "Lou’s Heating & Cooling",
-      "email": "admin@loushvac.com",
-      "city": "Denver",
-      "subject": "quick question regarding Lou’s Heating & Cooling's operations in Denver",
-      "timestamp": "2026-10-15T18:10:17.403Z",
-      "messageId": "<a0f33387-1c57-6ef3-5b52-83507e3843bb@gmail.com>"
-    },
-    {
-      "businessName": "Squeaks Services Plumbing Heating & Air - Denver",
-      "email": "workorder@squeaksservices.com",
-      "city": "Denver",
-      "subject": "quick question regarding Squeaks Services Plumbing Heating & Air - Denver's operations in Denver",
-      "timestamp": "2026-10-15T18:10:22.406Z",
-      "messageId": "<e6a12f50-c443-bed0-f208-e98bd5d7fb09@gmail.com>"
-    },
-    {
-      "businessName": "Apex Clean Air AC & Heating Repair",
-      "email": "info@apexcleanair.com",
-      "city": "Denver",
-      "subject": "quick question regarding Apex Clean Air AC & Heating Repair's operations in Denver",
-      "timestamp": "2026-10-15T18:10:28.241Z",
-      "messageId": "<e06e9de7-f87a-0cfb-4c39-d5454bd75b7f@gmail.com>"
-    },
-    {
-      "businessName": "Denver's Best Heating & AC Repair",
-      "email": "info@denversbestheatingandacrepair.com",
-      "city": "Denver",
-      "subject": "quick question regarding Denver's Best Heating & AC Repair's operations in Denver",
-      "timestamp": "2026-10-15T18:10:33.131Z",
-      "messageId": "<598c0f26-2c14-4576-cf31-57f3bc4eab46@gmail.com>"
-    },
-    {
-      "businessName": "Absolute Plumbing, Electrical, Heating & Air",
-      "email": "booking@absolutefix.com",
-      "city": "Denver",
-      "subject": "quick question regarding Absolute Plumbing, Electrical, Heating & Air's operations in Denver",
-      "timestamp": "2026-10-15T18:10:39.297Z",
-      "messageId": "<2782fdf5-847e-1307-17cf-115c76437508@gmail.com>"
-    },
-    {
-      "businessName": "UniColorado Heating & Cooling",
-      "email": "office@unicolorado.com",
-      "city": "Denver",
-      "subject": "quick question regarding UniColorado Heating & Cooling's operations in Denver",
-      "timestamp": "2026-10-15T18:10:44.733Z",
-      "messageId": "<32e0dd5c-1ae3-fa7d-4651-b58bb91e29eb@gmail.com>"
-    },
-    {
-      "businessName": "Black Rock HVAC & Plumbing",
-      "email": "example@mysite.com",
-      "city": "Denver",
-      "subject": "quick question regarding Black Rock HVAC & Plumbing's operations in Denver",
-      "timestamp": "2026-10-15T18:10:49.707Z",
-      "messageId": "<75713505-92da-92f0-9a9f-3237abd25345@gmail.com>"
-    },
-    {
-      "businessName": "All Weather HVAC Denver",
-      "email": "wweeiihhuuaanngg@gmail.com",
-      "city": "Denver",
-      "subject": "quick question regarding All Weather HVAC Denver's operations in Denver",
-      "timestamp": "2026-10-15T18:10:55.047Z",
-      "messageId": "<3545a0a5-063e-2fdd-e494-701ce07d718c@gmail.com>"
-    },
-    {
-      "businessName": "MileHi HVAC Contractor Denver CO",
-      "email": "geno@milehihvac.com",
-      "city": "Denver",
-      "subject": "quick question regarding MileHi HVAC Contractor Denver's operations in Denver",
-      "timestamp": "2026-10-15T18:11:00.041Z",
-      "messageId": "<4831824f-d36c-397a-1f9d-e56543acb9a8@gmail.com>"
-    },
-    {
-      "businessName": "All In One Home Services, LLC",
-      "email": "contact@allinonehomeservices.com",
-      "city": "Denver",
-      "subject": "quick question regarding All In One Home Services,'s operations in Denver",
-      "timestamp": "2026-10-15T18:11:05.450Z",
-      "messageId": "<b4964b83-fb53-4022-9997-dc7d0f61267f@gmail.com>"
-    },
-    {
-      "businessName": "Summit Heating A/C Plumbing & Electric",
-      "email": "inquiries@summitheatingco.com",
-      "city": "Denver",
-      "subject": "quick question regarding Summit Heating A/C Plumbing & Electric's operations in Denver",
-      "timestamp": "2026-10-15T18:11:10.893Z",
-      "messageId": "<379eca78-f6f5-8a7b-23a5-fee025cb1b60@gmail.com>"
-    },
-    {
-      "businessName": "HighPoint HVAC",
-      "email": "owen@highpoint-hvac.com",
-      "city": "Denver",
-      "subject": "quick question regarding HighPoint HVAC's operations in Denver",
-      "timestamp": "2026-10-15T18:11:16.054Z",
-      "messageId": "<ddda9fd2-17ee-da10-3662-8fa50417c34e@gmail.com>"
-    },
-    {
-      "businessName": "DALCO Heating & Air Conditioning",
-      "email": "info@dalcohvac.com",
-      "city": "Denver",
-      "subject": "quick question regarding DALCO Heating & Air Conditioning's operations in Denver",
-      "timestamp": "2026-10-15T18:11:24.217Z",
-      "messageId": "<6ae2b6ca-e7c5-792d-8ae7-f8bf802f1951@gmail.com>"
-    },
-    {
-      "businessName": "Charlotte Roofing Specialists",
-      "email": "info@charlotteroofing.com",
+      "businessName": "Charlotte Premier Roofing",
+      "email": "info@charlottepremierroofing.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Charlotte Roofing Specialists's operations in Charlotte",
-      "timestamp": "2026-10-15T18:11:31.507Z",
-      "messageId": "<4fcc818a-9d7a-6f5d-de31-3b61e082de63@gmail.com>"
+      "subject": "quick question regarding Charlotte Premier Roofing's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:13.750Z",
+      "messageId": "<6eebe618-bfff-0978-69a1-9ed9834b9d3f@gmail.com>"
     },
     {
-      "businessName": "Horizon Roofing - Charlotte",
-      "email": "info@horizonrr.com",
+      "businessName": "New Roof",
+      "email": "eaglerockroofingnc@gmail.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Horizon Roofing - Charlotte's operations in Charlotte",
-      "timestamp": "2026-10-15T18:11:39.437Z",
-      "messageId": "<27374ae7-25aa-c5d9-fb5f-b31db81e3c06@gmail.com>"
+      "subject": "quick question regarding New Roof's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:18.681Z",
+      "messageId": "<74d1058c-a63e-c0df-b22c-b8fa680cc1a6@gmail.com>"
     },
     {
-      "businessName": "Roof Medic",
-      "email": "contact@roofmedic.com",
+      "businessName": "Triumph Roofing Charlotte",
+      "email": "info@triumphroofingcharlotte.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Roof Medic's operations in Charlotte",
-      "timestamp": "2026-10-15T18:11:46.475Z",
-      "messageId": "<e42b16d1-cf87-ca39-c232-13ed2b7a5d99@gmail.com>"
+      "subject": "quick question regarding Triumph Roofing Charlotte's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:23.601Z",
+      "messageId": "<4858eb37-f3ed-3bf0-bf63-3eb74b6a346c@gmail.com>"
     },
     {
-      "businessName": "Roof Repair Specialists",
-      "email": "info@roofrepairspecialists.com",
+      "businessName": "Total Roofing Solutions LLC",
+      "email": "earl@totalroofingsolution.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Roof Repair Specialists's operations in Charlotte",
-      "timestamp": "2026-10-15T18:11:51.505Z",
-      "messageId": "<f335a100-1e7f-93ed-8649-2b028c53847b@gmail.com>"
+      "subject": "quick question regarding Total Roofing Solutions's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:28.511Z",
+      "messageId": "<7cd01d6a-579f-d058-0d1d-80ce1f2bf0db@gmail.com>"
     },
     {
-      "businessName": "Masters Roofing",
-      "email": "jeff@mastersroofinginc.com",
+      "businessName": "Taylor Roofing",
+      "email": "info@roofsbytaylor.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Masters Roofing's operations in Charlotte",
-      "timestamp": "2026-10-15T18:11:56.566Z",
-      "messageId": "<72dd573d-a375-2baa-7a65-aabfacf34973@gmail.com>"
+      "subject": "quick question regarding Taylor Roofing's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:35.343Z",
+      "messageId": "<0e10ca07-5717-6b22-3f4d-ba8437e669e8@gmail.com>"
     },
     {
-      "businessName": "Gaston Roofing LLC- Charlotte",
-      "email": "office@gastonroofing.com",
+      "businessName": "H & S Roofing & Gutter Company",
+      "email": "sales@hsroofing.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Gaston Roofing - Charlotte's operations in Charlotte",
-      "timestamp": "2026-10-15T18:12:01.717Z",
-      "messageId": "<827f97a9-8947-813a-83f6-bfef531546fe@gmail.com>"
+      "subject": "quick question regarding H & S Roofing & Gutter Company's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:40.255Z",
+      "messageId": "<1fb8e4ef-1111-141f-a557-ecfba0cefd0b@gmail.com>"
     },
     {
-      "businessName": "Charlotte Pro Roofing",
-      "email": "charlotteproroofing@gmail.com",
+      "businessName": "Priority Roofing",
+      "email": "office@priorityroofs.com",
       "city": "Charlotte",
-      "subject": "quick question regarding Charlotte Pro Roofing's operations in Charlotte",
-      "timestamp": "2026-10-15T18:12:08.033Z",
-      "messageId": "<911ec31a-ac76-24c1-b20e-118b0d2b972f@gmail.com>"
+      "subject": "quick question regarding Priority Roofing's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:45.140Z",
+      "messageId": "<6cf15a02-da7a-a055-e80c-da92953267ad@gmail.com>"
+    },
+    {
+      "businessName": "Davco Roofing and Sheet Metal, LLC",
+      "email": "info@davcoroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Davco Roofing and Sheet Metal,'s operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:50.082Z",
+      "messageId": "<7e10630d-3a9b-6767-c26c-90a8a9afa4ca@gmail.com>"
+    },
+    {
+      "businessName": "HL Construction & Roofing",
+      "email": "hlconstructionandroofing@gmail.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding HL Construction & Roofing's operations in Charlotte",
+      "timestamp": "2026-10-16T17:55:55.029Z",
+      "messageId": "<45f000bc-d789-9464-8999-444dc95a7fd5@gmail.com>"
+    },
+    {
+      "businessName": "Weatherguard Roofing & Restoration",
+      "email": "info@wgrestoration.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Weatherguard Roofing & Restoration's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:00.073Z",
+      "messageId": "<2621a1d0-d208-7491-6af4-84c6b065c18f@gmail.com>"
+    },
+    {
+      "businessName": "Canopy Roofing and Exteriors",
+      "email": "info@canopyext.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Canopy Roofing and Exteriors's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:04.966Z",
+      "messageId": "<805a50c6-04c0-3f12-22fe-74761ab25c78@gmail.com>"
+    },
+    {
+      "businessName": "TruROOF",
+      "email": "info@truroof.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding TruROOF's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:09.871Z",
+      "messageId": "<d7bdbcef-c7f2-a138-4c04-4db1c606ef48@gmail.com>"
+    },
+    {
+      "businessName": "Northline Roofing, LLC",
+      "email": "contact@northlineroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Northline Roofing,'s operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:14.826Z",
+      "messageId": "<b7814930-593e-92d6-6d79-384245892dd1@gmail.com>"
+    },
+    {
+      "businessName": "Top Flite Roofing",
+      "email": "mmk.tfr@gmail.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Top Flite Roofing's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:19.710Z",
+      "messageId": "<0c791c22-f325-6656-fe12-d9db789316b7@gmail.com>"
+    },
+    {
+      "businessName": "Gold Medal Roofing Company North Carolina",
+      "email": "contact@goldmedalroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Gold Medal Roofing Company North Carolina's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:25.610Z",
+      "messageId": "<a0a7ddbf-8997-52d1-572f-cc8af76fbff6@gmail.com>"
+    },
+    {
+      "businessName": "Baker Roofing Company",
+      "email": "contact@bakerroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Baker Roofing Company's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:30.517Z",
+      "messageId": "<409f4fee-59ae-3406-23d8-0cbb6e192368@gmail.com>"
+    },
+    {
+      "businessName": "A&W Roofing",
+      "email": "eben@eyebytes.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding A&W Roofing's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:35.767Z",
+      "messageId": "<fde99aad-ed56-c74f-4fd3-9d0d7c09c914@gmail.com>"
+    },
+    {
+      "businessName": "Crabapple Roofing Contractors, LLC",
+      "email": "info@crabappleroofing.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Crabapple Roofing Contractors,'s operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:40.647Z",
+      "messageId": "<022af456-a6eb-9e66-a2e8-8651ec8fd208@gmail.com>"
+    },
+    {
+      "businessName": "Grier Roofing, LLC",
+      "email": "info@gogrier.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Grier Roofing,'s operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:46.467Z",
+      "messageId": "<db01b28d-3bf5-c992-3b24-ca881596641e@gmail.com>"
+    },
+    {
+      "businessName": "Roof-M-All",
+      "email": "roofmall08@yahoo.com",
+      "city": "Charlotte",
+      "subject": "quick question regarding Roof-M-All's operations in Charlotte",
+      "timestamp": "2026-10-16T17:56:51.442Z",
+      "messageId": "<0232d104-df01-a53d-7c61-13908cbe20b0@gmail.com>"
+    },
+    {
+      "businessName": "Exclusive Auto Detailing and Ceramic Coating | Mobile Service",
+      "email": "charles.rosenow.b@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Exclusive Auto Detailing and Ceramic Coating | Mobile Service's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:56:56.322Z",
+      "messageId": "<1edcda6a-d931-0594-72ef-ade6beffa942@gmail.com>"
+    },
+    {
+      "businessName": "Gloss It Ceramic Coatings & PPF",
+      "email": "info@gloss-it.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Gloss It Ceramic Coatings & PPF's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:01.259Z",
+      "messageId": "<fd018180-cfed-7808-2800-f560b066b200@gmail.com>"
+    },
+    {
+      "businessName": "Tornado Mobile Detailing LLC",
+      "email": "info@tornadomobiledetailing.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Tornado Mobile Detailing's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:07.089Z",
+      "messageId": "<f58f06c1-4ae9-5654-d7fd-016671de0009@gmail.com>"
+    },
+    {
+      "businessName": "Immaculate Auto Detailing and Ceramic Coating",
+      "email": "immaculateautodetailinglv@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Immaculate Auto Detailing and Ceramic Coating's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:12.034Z",
+      "messageId": "<f87027cf-a029-674d-3561-9e2b67bd61ae@gmail.com>"
+    },
+    {
+      "businessName": "Cargo Detailing Car Detailing Las Vegas",
+      "email": "cargodetailing@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Cargo Detailing Car Detailing Las Vegas's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:16.961Z",
+      "messageId": "<5bd01367-64bf-61a5-defe-c21d6fe30f04@gmail.com>"
+    },
+    {
+      "businessName": "DETAIL CITY Las Vegas",
+      "email": "detailcityautospa@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding DETAIL CITY Las Vegas's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:22.570Z",
+      "messageId": "<d9a50f9e-8bce-b090-9f8a-9a1642cb1901@gmail.com>"
+    },
+    {
+      "businessName": "The Best Detail",
+      "email": "a2ddigitalmedia@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding The Best Detail's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:27.448Z",
+      "messageId": "<150682f7-21c9-a31d-a38c-56a32e89be00@gmail.com>"
+    },
+    {
+      "businessName": "Best Class Auto Body LLC",
+      "email": "info@bestclassautobody.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Best Class Auto Body's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:32.326Z",
+      "messageId": "<714d3fa5-c08d-87e5-773f-86109dd45633@gmail.com>"
+    },
+    {
+      "businessName": "Detailers of Las Vegas",
+      "email": "detailersoflasvegas@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Detailers of Las Vegas's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:37.212Z",
+      "messageId": "<c6eb6302-3a92-4955-8097-6f7f6573534f@gmail.com>"
+    },
+    {
+      "businessName": "Rice Auto Detailing",
+      "email": "info@website.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Rice Auto Detailing's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:42.084Z",
+      "messageId": "<037ad2b5-274d-c26d-ebb8-cb08b5e1c705@gmail.com>"
+    },
+    {
+      "businessName": "Care 4 Mobile Detailing",
+      "email": "abraham231718@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Care 4 Mobile Detailing's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:47.911Z",
+      "messageId": "<3bd52000-7dd0-a9fb-6e58-86026cb3df46@gmail.com>"
+    },
+    {
+      "businessName": "Reflectionz Detail Las Vegas & CeramicPro",
+      "email": "estimates@reflectionzdetail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Reflectionz Detail Las Vegas & CeramicPro's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:52.818Z",
+      "messageId": "<049b0d13-7f76-8e87-a8b5-7cfb621de594@gmail.com>"
+    },
+    {
+      "businessName": "Auto Master's Collision",
+      "email": "automasterscollision37@gmail.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Auto Master's Collision's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:57:57.710Z",
+      "messageId": "<7799728b-856a-f8c4-72b7-5de8ac3eb34a@gmail.com>"
+    },
+    {
+      "businessName": "Auto Collision Experts",
+      "email": "vegas@acelv.com",
+      "city": "Las Vegas",
+      "subject": "quick question regarding Auto Collision Experts's operations in Las Vegas",
+      "timestamp": "2026-10-16T17:58:02.576Z",
+      "messageId": "<d446c447-aa5b-f35a-0c4c-ec39cfac5838@gmail.com>"
     }
   ]
 }
