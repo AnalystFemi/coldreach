@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-16",
+  "lastResetDate": "2026-10-19",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Charlotte Premier Roofing",
-      "email": "info@charlottepremierroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Charlotte Premier Roofing's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:13.750Z",
-      "messageId": "<6eebe618-bfff-0978-69a1-9ed9834b9d3f@gmail.com>"
-    },
-    {
-      "businessName": "New Roof",
-      "email": "eaglerockroofingnc@gmail.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding New Roof's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:18.681Z",
-      "messageId": "<74d1058c-a63e-c0df-b22c-b8fa680cc1a6@gmail.com>"
-    },
-    {
-      "businessName": "Triumph Roofing Charlotte",
-      "email": "info@triumphroofingcharlotte.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Triumph Roofing Charlotte's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:23.601Z",
-      "messageId": "<4858eb37-f3ed-3bf0-bf63-3eb74b6a346c@gmail.com>"
-    },
-    {
-      "businessName": "Total Roofing Solutions LLC",
-      "email": "earl@totalroofingsolution.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Total Roofing Solutions's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:28.511Z",
-      "messageId": "<7cd01d6a-579f-d058-0d1d-80ce1f2bf0db@gmail.com>"
-    },
-    {
-      "businessName": "Taylor Roofing",
-      "email": "info@roofsbytaylor.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Taylor Roofing's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:35.343Z",
-      "messageId": "<0e10ca07-5717-6b22-3f4d-ba8437e669e8@gmail.com>"
-    },
-    {
-      "businessName": "H & S Roofing & Gutter Company",
-      "email": "sales@hsroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding H & S Roofing & Gutter Company's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:40.255Z",
-      "messageId": "<1fb8e4ef-1111-141f-a557-ecfba0cefd0b@gmail.com>"
-    },
-    {
-      "businessName": "Priority Roofing",
-      "email": "office@priorityroofs.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Priority Roofing's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:45.140Z",
-      "messageId": "<6cf15a02-da7a-a055-e80c-da92953267ad@gmail.com>"
-    },
-    {
-      "businessName": "Davco Roofing and Sheet Metal, LLC",
-      "email": "info@davcoroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Davco Roofing and Sheet Metal,'s operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:50.082Z",
-      "messageId": "<7e10630d-3a9b-6767-c26c-90a8a9afa4ca@gmail.com>"
-    },
-    {
-      "businessName": "HL Construction & Roofing",
-      "email": "hlconstructionandroofing@gmail.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding HL Construction & Roofing's operations in Charlotte",
-      "timestamp": "2026-10-16T17:55:55.029Z",
-      "messageId": "<45f000bc-d789-9464-8999-444dc95a7fd5@gmail.com>"
-    },
-    {
-      "businessName": "Weatherguard Roofing & Restoration",
-      "email": "info@wgrestoration.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Weatherguard Roofing & Restoration's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:00.073Z",
-      "messageId": "<2621a1d0-d208-7491-6af4-84c6b065c18f@gmail.com>"
-    },
-    {
-      "businessName": "Canopy Roofing and Exteriors",
-      "email": "info@canopyext.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Canopy Roofing and Exteriors's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:04.966Z",
-      "messageId": "<805a50c6-04c0-3f12-22fe-74761ab25c78@gmail.com>"
-    },
-    {
-      "businessName": "TruROOF",
-      "email": "info@truroof.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding TruROOF's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:09.871Z",
-      "messageId": "<d7bdbcef-c7f2-a138-4c04-4db1c606ef48@gmail.com>"
-    },
-    {
-      "businessName": "Northline Roofing, LLC",
-      "email": "contact@northlineroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Northline Roofing,'s operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:14.826Z",
-      "messageId": "<b7814930-593e-92d6-6d79-384245892dd1@gmail.com>"
-    },
-    {
-      "businessName": "Top Flite Roofing",
-      "email": "mmk.tfr@gmail.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Top Flite Roofing's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:19.710Z",
-      "messageId": "<0c791c22-f325-6656-fe12-d9db789316b7@gmail.com>"
-    },
-    {
-      "businessName": "Gold Medal Roofing Company North Carolina",
-      "email": "contact@goldmedalroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Gold Medal Roofing Company North Carolina's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:25.610Z",
-      "messageId": "<a0a7ddbf-8997-52d1-572f-cc8af76fbff6@gmail.com>"
-    },
-    {
-      "businessName": "Baker Roofing Company",
-      "email": "contact@bakerroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Baker Roofing Company's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:30.517Z",
-      "messageId": "<409f4fee-59ae-3406-23d8-0cbb6e192368@gmail.com>"
-    },
-    {
-      "businessName": "A&W Roofing",
-      "email": "eben@eyebytes.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding A&W Roofing's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:35.767Z",
-      "messageId": "<fde99aad-ed56-c74f-4fd3-9d0d7c09c914@gmail.com>"
-    },
-    {
-      "businessName": "Crabapple Roofing Contractors, LLC",
-      "email": "info@crabappleroofing.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Crabapple Roofing Contractors,'s operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:40.647Z",
-      "messageId": "<022af456-a6eb-9e66-a2e8-8651ec8fd208@gmail.com>"
-    },
-    {
-      "businessName": "Grier Roofing, LLC",
-      "email": "info@gogrier.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Grier Roofing,'s operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:46.467Z",
-      "messageId": "<db01b28d-3bf5-c992-3b24-ca881596641e@gmail.com>"
-    },
-    {
-      "businessName": "Roof-M-All",
-      "email": "roofmall08@yahoo.com",
-      "city": "Charlotte",
-      "subject": "quick question regarding Roof-M-All's operations in Charlotte",
-      "timestamp": "2026-10-16T17:56:51.442Z",
-      "messageId": "<0232d104-df01-a53d-7c61-13908cbe20b0@gmail.com>"
-    },
-    {
-      "businessName": "Exclusive Auto Detailing and Ceramic Coating | Mobile Service",
-      "email": "charles.rosenow.b@gmail.com",
+      "businessName": "Aqualine Performance",
+      "email": "info@aqualineperf.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding Exclusive Auto Detailing and Ceramic Coating | Mobile Service's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:56:56.322Z",
-      "messageId": "<1edcda6a-d931-0594-72ef-ade6beffa942@gmail.com>"
+      "subject": "quick question regarding Aqualine Performance's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:44:55.548Z",
+      "messageId": "<34439966-d0f2-9b53-a2c3-5f2f91e25935@gmail.com>"
     },
     {
-      "businessName": "Gloss It Ceramic Coatings & PPF",
-      "email": "info@gloss-it.com",
+      "businessName": "Dent Guys Las Vegas",
+      "email": "dentguyslasvegas@gmail.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding Gloss It Ceramic Coatings & PPF's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:01.259Z",
-      "messageId": "<fd018180-cfed-7808-2800-f560b066b200@gmail.com>"
+      "subject": "quick question regarding Dent Guys Las Vegas's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:45:00.800Z",
+      "messageId": "<2328a972-ed2f-bda2-c191-572e84f95d93@gmail.com>"
     },
     {
-      "businessName": "Tornado Mobile Detailing LLC",
-      "email": "info@tornadomobiledetailing.com",
+      "businessName": "S&M Auto Body & Paint",
+      "email": "info@sandmautobody.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding Tornado Mobile Detailing's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:07.089Z",
-      "messageId": "<f58f06c1-4ae9-5654-d7fd-016671de0009@gmail.com>"
+      "subject": "quick question regarding S&M Auto Body & Paint's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:45:06.015Z",
+      "messageId": "<7c9502c5-3fb3-4974-4fb5-906fa2f15837@gmail.com>"
     },
     {
-      "businessName": "Immaculate Auto Detailing and Ceramic Coating",
-      "email": "immaculateautodetailinglv@gmail.com",
+      "businessName": "Caliber Collision",
+      "email": "lasvegasranchord@calibercollision.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding Immaculate Auto Detailing and Ceramic Coating's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:12.034Z",
-      "messageId": "<f87027cf-a029-674d-3561-9e2b67bd61ae@gmail.com>"
+      "subject": "quick question regarding Caliber Collision's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:45:11.653Z",
+      "messageId": "<892431bb-12e5-da51-ccf0-b8a2e6b50b58@gmail.com>"
     },
     {
-      "businessName": "Cargo Detailing Car Detailing Las Vegas",
-      "email": "cargodetailing@gmail.com",
+      "businessName": "Sin City Mobile Detailing",
+      "email": "chenowith52@gmail.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding Cargo Detailing Car Detailing Las Vegas's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:16.961Z",
-      "messageId": "<5bd01367-64bf-61a5-defe-c21d6fe30f04@gmail.com>"
+      "subject": "quick question regarding Sin City Mobile Detailing's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:45:18.196Z",
+      "messageId": "<8128902f-5802-9245-3426-d187f841c94b@gmail.com>"
     },
     {
-      "businessName": "DETAIL CITY Las Vegas",
-      "email": "detailcityautospa@gmail.com",
+      "businessName": "Collision Works LV",
+      "email": "info@collisionworkslv.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding DETAIL CITY Las Vegas's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:22.570Z",
-      "messageId": "<d9a50f9e-8bce-b090-9f8a-9a1642cb1901@gmail.com>"
+      "subject": "quick question regarding Collision Works LV's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:45:25.253Z",
+      "messageId": "<8cd8c07d-a315-5b10-c7df-219fc36c0596@gmail.com>"
     },
     {
-      "businessName": "The Best Detail",
-      "email": "a2ddigitalmedia@gmail.com",
+      "businessName": "Caliber Collision",
+      "email": "lasvegasdowntown@calibercollision.com",
       "city": "Las Vegas",
-      "subject": "quick question regarding The Best Detail's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:27.448Z",
-      "messageId": "<150682f7-21c9-a31d-a38c-56a32e89be00@gmail.com>"
+      "subject": "quick question regarding Caliber Collision's operations in Las Vegas",
+      "timestamp": "2026-10-19T19:45:31.716Z",
+      "messageId": "<07817f16-70df-c301-abe0-198ae63e7490@gmail.com>"
     },
     {
-      "businessName": "Best Class Auto Body LLC",
-      "email": "info@bestclassautobody.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Best Class Auto Body's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:32.326Z",
-      "messageId": "<714d3fa5-c08d-87e5-773f-86109dd45633@gmail.com>"
+      "businessName": "Weninger Dentistry, PLLC",
+      "email": "smile@weningerdentistry.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Weninger Dentistry, PLLC's operations in Tampa",
+      "timestamp": "2026-10-19T19:45:36.888Z",
+      "messageId": "<2e87f53a-3395-2d60-2de3-6e65d686dd60@gmail.com>"
     },
     {
-      "businessName": "Detailers of Las Vegas",
-      "email": "detailersoflasvegas@gmail.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Detailers of Las Vegas's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:37.212Z",
-      "messageId": "<c6eb6302-3a92-4955-8097-6f7f6573534f@gmail.com>"
+      "businessName": "Tampa Dentist - Terrace Smiles Dentistry",
+      "email": "business@terracesmiles.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Tampa Dentist - Terrace Smiles Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:45:42.117Z",
+      "messageId": "<5ea9f1d0-3f52-a833-3ede-d1851d8822fb@gmail.com>"
     },
     {
-      "businessName": "Rice Auto Detailing",
-      "email": "info@website.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Rice Auto Detailing's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:42.084Z",
-      "messageId": "<037ad2b5-274d-c26d-ebb8-cb08b5e1c705@gmail.com>"
+      "businessName": "McIlwain Dental Specialists",
+      "email": "records@mcilwaindentistry.com",
+      "city": "Tampa",
+      "subject": "quick question regarding McIlwain Dental Specialists's operations in Tampa",
+      "timestamp": "2026-10-19T19:45:47.588Z",
+      "messageId": "<45ea3b07-47dc-596b-6d24-735856c737ec@gmail.com>"
     },
     {
-      "businessName": "Care 4 Mobile Detailing",
-      "email": "abraham231718@gmail.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Care 4 Mobile Detailing's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:47.911Z",
-      "messageId": "<3bd52000-7dd0-a9fb-6e58-86026cb3df46@gmail.com>"
+      "businessName": "North Pointe Dental Of North Tampa",
+      "email": "npda@northpointedental.com",
+      "city": "Tampa",
+      "subject": "quick question regarding North Pointe Dental Of North Tampa's operations in Tampa",
+      "timestamp": "2026-10-19T19:45:54.304Z",
+      "messageId": "<2cee7c7a-0870-5447-7f5e-717307e8a543@gmail.com>"
     },
     {
-      "businessName": "Reflectionz Detail Las Vegas & CeramicPro",
-      "email": "estimates@reflectionzdetail.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Reflectionz Detail Las Vegas & CeramicPro's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:52.818Z",
-      "messageId": "<049b0d13-7f76-8e87-a8b5-7cfb621de594@gmail.com>"
+      "businessName": "Muscaro & Martini Dentistry",
+      "email": "info@muscaroandmartinidentistry.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Muscaro & Martini Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:45:59.826Z",
+      "messageId": "<435ef3bb-9f18-0221-57b5-0ac16b7b9a69@gmail.com>"
     },
     {
-      "businessName": "Auto Master's Collision",
-      "email": "automasterscollision37@gmail.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Auto Master's Collision's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:57:57.710Z",
-      "messageId": "<7799728b-856a-f8c4-72b7-5de8ac3eb34a@gmail.com>"
+      "businessName": "Advanced Dental Associates of Tampa Palms",
+      "email": "frontoffice@dentisttampa.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Advanced Dental Associates of Tampa Palms's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:05.083Z",
+      "messageId": "<6889253f-f5b2-b177-4e98-4ccb5b77f4ca@gmail.com>"
     },
     {
-      "businessName": "Auto Collision Experts",
-      "email": "vegas@acelv.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Auto Collision Experts's operations in Las Vegas",
-      "timestamp": "2026-10-16T17:58:02.576Z",
-      "messageId": "<d446c447-aa5b-f35a-0c4c-ec39cfac5838@gmail.com>"
+      "businessName": "Pearl Dental Dr. Rebecca Downie",
+      "email": "info@pearldentaltampa.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Pearl Dental Dr. Rebecca Downie's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:10.418Z",
+      "messageId": "<d49a44cc-be2c-db70-8aa0-8463a176d3ea@gmail.com>"
+    },
+    {
+      "businessName": "Dental Health Services",
+      "email": "dhswestshore@yahoo.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Dental Health Services's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:15.901Z",
+      "messageId": "<3f7e10f4-29fe-b25f-226c-f07fdb0af8b4@gmail.com>"
+    },
+    {
+      "businessName": "Tampa Smiles: John L. Redd II, DMD",
+      "email": "drredd@tampasmiles.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Tampa Smiles: John L. Redd II, DMD's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:21.244Z",
+      "messageId": "<0c60cc8c-1fec-ea32-e5fd-375f1a0a02a6@gmail.com>"
+    },
+    {
+      "businessName": "Dental Office of Tampa",
+      "email": "info@dentalofficeoftampa.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Dental Office of Tampa's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:26.756Z",
+      "messageId": "<445985d4-2d49-0263-1645-d05045649e62@gmail.com>"
+    },
+    {
+      "businessName": "LAF Dental Studio",
+      "email": "info@lafdentalstudio.com",
+      "city": "Tampa",
+      "subject": "quick question regarding LAF Dental Studio's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:32.108Z",
+      "messageId": "<dacc9d2d-4899-425f-32c9-17d5f9e98d3e@gmail.com>"
+    },
+    {
+      "businessName": "Flex Dental",
+      "email": "frontdesk@flex-dental.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Flex Dental's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:39.894Z",
+      "messageId": "<b43d8acb-3060-b868-de92-87b9bcfd08ed@gmail.com>"
+    },
+    {
+      "businessName": "Modern Dental Care",
+      "email": "email@email.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Modern Dental Care's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:45.513Z",
+      "messageId": "<ce6cf771-2523-50f1-f325-f10dbeba785d@gmail.com>"
+    },
+    {
+      "businessName": "Florida Special Care Dentistry",
+      "email": "tampa@drpowless.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Florida Special Care Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:50.805Z",
+      "messageId": "<b4ee8972-8ce8-b464-9aef-88be2da5dfbf@gmail.com>"
+    },
+    {
+      "businessName": "Modern Day Smiles Dentistry",
+      "email": "sheldon@moderndaysmiles.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Modern Day Smiles Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:46:56.060Z",
+      "messageId": "<9bd1cb98-6db3-7283-8118-f44a3fd4ff30@gmail.com>"
+    },
+    {
+      "businessName": "Tampa Family Health Centers",
+      "email": "tfhccustomerservice@tfhc.org",
+      "city": "Tampa",
+      "subject": "quick question regarding Tampa Family Health Centers's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:01.325Z",
+      "messageId": "<f671dced-c04f-0411-d9a2-06f3988a27f3@gmail.com>"
+    },
+    {
+      "businessName": "Dr. Nick’s White & Healthy Dentistry",
+      "email": "info@whiteandhealthy.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Dr. Nick’s White & Healthy Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:06.476Z",
+      "messageId": "<e278828d-34e0-fe37-90b1-90da6fb676b2@gmail.com>"
+    },
+    {
+      "businessName": "Giunta Dentistry Tampa",
+      "email": "matthewgiuntadmd@gmail.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Giunta Dentistry Tampa's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:11.819Z",
+      "messageId": "<ff2f43bf-8a46-aa47-98eb-b1f2dbf9fdb5@gmail.com>"
+    },
+    {
+      "businessName": "Dentistry On Swann",
+      "email": "info@dentistryonswann.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Dentistry On Swann's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:16.983Z",
+      "messageId": "<c0c117e8-bd84-b58b-5f12-bb0ba73610d5@gmail.com>"
+    },
+    {
+      "businessName": "Sunshine Creative Smiles | Anala Panchumarti, DMD",
+      "email": "doctor@sunshinecreativesmiles.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Sunshine Creative Smiles | Anala Panchumarti, DMD's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:22.224Z",
+      "messageId": "<d7ffe1ef-f0ee-ded1-b1a9-0af964e11917@gmail.com>"
+    },
+    {
+      "businessName": "Coast Dental",
+      "email": "southtampa@coastdental.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Coast Dental's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:27.436Z",
+      "messageId": "<751493c6-3722-3648-fbba-5874b704c9be@gmail.com>"
+    },
+    {
+      "businessName": "Coast Dental",
+      "email": "hydepark@coastdental.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Coast Dental's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:32.711Z",
+      "messageId": "<6c688267-6ca9-b23b-860e-a99334c5b921@gmail.com>"
+    },
+    {
+      "businessName": "EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA",
+      "email": "info@edkindental.com",
+      "city": "Tampa",
+      "subject": "quick question regarding EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:37.987Z",
+      "messageId": "<0276d156-9edd-e1dc-37ad-769b26b8bfb5@gmail.com>"
+    },
+    {
+      "businessName": "Bay Cosmetic Dentistry",
+      "email": "administration@baycosmeticdental.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Bay Cosmetic Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:43.264Z",
+      "messageId": "<eb9dd620-81da-f689-64bc-813c473c43f7@gmail.com>"
+    },
+    {
+      "businessName": "Ruppel Dentistry",
+      "email": "office@ruppeldentistry.com",
+      "city": "Tampa",
+      "subject": "quick question regarding Ruppel Dentistry's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:48.495Z",
+      "messageId": "<ce000908-a217-0b51-808a-693e7add3915@gmail.com>"
+    },
+    {
+      "businessName": "Tampa Family Health Centers",
+      "email": "tfhccustomerservice@tfhc.org",
+      "city": "Tampa",
+      "subject": "quick question regarding Tampa Family Health Centers's operations in Tampa",
+      "timestamp": "2026-10-19T19:47:53.913Z",
+      "messageId": "<1a510d07-f842-7962-e9e7-ad2c91c065aa@gmail.com>"
+    },
+    {
+      "businessName": "American Plumbing Co | Plumber in San Diego",
+      "email": "info@plumbersandiegoonline.com",
+      "city": "San Diego",
+      "subject": "quick question regarding American Plumbing  | Plumber in San Diego's operations in San Diego",
+      "timestamp": "2026-10-19T19:47:59.218Z",
+      "messageId": "<8fe1876a-5087-ad2f-7fe9-1f2f5528a57b@gmail.com>"
     }
   ]
 }

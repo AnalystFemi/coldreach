@@ -19289,11 +19289,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Aqualine Performance's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs Aqualine Performance grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Aqualine Performance's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:53:50.151Z"
+    "createdAt": "2026-10-01T11:53:50.151Z",
+    "sentAt": "2026-10-19T19:44:55.548Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855644166_838",
@@ -19399,11 +19401,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dent Guys Las Vegas's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs Dent Guys Las Vegas grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dent Guys Las Vegas's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:54:28.062Z"
+    "createdAt": "2026-10-01T11:54:28.062Z",
+    "sentAt": "2026-10-19T19:45:00.800Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855673222_843",
@@ -19465,11 +19469,13 @@
     "mxValid": true,
     "mxHost": "sandmautobody-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding S&M Auto Body & Paint's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs S&M Auto Body & Paint grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline S&M Auto Body & Paint's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:54:41.515Z"
+    "createdAt": "2026-10-01T11:54:41.515Z",
+    "sentAt": "2026-10-19T19:45:06.015Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855686317_846",
@@ -19597,11 +19603,13 @@
     "mxValid": true,
     "mxHost": "calibercollision-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Caliber Collision's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs Caliber Collision grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Caliber Collision's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:55:34.936Z"
+    "createdAt": "2026-10-01T11:55:34.936Z",
+    "sentAt": "2026-10-19T19:45:11.653Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855735147_852",
@@ -19641,11 +19649,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Sin City Mobile Detailing's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs Sin City Mobile Detailing grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Sin City Mobile Detailing's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:55:37.976Z"
+    "createdAt": "2026-10-01T11:55:37.976Z",
+    "sentAt": "2026-10-19T19:45:18.196Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855746577_854",
@@ -19773,11 +19783,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Collision Works LV's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs Collision Works LV grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Collision Works LV's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:56:22.347Z"
+    "createdAt": "2026-10-01T11:56:22.347Z",
+    "sentAt": "2026-10-19T19:45:25.253Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855784189_860",
@@ -19795,11 +19807,13 @@
     "mxValid": true,
     "mxHost": "calibercollision-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Caliber Collision's operations in Las Vegas",
     "pitchBody": "Hello there,\n\nAs Caliber Collision grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Las Vegas businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Caliber Collision's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:56:24.190Z"
+    "createdAt": "2026-10-01T11:56:24.190Z",
+    "sentAt": "2026-10-19T19:45:31.716Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855784407_861",
@@ -19971,11 +19985,13 @@
     "mxValid": true,
     "mxHost": "weningerdentistry-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Weninger Dentistry, PLLC's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Weninger Dentistry, PLLC grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Weninger Dentistry, PLLC's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:57:46.574Z"
+    "createdAt": "2026-10-01T11:57:46.574Z",
+    "sentAt": "2026-10-19T19:45:36.888Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855870044_869",
@@ -20015,11 +20031,13 @@
     "mxValid": true,
     "mxHost": "terracesmiles-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Tampa Dentist - Terrace Smiles Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Tampa Dentist - Terrace Smiles Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Tampa Dentist - Terrace Smiles Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:57:56.081Z"
+    "createdAt": "2026-10-01T11:57:56.081Z",
+    "sentAt": "2026-10-19T19:45:42.117Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855879416_871",
@@ -20081,11 +20099,13 @@
     "mxValid": true,
     "mxHost": "mcilwaindentistry-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding McIlwain Dental Specialists's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs McIlwain Dental Specialists grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline McIlwain Dental Specialists's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:58:09.606Z"
+    "createdAt": "2026-10-01T11:58:09.606Z",
+    "sentAt": "2026-10-19T19:45:47.588Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855894039_874",
@@ -20125,11 +20145,13 @@
     "mxValid": true,
     "mxHost": "mx1.paubox.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding North Pointe Dental Of North Tampa's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs North Pointe Dental Of North Tampa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline North Pointe Dental Of North Tampa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:58:18.085Z"
+    "createdAt": "2026-10-01T11:58:18.085Z",
+    "sentAt": "2026-10-19T19:45:54.304Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855902119_876",
@@ -20147,11 +20169,13 @@
     "mxValid": true,
     "mxHost": "muscaroandmartinidentistry-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Muscaro & Martini Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Muscaro & Martini Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Muscaro & Martini Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:58:22.119Z"
+    "createdAt": "2026-10-01T11:58:22.119Z",
+    "sentAt": "2026-10-19T19:45:59.826Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855908831_877",
@@ -20257,11 +20281,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Advanced Dental Associates of Tampa Palms's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Advanced Dental Associates of Tampa Palms grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Advanced Dental Associates of Tampa Palms's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:58:49.566Z"
+    "createdAt": "2026-10-01T11:58:49.566Z",
+    "sentAt": "2026-10-19T19:46:05.083Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855937192_882",
@@ -20323,11 +20349,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Pearl Dental Dr. Rebecca Downie's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Pearl Dental Dr. Rebecca Downie grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Pearl Dental Dr. Rebecca Downie's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:59:13.948Z"
+    "createdAt": "2026-10-01T11:59:13.948Z",
+    "sentAt": "2026-10-19T19:46:10.418Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855958826_885",
@@ -20367,11 +20395,13 @@
     "mxValid": true,
     "mxHost": "mta7.am0.yahoodns.net",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dental Health Services's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Dental Health Services grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dental Health Services's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:59:24.235Z"
+    "createdAt": "2026-10-01T11:59:24.235Z",
+    "sentAt": "2026-10-19T19:46:15.901Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855969103_887",
@@ -20389,11 +20419,13 @@
     "mxValid": true,
     "mxHost": "secure.komailpro.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Tampa Smiles: John L. Redd II, DMD's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Tampa Smiles: John L. Redd II, DMD grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Tampa Smiles: John L. Redd II, DMD's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T11:59:29.103Z"
+    "createdAt": "2026-10-01T11:59:29.103Z",
+    "sentAt": "2026-10-19T19:46:21.244Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790855983141_888",
@@ -20477,11 +20509,13 @@
     "mxValid": true,
     "mxHost": "smtp.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dental Office of Tampa's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Dental Office of Tampa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dental Office of Tampa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:00:10.236Z"
+    "createdAt": "2026-10-01T12:00:10.236Z",
+    "sentAt": "2026-10-19T19:46:26.756Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856015128_892",
@@ -20521,11 +20555,13 @@
     "mxValid": true,
     "mxHost": "route1.mx.cloudflare.net",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding LAF Dental Studio's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs LAF Dental Studio grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline LAF Dental Studio's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:00:22.235Z"
+    "createdAt": "2026-10-01T12:00:22.235Z",
+    "sentAt": "2026-10-19T19:46:32.108Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856028359_894",
@@ -20543,11 +20579,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Flex Dental's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Flex Dental grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Flex Dental's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:00:28.359Z"
+    "createdAt": "2026-10-01T12:00:28.359Z",
+    "sentAt": "2026-10-19T19:46:39.894Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856033186_895",
@@ -20587,11 +20625,13 @@
     "mxValid": true,
     "mxHost": "mx00.mail.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Modern Dental Care's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Modern Dental Care grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Modern Dental Care's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:00:40.202Z"
+    "createdAt": "2026-10-01T12:00:40.202Z",
+    "sentAt": "2026-10-19T19:46:45.513Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856045332_897",
@@ -20609,11 +20649,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Florida Special Care Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Florida Special Care Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Florida Special Care Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:00:45.332Z"
+    "createdAt": "2026-10-01T12:00:45.332Z",
+    "sentAt": "2026-10-19T19:46:50.805Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856050540_898",
@@ -20785,11 +20827,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Modern Day Smiles Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Modern Day Smiles Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Modern Day Smiles Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:01:21.576Z"
+    "createdAt": "2026-10-01T12:01:21.576Z",
+    "sentAt": "2026-10-19T19:46:56.060Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856093745_906",
@@ -20807,11 +20851,13 @@
     "mxValid": true,
     "mxHost": "tfhc-org.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Tampa Family Health Centers's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Tampa Family Health Centers grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Tampa Family Health Centers's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:01:33.745Z"
+    "createdAt": "2026-10-01T12:01:33.745Z",
+    "sentAt": "2026-10-19T19:47:01.325Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856104385_907",
@@ -20829,11 +20875,13 @@
     "mxValid": true,
     "mxHost": "whiteandhealthy-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dr. Nick’s White & Healthy Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Dr. Nick’s White & Healthy Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dr. Nick’s White & Healthy Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:01:44.385Z"
+    "createdAt": "2026-10-01T12:01:44.385Z",
+    "sentAt": "2026-10-19T19:47:06.476Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856113278_908",
@@ -20851,11 +20899,13 @@
     "mxValid": true,
     "mxHost": "gmail-smtp-in.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Giunta Dentistry Tampa's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Giunta Dentistry Tampa grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Giunta Dentistry Tampa's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:01:53.278Z"
+    "createdAt": "2026-10-01T12:01:53.278Z",
+    "sentAt": "2026-10-19T19:47:11.819Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856118707_909",
@@ -20873,11 +20923,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Dentistry On Swann's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Dentistry On Swann grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Dentistry On Swann's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:01:58.707Z"
+    "createdAt": "2026-10-01T12:01:58.707Z",
+    "sentAt": "2026-10-19T19:47:16.983Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856123843_910",
@@ -20895,11 +20947,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Sunshine Creative Smiles | Anala Panchumarti, DMD's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Sunshine Creative Smiles | Anala Panchumarti, DMD grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Sunshine Creative Smiles | Anala Panchumarti, DMD's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:03.843Z"
+    "createdAt": "2026-10-01T12:02:03.843Z",
+    "sentAt": "2026-10-19T19:47:22.224Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856127584_911",
@@ -20917,11 +20971,13 @@
     "mxValid": true,
     "mxHost": "coastdental-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Coast Dental's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Coast Dental grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Coast Dental's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:07.584Z"
+    "createdAt": "2026-10-01T12:02:07.584Z",
+    "sentAt": "2026-10-19T19:47:27.436Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856128274_912",
@@ -20939,11 +20995,13 @@
     "mxValid": true,
     "mxHost": "coastdental-com.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Coast Dental's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Coast Dental grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Coast Dental's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:08.274Z"
+    "createdAt": "2026-10-01T12:02:08.274Z",
+    "sentAt": "2026-10-19T19:47:32.711Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856130180_913",
@@ -20983,11 +21041,13 @@
     "mxValid": true,
     "mxHost": "aspmx.l.google.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:16.584Z"
+    "createdAt": "2026-10-01T12:02:16.584Z",
+    "sentAt": "2026-10-19T19:47:37.987Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856161692_915",
@@ -21005,11 +21065,13 @@
     "mxValid": true,
     "mxHost": "mail6.enguard.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Bay Cosmetic Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Bay Cosmetic Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Bay Cosmetic Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:41.692Z"
+    "createdAt": "2026-10-01T12:02:41.692Z",
+    "sentAt": "2026-10-19T19:47:43.264Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856166295_916",
@@ -21027,11 +21089,13 @@
     "mxValid": true,
     "mxHost": "mx1-us1.ppe-hosted.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Ruppel Dentistry's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Ruppel Dentistry grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Ruppel Dentistry's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:46.295Z"
+    "createdAt": "2026-10-01T12:02:46.295Z",
+    "sentAt": "2026-10-19T19:47:48.495Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856166778_917",
@@ -21071,11 +21135,13 @@
     "mxValid": true,
     "mxHost": "tfhc-org.mail.protection.outlook.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding Tampa Family Health Centers's operations in Tampa",
     "pitchBody": "Hello there,\n\nAs Tampa Family Health Centers grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping Tampa businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline Tampa Family Health Centers's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:02:50.230Z"
+    "createdAt": "2026-10-01T12:02:50.230Z",
+    "sentAt": "2026-10-19T19:47:53.913Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856177570_919",
@@ -21159,11 +21225,13 @@
     "mxValid": true,
     "mxHost": "mx1.hostinger.com",
     "channel": "email",
-    "status": "queued",
+    "status": "sent",
     "pitchSubject": "quick question regarding American Plumbing  | Plumber in San Diego's operations in San Diego",
     "pitchBody": "Hello there,\n\nAs American Plumbing  | Plumber in San Diego grows, operational complexity grows with it. Teams often spend valuable hours chasing leads, updating CRMs, following up on inquiries, and managing repetitive admin, while high-value opportunities slip through the cracks. Disconnected workflows create inefficiencies when they aren't built around how your team actually operates. This is where I come in.\n\nI am an AI Automation & Systems Engineer helping San Diego businesses build systems that automate lead management, instant missed-call text-back, and client follow-up operations.\n\nI'm not looking to become another vendor on your list either. I want to become the partner you delegate to without thinking twice—the one that protects the standard, ensures no lead goes unanswered, and handles 30 inquiries this month or 200 when demand ramps up.\n\nWould you be available for a quick chat this week to discuss how we can eliminate manual follow-up and streamline American Plumbing  | Plumber in San Diego's daily operations?\n\nBest regards,\nJoshua Akintayo\nAI Automation Systems Engineer\n\nSent from my iPhone",
     "serviceAngle": "AI Operations & Lead Automation",
-    "createdAt": "2026-10-01T12:03:30.455Z"
+    "createdAt": "2026-10-01T12:03:30.455Z",
+    "sentAt": "2026-10-19T19:47:59.218Z",
+    "error": null
   },
   {
     "id": "lead_harv_1790856218584_923",
