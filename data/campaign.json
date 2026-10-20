@@ -1,279 +1,279 @@
 {
   "sentToday": 34,
-  "lastResetDate": "2026-10-19",
+  "lastResetDate": "2026-10-20",
   "isSendingActive": false,
   "sentBatch": [
     {
-      "businessName": "Aqualine Performance",
-      "email": "info@aqualineperf.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Aqualine Performance's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:44:55.548Z",
-      "messageId": "<34439966-d0f2-9b53-a2c3-5f2f91e25935@gmail.com>"
-    },
-    {
-      "businessName": "Dent Guys Las Vegas",
-      "email": "dentguyslasvegas@gmail.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Dent Guys Las Vegas's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:45:00.800Z",
-      "messageId": "<2328a972-ed2f-bda2-c191-572e84f95d93@gmail.com>"
-    },
-    {
-      "businessName": "S&M Auto Body & Paint",
-      "email": "info@sandmautobody.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding S&M Auto Body & Paint's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:45:06.015Z",
-      "messageId": "<7c9502c5-3fb3-4974-4fb5-906fa2f15837@gmail.com>"
-    },
-    {
-      "businessName": "Caliber Collision",
-      "email": "lasvegasranchord@calibercollision.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Caliber Collision's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:45:11.653Z",
-      "messageId": "<892431bb-12e5-da51-ccf0-b8a2e6b50b58@gmail.com>"
-    },
-    {
-      "businessName": "Sin City Mobile Detailing",
-      "email": "chenowith52@gmail.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Sin City Mobile Detailing's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:45:18.196Z",
-      "messageId": "<8128902f-5802-9245-3426-d187f841c94b@gmail.com>"
-    },
-    {
-      "businessName": "Collision Works LV",
-      "email": "info@collisionworkslv.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Collision Works LV's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:45:25.253Z",
-      "messageId": "<8cd8c07d-a315-5b10-c7df-219fc36c0596@gmail.com>"
-    },
-    {
-      "businessName": "Caliber Collision",
-      "email": "lasvegasdowntown@calibercollision.com",
-      "city": "Las Vegas",
-      "subject": "quick question regarding Caliber Collision's operations in Las Vegas",
-      "timestamp": "2026-10-19T19:45:31.716Z",
-      "messageId": "<07817f16-70df-c301-abe0-198ae63e7490@gmail.com>"
-    },
-    {
-      "businessName": "Weninger Dentistry, PLLC",
-      "email": "smile@weningerdentistry.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Weninger Dentistry, PLLC's operations in Tampa",
-      "timestamp": "2026-10-19T19:45:36.888Z",
-      "messageId": "<2e87f53a-3395-2d60-2de3-6e65d686dd60@gmail.com>"
-    },
-    {
-      "businessName": "Tampa Dentist - Terrace Smiles Dentistry",
-      "email": "business@terracesmiles.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Tampa Dentist - Terrace Smiles Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:45:42.117Z",
-      "messageId": "<5ea9f1d0-3f52-a833-3ede-d1851d8822fb@gmail.com>"
-    },
-    {
-      "businessName": "McIlwain Dental Specialists",
-      "email": "records@mcilwaindentistry.com",
-      "city": "Tampa",
-      "subject": "quick question regarding McIlwain Dental Specialists's operations in Tampa",
-      "timestamp": "2026-10-19T19:45:47.588Z",
-      "messageId": "<45ea3b07-47dc-596b-6d24-735856c737ec@gmail.com>"
-    },
-    {
-      "businessName": "North Pointe Dental Of North Tampa",
-      "email": "npda@northpointedental.com",
-      "city": "Tampa",
-      "subject": "quick question regarding North Pointe Dental Of North Tampa's operations in Tampa",
-      "timestamp": "2026-10-19T19:45:54.304Z",
-      "messageId": "<2cee7c7a-0870-5447-7f5e-717307e8a543@gmail.com>"
-    },
-    {
-      "businessName": "Muscaro & Martini Dentistry",
-      "email": "info@muscaroandmartinidentistry.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Muscaro & Martini Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:45:59.826Z",
-      "messageId": "<435ef3bb-9f18-0221-57b5-0ac16b7b9a69@gmail.com>"
-    },
-    {
-      "businessName": "Advanced Dental Associates of Tampa Palms",
-      "email": "frontoffice@dentisttampa.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Advanced Dental Associates of Tampa Palms's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:05.083Z",
-      "messageId": "<6889253f-f5b2-b177-4e98-4ccb5b77f4ca@gmail.com>"
-    },
-    {
-      "businessName": "Pearl Dental Dr. Rebecca Downie",
-      "email": "info@pearldentaltampa.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Pearl Dental Dr. Rebecca Downie's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:10.418Z",
-      "messageId": "<d49a44cc-be2c-db70-8aa0-8463a176d3ea@gmail.com>"
-    },
-    {
-      "businessName": "Dental Health Services",
-      "email": "dhswestshore@yahoo.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Dental Health Services's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:15.901Z",
-      "messageId": "<3f7e10f4-29fe-b25f-226c-f07fdb0af8b4@gmail.com>"
-    },
-    {
-      "businessName": "Tampa Smiles: John L. Redd II, DMD",
-      "email": "drredd@tampasmiles.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Tampa Smiles: John L. Redd II, DMD's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:21.244Z",
-      "messageId": "<0c60cc8c-1fec-ea32-e5fd-375f1a0a02a6@gmail.com>"
-    },
-    {
-      "businessName": "Dental Office of Tampa",
-      "email": "info@dentalofficeoftampa.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Dental Office of Tampa's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:26.756Z",
-      "messageId": "<445985d4-2d49-0263-1645-d05045649e62@gmail.com>"
-    },
-    {
-      "businessName": "LAF Dental Studio",
-      "email": "info@lafdentalstudio.com",
-      "city": "Tampa",
-      "subject": "quick question regarding LAF Dental Studio's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:32.108Z",
-      "messageId": "<dacc9d2d-4899-425f-32c9-17d5f9e98d3e@gmail.com>"
-    },
-    {
-      "businessName": "Flex Dental",
-      "email": "frontdesk@flex-dental.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Flex Dental's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:39.894Z",
-      "messageId": "<b43d8acb-3060-b868-de92-87b9bcfd08ed@gmail.com>"
-    },
-    {
-      "businessName": "Modern Dental Care",
-      "email": "email@email.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Modern Dental Care's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:45.513Z",
-      "messageId": "<ce6cf771-2523-50f1-f325-f10dbeba785d@gmail.com>"
-    },
-    {
-      "businessName": "Florida Special Care Dentistry",
-      "email": "tampa@drpowless.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Florida Special Care Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:50.805Z",
-      "messageId": "<b4ee8972-8ce8-b464-9aef-88be2da5dfbf@gmail.com>"
-    },
-    {
-      "businessName": "Modern Day Smiles Dentistry",
-      "email": "sheldon@moderndaysmiles.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Modern Day Smiles Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:46:56.060Z",
-      "messageId": "<9bd1cb98-6db3-7283-8118-f44a3fd4ff30@gmail.com>"
-    },
-    {
-      "businessName": "Tampa Family Health Centers",
-      "email": "tfhccustomerservice@tfhc.org",
-      "city": "Tampa",
-      "subject": "quick question regarding Tampa Family Health Centers's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:01.325Z",
-      "messageId": "<f671dced-c04f-0411-d9a2-06f3988a27f3@gmail.com>"
-    },
-    {
-      "businessName": "Dr. Nick’s White & Healthy Dentistry",
-      "email": "info@whiteandhealthy.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Dr. Nick’s White & Healthy Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:06.476Z",
-      "messageId": "<e278828d-34e0-fe37-90b1-90da6fb676b2@gmail.com>"
-    },
-    {
-      "businessName": "Giunta Dentistry Tampa",
-      "email": "matthewgiuntadmd@gmail.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Giunta Dentistry Tampa's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:11.819Z",
-      "messageId": "<ff2f43bf-8a46-aa47-98eb-b1f2dbf9fdb5@gmail.com>"
-    },
-    {
-      "businessName": "Dentistry On Swann",
-      "email": "info@dentistryonswann.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Dentistry On Swann's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:16.983Z",
-      "messageId": "<c0c117e8-bd84-b58b-5f12-bb0ba73610d5@gmail.com>"
-    },
-    {
-      "businessName": "Sunshine Creative Smiles | Anala Panchumarti, DMD",
-      "email": "doctor@sunshinecreativesmiles.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Sunshine Creative Smiles | Anala Panchumarti, DMD's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:22.224Z",
-      "messageId": "<d7ffe1ef-f0ee-ded1-b1a9-0af964e11917@gmail.com>"
-    },
-    {
-      "businessName": "Coast Dental",
-      "email": "southtampa@coastdental.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Coast Dental's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:27.436Z",
-      "messageId": "<751493c6-3722-3648-fbba-5874b704c9be@gmail.com>"
-    },
-    {
-      "businessName": "Coast Dental",
-      "email": "hydepark@coastdental.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Coast Dental's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:32.711Z",
-      "messageId": "<6c688267-6ca9-b23b-860e-a99334c5b921@gmail.com>"
-    },
-    {
-      "businessName": "EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA",
-      "email": "info@edkindental.com",
-      "city": "Tampa",
-      "subject": "quick question regarding EDKIN Dental Ion Rotaru DMD & Miguel A Lopez Jr DMD PA's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:37.987Z",
-      "messageId": "<0276d156-9edd-e1dc-37ad-769b26b8bfb5@gmail.com>"
-    },
-    {
-      "businessName": "Bay Cosmetic Dentistry",
-      "email": "administration@baycosmeticdental.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Bay Cosmetic Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:43.264Z",
-      "messageId": "<eb9dd620-81da-f689-64bc-813c473c43f7@gmail.com>"
-    },
-    {
-      "businessName": "Ruppel Dentistry",
-      "email": "office@ruppeldentistry.com",
-      "city": "Tampa",
-      "subject": "quick question regarding Ruppel Dentistry's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:48.495Z",
-      "messageId": "<ce000908-a217-0b51-808a-693e7add3915@gmail.com>"
-    },
-    {
-      "businessName": "Tampa Family Health Centers",
-      "email": "tfhccustomerservice@tfhc.org",
-      "city": "Tampa",
-      "subject": "quick question regarding Tampa Family Health Centers's operations in Tampa",
-      "timestamp": "2026-10-19T19:47:53.913Z",
-      "messageId": "<1a510d07-f842-7962-e9e7-ad2c91c065aa@gmail.com>"
-    },
-    {
-      "businessName": "American Plumbing Co | Plumber in San Diego",
-      "email": "info@plumbersandiegoonline.com",
+      "businessName": "Courtesy Plumbing Inc.",
+      "email": "info@courtesyplumbing.com",
       "city": "San Diego",
-      "subject": "quick question regarding American Plumbing  | Plumber in San Diego's operations in San Diego",
-      "timestamp": "2026-10-19T19:47:59.218Z",
-      "messageId": "<8fe1876a-5087-ad2f-7fe9-1f2f5528a57b@gmail.com>"
+      "subject": "quick question regarding Courtesy Plumbing .'s operations in San Diego",
+      "timestamp": "2026-10-20T18:25:02.673Z",
+      "messageId": "<764c8d3e-3dc9-9bad-29e8-832725a32632@gmail.com>"
+    },
+    {
+      "businessName": "All American Plumbing Inc.",
+      "email": "allamericanplumbingsd@gmail.com",
+      "city": "San Diego",
+      "subject": "quick question regarding All American Plumbing .'s operations in San Diego",
+      "timestamp": "2026-10-20T18:25:07.521Z",
+      "messageId": "<57511fb0-1c3c-a065-fb33-c386c2be29eb@gmail.com>"
+    },
+    {
+      "businessName": "Fraser Plumbing of San Diego",
+      "email": "info@fraserplumbinginc.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Fraser Plumbing of San Diego's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:12.419Z",
+      "messageId": "<8093fcb3-1ed4-59dd-51c5-62335d429afd@gmail.com>"
+    },
+    {
+      "businessName": "Black Mountain Plumbing",
+      "email": "hcp@blackmountainplumbing.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Black Mountain Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:17.371Z",
+      "messageId": "<9d831595-cb84-c80d-99a9-d7bf8bca8542@gmail.com>"
+    },
+    {
+      "businessName": "Almco Plumbing & Drain Services San Diego",
+      "email": "office@almcoplumbing.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Almco Plumbing & Drain Services San Diego's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:22.254Z",
+      "messageId": "<2efde227-f189-cb7a-5f6e-efe413d9e8bf@gmail.com>"
+    },
+    {
+      "businessName": "Core Plumbing",
+      "email": "info@coreplumbingsd.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Core Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:27.155Z",
+      "messageId": "<d724a3d9-ca9a-1b30-3e1a-9a28e5729591@gmail.com>"
+    },
+    {
+      "businessName": "Perry Plumbing & Pipelining",
+      "email": "info@perryplumbingco.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Perry Plumbing & Pipelining's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:31.987Z",
+      "messageId": "<0880efeb-b8f5-f490-d873-cc61aff91a93@gmail.com>"
+    },
+    {
+      "businessName": "Frankie's Plumbing",
+      "email": "info@frankiesplumbing.us",
+      "city": "San Diego",
+      "subject": "quick question regarding Frankie's Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:36.957Z",
+      "messageId": "<e6e8c040-ed99-b99c-f274-1e68a0a0da5c@gmail.com>"
+    },
+    {
+      "businessName": "Ascend Plumbing - San Diego CA",
+      "email": "contact@ascendplumbing.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Ascend Plumbing - San Diego CA's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:41.799Z",
+      "messageId": "<b8a03ee4-0b54-72f8-94d8-b4fe04fb972c@gmail.com>"
+    },
+    {
+      "businessName": "HomePro Plumbing and Drains",
+      "email": "info@homeproplumbingsd.com",
+      "city": "San Diego",
+      "subject": "quick question regarding HomePro Plumbing and Drains's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:46.735Z",
+      "messageId": "<91d149da-42af-bc69-a40a-c439b48b2438@gmail.com>"
+    },
+    {
+      "businessName": "United Plumbing Heating Air & Electric",
+      "email": "unitedwestand95@yahoo.com",
+      "city": "San Diego",
+      "subject": "quick question regarding United Plumbing Heating Air & Electric's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:51.634Z",
+      "messageId": "<d0076a7e-ee14-65e4-e427-ec904131f8ff@gmail.com>"
+    },
+    {
+      "businessName": "Ideal Plumbing Heating Air Electrical",
+      "email": "ideal@idealservice.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Ideal Plumbing Heating Air Electrical's operations in San Diego",
+      "timestamp": "2026-10-20T18:25:56.756Z",
+      "messageId": "<ab937581-6202-229b-aba3-3960bcd60602@gmail.com>"
+    },
+    {
+      "businessName": "PlumbTech",
+      "email": "plumber@plumbtechpros.com",
+      "city": "San Diego",
+      "subject": "quick question regarding PlumbTech's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:01.688Z",
+      "messageId": "<9aa9afdc-a788-d81a-f9a2-b57694a12bbb@gmail.com>"
+    },
+    {
+      "businessName": "Trustworthy Plumbing",
+      "email": "info@trustworthyplumbingsd.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Trustworthy Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:06.567Z",
+      "messageId": "<e3968b61-c593-a9fc-b5a2-029e06cf2b60@gmail.com>"
+    },
+    {
+      "businessName": "Elite Rooter Plumbers",
+      "email": "service@eliterootermgt.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Elite Rooter Plumbers's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:11.434Z",
+      "messageId": "<33a4a549-6dda-3dca-2e9d-5d13a21c1c30@gmail.com>"
+    },
+    {
+      "businessName": "JG Water Heaters, Filtration and Plumbing",
+      "email": "support@jgwaterheaters.com",
+      "city": "San Diego",
+      "subject": "quick question regarding JG Water Heaters, Filtration and Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:16.403Z",
+      "messageId": "<eff3ea82-d01b-dd7b-f3c6-42c74c7cc181@gmail.com>"
+    },
+    {
+      "businessName": "RDZ Plumbing And Drains",
+      "email": "admin@rdzplumbing.com",
+      "city": "San Diego",
+      "subject": "quick question regarding RDZ Plumbing And Drains's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:21.384Z",
+      "messageId": "<50e1d0f1-62f0-e6aa-03de-cbf57fede270@gmail.com>"
+    },
+    {
+      "businessName": "Plumbing Tree",
+      "email": "info@plumbingtreesd.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Plumbing Tree's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:26.206Z",
+      "messageId": "<11e93fa5-eff3-75e5-9f06-7ddb513d5191@gmail.com>"
+    },
+    {
+      "businessName": "Arrow Plumbing and Drain Services Inc.",
+      "email": "info@arrowplumbingservice.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Arrow Plumbing and Drain Services .'s operations in San Diego",
+      "timestamp": "2026-10-20T18:26:31.267Z",
+      "messageId": "<65ceb8b4-6ae8-244f-1f24-42fb0aab95a3@gmail.com>"
+    },
+    {
+      "businessName": "Jakobsen Plumbing",
+      "email": "officesd@jakobsenplumbing.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Jakobsen Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:36.187Z",
+      "messageId": "<b1cf8a22-c453-bb89-d024-1264128c70f7@gmail.com>"
+    },
+    {
+      "businessName": "Urban San Diego Plumbing Solutions",
+      "email": "info@urbansandiegoplumbingsolutions.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Urban San Diego Plumbing Solutions's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:41.146Z",
+      "messageId": "<e636fd79-cb38-5128-62da-d8de46ab2c41@gmail.com>"
+    },
+    {
+      "businessName": "Clear Vision Plumbing",
+      "email": "info@clearvisionplumbing.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Clear Vision Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:46.054Z",
+      "messageId": "<dc2eafd3-1d27-0257-4f48-1bbb676882a8@gmail.com>"
+    },
+    {
+      "businessName": "Cali's Choice Plumbing & Restoration - 24 Hour Emergency Plumber",
+      "email": "jane@email.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Cali's Choice Plumbing & Restoration - 24 Hour Emergency Plumber's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:50.991Z",
+      "messageId": "<371c4f96-90d3-b4d4-3745-66f120932208@gmail.com>"
+    },
+    {
+      "businessName": "Able Plumbing & Drain Service",
+      "email": "plumber92123@gmail.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Able Plumbing & Drain Service's operations in San Diego",
+      "timestamp": "2026-10-20T18:26:55.941Z",
+      "messageId": "<52e63f1f-ecd9-9a6b-4857-89fee5800980@gmail.com>"
+    },
+    {
+      "businessName": "Solid Plumbing & Drains Inc",
+      "email": "solidplumbingdrains@gmail.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Solid Plumbing & Drains's operations in San Diego",
+      "timestamp": "2026-10-20T18:27:00.833Z",
+      "messageId": "<19df569b-97c9-6bce-920b-e87321daba60@gmail.com>"
+    },
+    {
+      "businessName": "True Plumbing",
+      "email": "info@trueplumbing.co",
+      "city": "San Diego",
+      "subject": "quick question regarding True Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:27:05.658Z",
+      "messageId": "<8cf736fc-1e2e-88e9-db70-f4610dc578b0@gmail.com>"
+    },
+    {
+      "businessName": "Lefty’s Plumbing",
+      "email": "rt.leftys@gmail.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Lefty’s Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:27:10.697Z",
+      "messageId": "<d125f859-6155-f70c-940f-3b8026148bd2@gmail.com>"
+    },
+    {
+      "businessName": "Emory Plumbing",
+      "email": "info@myemory.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Emory Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:27:15.662Z",
+      "messageId": "<807375fe-2f7c-fb5c-3d88-6579a9cae843@gmail.com>"
+    },
+    {
+      "businessName": "Tyler James Plumbing",
+      "email": "tylerjamesplumbingllc@gmail.com",
+      "city": "San Diego",
+      "subject": "quick question regarding Tyler James Plumbing's operations in San Diego",
+      "timestamp": "2026-10-20T18:27:21.259Z",
+      "messageId": "<0cda4b98-d5b6-2176-c334-8d045bb2ff36@gmail.com>"
+    },
+    {
+      "businessName": "Glick Roofing Systems LLC",
+      "email": "info@glickroofing.com",
+      "city": "Nashville",
+      "subject": "quick question regarding Glick Roofing Systems's operations in Nashville",
+      "timestamp": "2026-10-20T18:27:26.170Z",
+      "messageId": "<f19f1919-a195-ed68-b872-9b1720e96e43@gmail.com>"
+    },
+    {
+      "businessName": "TALTEK Commercial Roofing",
+      "email": "sales@taltekroofing.com",
+      "city": "Nashville",
+      "subject": "quick question regarding TALTEK Commercial Roofing's operations in Nashville",
+      "timestamp": "2026-10-20T18:27:31.009Z",
+      "messageId": "<9e22464e-cd1b-4111-aa0c-f59318a85238@gmail.com>"
+    },
+    {
+      "businessName": "MidSouth Construction",
+      "email": "info@midsouthconstruction.net",
+      "city": "Nashville",
+      "subject": "quick question regarding MidSouth Construction's operations in Nashville",
+      "timestamp": "2026-10-20T18:27:35.894Z",
+      "messageId": "<e4c4affe-b95c-fa54-aae5-3980dec7de3e@gmail.com>"
+    },
+    {
+      "businessName": "Southern Roofing Co.",
+      "email": "info@srctn.com",
+      "city": "Nashville",
+      "subject": "quick question regarding Southern Roofing .'s operations in Nashville",
+      "timestamp": "2026-10-20T18:27:41.272Z",
+      "messageId": "<702244de-02ac-070e-9f26-a98b98e95c30@gmail.com>"
+    },
+    {
+      "businessName": "RSS-Nashville, Inc.",
+      "email": "info@rssnashville.com",
+      "city": "Nashville",
+      "subject": "quick question regarding RSS-Nashville, .'s operations in Nashville",
+      "timestamp": "2026-10-20T18:27:47.011Z",
+      "messageId": "<7cd6ffe6-d619-9b99-112f-7acb169eb0de@gmail.com>"
     }
   ]
 }
