@@ -1,5 +1,82 @@
 [
   {
+    "id": "log_1792607498761",
+    "leadId": "lead_harv_1790856720182_998",
+    "businessName": "Priority Roofing",
+    "recipient": "office@priorityroofs.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:38.761Z",
+    "subject": "quick question regarding Priority Roofing's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <fdadb216-e7d0-7dad-e8c5-c8c9fe2e91b3@gmail.com>)"
+  },
+  {
+    "id": "log_1792607493455",
+    "leadId": "lead_harv_1790856699725_996",
+    "businessName": "Phoenix Roofing and Renovations",
+    "recipient": "office@phoenixrnr.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:33.455Z",
+    "subject": "quick question regarding Phoenix Roofing and Renovations's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <48b5d67e-aee1-11da-0379-c160a75bbcd3@gmail.com>)"
+  },
+  {
+    "id": "log_1792607487099",
+    "leadId": "lead_harv_1790856693296_995",
+    "businessName": "US Commercial Roofing",
+    "recipient": "contact@uscommercialroofing.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:27.099Z",
+    "subject": "quick question regarding US Commercial Roofing's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <3651a709-0fb2-2360-4775-440e987e82aa@gmail.com>)"
+  },
+  {
+    "id": "log_1792607480782",
+    "leadId": "lead_harv_1790856673682_992",
+    "businessName": "Mr. Roof Nashville",
+    "recipient": "smile@mrroof.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:20.782Z",
+    "subject": "quick question regarding Mr. Roof Nashville's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <7b5fbbd0-5e5c-16ea-0e81-12a2c7e9101f@gmail.com>)"
+  },
+  {
+    "id": "log_1792607475419",
+    "leadId": "lead_harv_1790856662764_991",
+    "businessName": "Nashville Roofing Company",
+    "recipient": "info@nashvilleroofingco.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:15.419Z",
+    "subject": "quick question regarding Nashville Roofing Company's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <9262dfca-cd88-4848-d4a1-3d83cc488c95@gmail.com>)"
+  },
+  {
+    "id": "log_1792607470043",
+    "leadId": "lead_harv_1790856661144_990",
+    "businessName": "Ragan Roofing",
+    "recipient": "info@raganroofing.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:10.043Z",
+    "subject": "quick question regarding Ragan Roofing's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <a06c9838-c1ee-2905-d32f-364d86a6b0de@gmail.com>)"
+  },
+  {
+    "id": "log_1792607464710",
+    "leadId": "lead_harv_1790856656436_989",
+    "businessName": "Nashville Roofing Company",
+    "recipient": "info@nashvilleroofingco.com",
+    "channel": "email",
+    "status": "success",
+    "timestamp": "2026-10-21T18:31:04.710Z",
+    "subject": "quick question regarding Nashville Roofing Company's operations in Nashville",
+    "notes": "Delivered via Gmail SMTP (MessageId: <e6bd738d-3ffd-0b4a-a2a2-88e17d90e2e7@gmail.com>)"
+  },
+  {
     "id": "log_1792520867011",
     "leadId": "lead_harv_1790856639340_985",
     "businessName": "RSS-Nashville, Inc.",
