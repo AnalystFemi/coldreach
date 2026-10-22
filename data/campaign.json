@@ -1,63 +1,6 @@
 {
-  "sentToday": 7,
-  "lastResetDate": "2026-10-21",
+  "sentToday": 0,
+  "lastResetDate": "2026-10-22",
   "isSendingActive": false,
-  "sentBatch": [
-    {
-      "businessName": "Nashville Roofing Company",
-      "email": "info@nashvilleroofingco.com",
-      "city": "Nashville",
-      "subject": "quick question regarding Nashville Roofing Company's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:04.710Z",
-      "messageId": "<e6bd738d-3ffd-0b4a-a2a2-88e17d90e2e7@gmail.com>"
-    },
-    {
-      "businessName": "Ragan Roofing",
-      "email": "info@raganroofing.com",
-      "city": "Nashville",
-      "subject": "quick question regarding Ragan Roofing's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:10.043Z",
-      "messageId": "<a06c9838-c1ee-2905-d32f-364d86a6b0de@gmail.com>"
-    },
-    {
-      "businessName": "Nashville Roofing Company",
-      "email": "info@nashvilleroofingco.com",
-      "city": "Nashville",
-      "subject": "quick question regarding Nashville Roofing Company's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:15.419Z",
-      "messageId": "<9262dfca-cd88-4848-d4a1-3d83cc488c95@gmail.com>"
-    },
-    {
-      "businessName": "Mr. Roof Nashville",
-      "email": "smile@mrroof.com",
-      "city": "Nashville",
-      "subject": "quick question regarding Mr. Roof Nashville's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:20.782Z",
-      "messageId": "<7b5fbbd0-5e5c-16ea-0e81-12a2c7e9101f@gmail.com>"
-    },
-    {
-      "businessName": "US Commercial Roofing",
-      "email": "contact@uscommercialroofing.com",
-      "city": "Nashville",
-      "subject": "quick question regarding US Commercial Roofing's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:27.099Z",
-      "messageId": "<3651a709-0fb2-2360-4775-440e987e82aa@gmail.com>"
-    },
-    {
-      "businessName": "Phoenix Roofing and Renovations",
-      "email": "office@phoenixrnr.com",
-      "city": "Nashville",
-      "subject": "quick question regarding Phoenix Roofing and Renovations's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:33.455Z",
-      "messageId": "<48b5d67e-aee1-11da-0379-c160a75bbcd3@gmail.com>"
-    },
-    {
-      "businessName": "Priority Roofing",
-      "email": "office@priorityroofs.com",
-      "city": "Nashville",
-      "subject": "quick question regarding Priority Roofing's operations in Nashville",
-      "timestamp": "2026-10-21T18:31:38.761Z",
-      "messageId": "<fdadb216-e7d0-7dad-e8c5-c8c9fe2e91b3@gmail.com>"
-    }
-  ]
+  "sentBatch": []
 }
